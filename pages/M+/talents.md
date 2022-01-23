@@ -26,10 +26,10 @@ JoL will bring you a lot of passive healing throughput since your casting Judgem
 **T30**
 Blinding Light
 
-You should always pick this talent in every other dungeon. This will allow you to cc uninterruptable cast like Buckling Rampage in Mistsor just mass interrup multiple mobs.
+You should always pick this talent in every dungeon. This will allow you to cc uninterruptable cast like Buckling Rampage in Mists or just mass interrup multiple mobs.
 
 
-Repentance
+or Repentance
 
 This talent is only used for CCing the mages on second boss Necrotic Wake so you can ignore playing them completly.
 
