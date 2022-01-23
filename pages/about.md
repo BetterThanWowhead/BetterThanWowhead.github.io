@@ -13,6 +13,5 @@ If you have a question about him or else, just send write me ingame.
 **may u needs ✨**
 
 - {{ site.author.email }}
-- battletag
-- discord tag
+- discord tag: Skånerost#5248
 - raiderio
