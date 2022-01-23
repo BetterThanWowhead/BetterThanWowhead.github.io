@@ -15,3 +15,4 @@ If you have a question about him or else, just send write me ingame.
 - {{ site.author.email }}
 - battletag
 - discord tag
+- raiderio
