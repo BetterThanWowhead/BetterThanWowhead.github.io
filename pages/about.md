@@ -1,5 +1,5 @@
 ---
-title: Colophon
+title: Skånerost
 permalink: /about/
 layout: page
 excerpt: Hello peeps.
@@ -8,9 +8,10 @@ comments: false
 
 Hello peeps.
 
-If you have a question about him or else, just send a letter to him.
+If you have a question about him or else, just send write me ingame.
 
 **may u needs ✨**
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- battletag
+- discord tag

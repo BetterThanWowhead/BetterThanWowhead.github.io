@@ -165,21 +165,14 @@
         {%- assign menus = site.data.menus -%}
         {%- if menus %}
           {%- for menu in menus -%} 
-            {%- if url == menu.url -%}
-              <a class="menu-link active" href="{{ menu.url }}">{{ menu.title }}</a>
-            {%- else -%} 
-              {%- if menu.external -%}
-                <a
-                  class="menu-link"
-                  href="{{ menu.url }}"
-                  target="_blank"
-                  rel="noopener"
-                  >{{ menu.title }}</a
-                >
-              {%- else -%}
+              <div class="dropdown">
                 <a class="menu-link" href="{{ menu.url }}">{{ menu.title }}</a>
-              {%- endif -%} 
-            {%- endif -%} 
+                <div class="dropdown-content">
+                  {%- for item in menu.subfolderitems -%} 
+                    <a href="{{ item.url }}">{{ item.title }}</a>
+                  {%- endfor -%}
+                </div>
+              </div>
           {%- endfor -%}
         {%- else -%}
           <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">M+</a>
