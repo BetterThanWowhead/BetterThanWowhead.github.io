@@ -14,46 +14,47 @@ layout: post
 ### **Let’s talk about talents.**
 
 **T15**
-
 Light’s Hammer
+
 Crusader’s Might loses value since we’re not running Glimmer of Light or Shock Barrier as Venthyr. Light’s Hammer will not bring much healing but a solid amount of Damage.
 
 **T25**
-
 Judgement of Light
+
 JoL will bring you a lot of passive healing throughput since your casting Judgement on cooldown in m+.
 
 **T30**
-
 Repentance
+
 This talent is only used for CCing the mages on second boss Necrotic Wake so you can ignore playing them completly.
 
-Blinding Light
+or Blinding Light
+
 You should always pick this talent in every other dungeon. This will allow you to cc uninterruptable cast like Buckling Rampage in Mistsor just mass interrup multiple mobs.
 
 **T35**
-
 Unbreakable Spirit
+
 this talent is a absolute must in m+ due to how often we should be using our defensive abilities. Turning Divine Shield into a 3.5 minute cooldown also means we can treat it more like a Healing/Damage Cooldown instead of saving it just for an emergency.
 
 **T40**
-
 Holy Avenger
+
 This is a very powerfull cooldown which will increase your holy power generation by 3x. You can either use this to force proc wings to get throught difficoult parts of the dungeons. You can also pair it with Avenging Wrath for Damage.
 
 **T45**
-
 Awakening
+
 This talent scales very well with haste and will provide you with the most constant throughput.
 
 **T50**
-
 Beacon of Faith
+
 BoF will help you a lot with aoe healing, and synergises very well with the anima power Self Embalming Kit, You wanna putt your second beacon on a squishy dps and funnel beacon healing from healing yourself.
 
 This will be your go to build for high keys as venthyr.
 
-### **Gear**
+### **Gearing**
 
 ### **Stat priority:**
 
