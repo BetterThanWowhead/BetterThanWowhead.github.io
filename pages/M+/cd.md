@@ -13,7 +13,7 @@ The key to managing your cooldowns in a m+ dungeon is knowing the route and the 
 
  **Hakkar the Soulflayer:**
 
- You generally wan't to have Aura Mastery on the first barrier to get one more usage later in the fight, also can use short defensives like Divine Protection and have it back up for third, sixth and so on. Bubble + Blessing of Sacrifice can be used if your group falls behind on killing the adds, you can also Hammer of Justice them and Blessing of Protection the fixate to mitigate damage.
+ You generally wan't to have Aura Mastery on the first barrier to get one more usage later in the fight, also can use short defensives like Divine Protection and have it back up for third, sixth and so on. Bubble + Blessing of Sacrifice can be used if your group falls behind on killing the adds and a Blood Barrier is about to happen. You can also Hammer of Justice them and Blessing of Protection the fixate to mitigate damage.
 
 **Dealer Xy'exa:**
 
@@ -27,8 +27,13 @@ Since pressing the bombs is a healer job on this fight, keybinding mouseover int
 
 **Mueh'Zala:**
 
-There's two ways to play this boss, you either one phase or two phase it. If your group decides to one phase, you typically wanna hold your wings for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you wanna dispel one player on Cosmic Collapse, you can also use Aura Mastery on one to mitigate damage.
+There's two ways to play this boss, you either one phase or you two phase it. If your group decides to one phase, you typically wanna hold your wings for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you wanna dispel one player on Cosmic Collapse, you can also use Aura Mastery on one to mitigate damage.
 
 ### **Sanguine Depths:**
 ---
 **Kryxis:**
+
+If you're a new holy paladin player you might find yourself having a hard time on this boss fight. You wanna make sure to split your cooldowns and have something for every wave of orbs for example, Ashen + Wings for first wave, Aura Mastery + Holy Avenger for second wave and lastly Bubble + Blessing of Sacrifice for third wave. If your group happens to have a more optimised composition like a Rogue and a Mage, you could Bubble + Blessing of Sacrifice, Cloak and Ice Block one wave which will make the boss fight significantly easier.
+
+**Executor Tarvold:**
+
