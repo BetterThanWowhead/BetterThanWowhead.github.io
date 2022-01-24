@@ -48,7 +48,7 @@ This fight is pretty stright forward, you can avoid getting the debuff by using 
 
 **Important trash mechanics to use Blessing of Protection or Freedom on:**
 
-**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your dps gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the debuff intentionally to help your tank (but make sure he's aware your going to do it).
+**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your dps gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the debuff intentionally to help your tank (but make sure he's aware your about to do it).
 
 **Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Using Blessing of Protection will mitigate a lot of this damage.
 
@@ -59,3 +59,12 @@ This fight is pretty stright forward, you can avoid getting the debuff by using 
 ### **Plaguefall**
 ---
 
+**Globgrog:**
+
+**Doctor ickus:**
+
+**Domina Venomblade:**
+
+**Margrave stradama:**
+
+**Important trash mechanics to use Blessing of Protection or Freedom on:**
