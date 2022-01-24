@@ -44,11 +44,11 @@ Collecting orbs good and rotating immunities is the thing that will make the big
 
 **General Kaal:**
 
-This fight is pretty stright forward, you can avoid getting the debuff by using Door of Shadows or Divine Steed. If you see a player is about to get 2 stacks of the debuff you can use Blessing of Protection to clear and immune the charge hit. Keep in mind that the shield clears all bleeds so you ideally do not wan't to use Blessing of Protection before Gloom Squall, or any sort of immunity in general.
+This fight is pretty stright forward, you can avoid getting the bleed by using Door of Shadows or Divine Steed. If you see a player is about to get 2 stacks of the debuff you can use Blessing of Protection to clear and immune the charge hit. Keep in mind that the shield clears all bleeds so you ideally do not wan't to use Blessing of Protection before Gloom Squall, or any sort of immunity in general.
 
 **Important trash mechanics to use Blessing of Protection or Freedom on:**
 
-**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your dps gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the debuff intentionally to help your tank (but make sure he's aware your about to do it).
+**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your dps gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
 
 **Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Using Blessing of Protection will mitigate a lot of this damage.
 
