@@ -10,7 +10,7 @@ layout: post
 The most important part to success in m+ is knowing how to play around your cooldowns and where to use them properly.
 
 ### **Healing Cooldowns.**
-
+---
 #### **Avenging Wrath**
 is by far our strongest cooldown learning how to play around this will make the biggest difference in your gameplay.
 
@@ -42,7 +42,7 @@ This will restore 20k of your health pool and should be used frequently whenever
 
 
 ### **Quick Playstyle.**
-			
+---
 Here you can see what your playstyle should look like in Mythic+, use the following cheat sheet:
 
 1. Use Holy Shock on cooldown (either for healing or damage).

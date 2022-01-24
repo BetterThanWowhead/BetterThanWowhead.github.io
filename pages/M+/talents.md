@@ -56,7 +56,7 @@ BoF will help you a lot with aoe healing, and synergises very well with the anim
 This will be your go to build for high keys as venthyr.
 
 ### **Gearing**
-
+---
 ### **Stat priority:**
 
 Intellect > Haste > Versatility > Crit > Mastery.
@@ -83,7 +83,7 @@ Mad Paragon will be your best legendary for Venthyr as it will greatly increase 
 Shock Barrier is our strongest healing legendary in m+ and are also 100% passive, This would be your legendary if you wan’t more healing.
 
 ### **On use Trinkets.**
-
+---
 [Soulletting Ruby](https://www.wowhead.com/item=178809/soulletting-ruby?bonus=6805:1472)
 This is a very strong on use trinket since it lines up with wings(Do not keybind this into wings) since you wanna use it on a low health target whenever you can.
 
@@ -99,7 +99,7 @@ Is your strongest passive trinket since it provides you the most amount of stats
 Will be your second best passive trinket if you dont have Ocular Gland because it provides you with either Haste or Crit (deepnding on your food buff) you should ideally have it sett to Haste at all time because if you get the proc inside your Ashen Hallow you will gain some more ticks.
 
 ### **Soulbinds.**
-
+---
 You go to soulbind should be theotar since its the highest damage soulbind for your entire grp because Wastelands Propreity also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
 
 Your setup should look something like this [Thetotar Soulbind.](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/paladin/Awa-774CBS1ECBUtdAgSBTD0CCUwEAgiFStjCDUsqgg) You should change Echoing Blessing for Pure Concentration conduit for Mists of Tirna Scithe because you will reduce the fear effect on first boss by one second if your conduit is maxed out. And also play Wrench Evil instead of Echoing Blessing for Necrotic Wake and Plaguefall.

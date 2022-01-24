@@ -9,7 +9,7 @@ layout: post
 The key to managing your cooldowns in a m+ dungeon is knowing the route and the dangerous parts of the dungeon. Once you know these areas you can start using your wings more aggressively and your overall throughput will increase significantly. The biggest thing you wan't to be aware of is overlapping cooldowns. So if you use wings you ideally don’t want to use Aura Mastery or Bubble if its not necessary. It’s important to use your entire utility kit as that's where our strength lies, so let's talk about cooldown usage in the dungeons.
 
 ### **De Other Side:**
-
+---
 
  **Hakkar the Soulflayer:**
 
@@ -28,3 +28,7 @@ Since pressing the bombs is a healer job on this fight, keybinding mouseover int
 **Mueh'Zala:**
 
 There's two ways to play this boss, you either one phase or two phase. If your group decides to one phase, you typically wanna hold your wings for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you wanna dispel one player on every debuff, you can also Aura Mastery one to mitigate damage.
+
+### **Sanguine Depths:**
+---
+**Kryxis:**
