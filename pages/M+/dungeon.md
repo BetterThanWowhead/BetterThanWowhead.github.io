@@ -11,31 +11,31 @@ The most important part to success in m+ is knowing how to play around your cool
 
 ### **Healing Cooldowns.**
 
-**Avenging Wrath**
+#### **Avenging Wrath**
 is by far our strongest cooldown learning how to play around this will make the biggest difference in your gameplay.
 
-**Ashen Hallow**
+#### **Ashen Hallow**
 is a very strong Healing and Damage cooldown, which might be hard to get value out of in m+ pugs since you need to pull very aggresivly around it whenever you have it available.
 
-**Holy Avenger**
+#### **Holy Avenger**
 is a very strong Healing cooldown can also be used for Damage if your not in need of a extra throughput cooldown in between your Ashen Hallows.
 
-**Aura Mastery**
+#### **Aura Mastery**
 is one of the strongest healer cooldowns. And should NEVER be underestimated, this is your best tool to handle large incoming AoE damage spikes but could also be used for tank damage mitigation.
 
-**Blessing of Sacrifice**
+#### **Blessing of Sacrifice**
 This will save you a ton of healing globals and should be used as frequently as possible on your tank whenever you dont have Avenging Wrath.
 
-**Divine Shield**
+#### **Divine Shield**
 With Unbreakable Spirit talent is a 3.5min cooldown, and can be used many ways such as taunting tank hits, dps cooldown or the most important to make AoE healing easier to deal with. Combining SaC + Bubble is very good.
 
-**Blessing of Protection**
+#### **Blessing of Protection**
 Knowing when BoP will save more keys then you could imagine. This can be used to clear Necrotic stacks, immuning certain dangerous boss mechanics, or removing dangerous debuffs / stuns, BoP is an extremely strong cooldown.
 
-**Lay on Hands**
+#### **Lay on Hands**
 Lay on Hands is off GCD and our big instant emergency heal. You shouldn’t hesitate to use this.
 
-**Cosmic Healing Potion**
+#### **Cosmic Healing Potion**
 This will restore 20k of your health pool and should be used frequently whenever you're in critical danger.
 
 
