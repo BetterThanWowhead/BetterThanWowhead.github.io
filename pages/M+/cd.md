@@ -1,5 +1,5 @@
 ---
-title: M+
+title:
 permalink: /M+/cd
 layout: post
 ---

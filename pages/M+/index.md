@@ -1,5 +1,5 @@
 ---
-title: Mythic +
+title:
 permalink: /M+/
 layout: post
 ---
