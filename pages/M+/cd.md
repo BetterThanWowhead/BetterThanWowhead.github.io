@@ -40,6 +40,22 @@ The most important thing to do on this boss is thinking ahead of time and tracki
 
 **Grand Proctor Beryllia:**
 
+Collecting orbs good and rotating immunities is the thing that will make the biggest difference on this boss. You ideally want to use Aura Mastery on the first Rite of Supremacy late to have the damage reduction rolling for the Endless Torment aswell, the second Endless Torment you would use Holy Avenger, third is Bubble + Blessing of Sacrifice on your most squishy dps and lastly Ashen Hallow + Wings. This being said you can still use Wings on pull and have it back up for the forth Endless Torment also depending on your group composition and route you might have to play differently.
+
 **General Kaal:**
 
-**Noticable trash pack mechanics to use Blessing of Protection and Freedom on:**
+This fight is pretty stright forward, you can avoid getting the debuff by using Door of Shadows or Divine Steed. If you see a player is about to get 2 stacks of the debuff you can use Blessing of Protection to clear and immune the charge hit. Keep in mind that the shield clears all bleeds so you ideally do not wan't to use Blessing of Protection before Gloom Squall, or any sort of immunity in general.
+
+**Important trash mechanics to use Blessing of Protection or Freedom on:**
+
+**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your dps gets hit meanwhile your tank are kiting this will fully immune the damage and clear the debuff. You can also soak the debuff intentionally to help your tank (but make sure he's aware your going to do it).
+
+**Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Using Blessing of Protection will mitigate a lot of this damage.
+
+**Grand Overseer's Dread Bindings:** You can pre Freedom this mechanic and you won't have to run out to break the chain.
+
+**Depths Warden's Barbed Shackles:** This ability should be interrupted but if it would happen to go through use Freedom immediately.
+
+### **Plaguefall**
+---
+
