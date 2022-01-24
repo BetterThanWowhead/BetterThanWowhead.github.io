@@ -33,7 +33,7 @@ There's two ways to play this boss, you either one phase or you two phase it. If
 ---
 **Kryxis:**
 
-If you're a new holy paladin player you might find yourself having a hard time on this boss fight. You wanna make sure to split your cooldowns and have something for every wave of orbs for example, Ashen + Wings for first wave, Aura Mastery + Holy Avenger for second wave and lastly Bubble + Blessing of Sacrifice for third wave. If your group happens to have a more optimised composition like a Rogue and a Mage, you could Bubble + Blessing of Sacrifice, Cloak and Ice Block one wave which will make the boss fight significantly easier.
+If you're a new holy paladin player you might find yourself having a hard time on this boss fight. You wanna make sure to split your cooldowns and have something for every wave of orbs for example, Ashen + Wings for first wave, Aura Mastery + Holy Avenger for second wave and lastly Bubble + Blessing of Sacrifice for third wave. If your group happens to have a more optimised composition like a Rogue and a Mage, you could Bubble + Blessing of Sacrifice, Cloak and Ice Block one wave which will make the boss fight significantly easier. If your grp is not healthy before a Juggernaut Rush you can always use Blessing of Protection on the targeted target and let him solo soak.
 
 **Executor Tarvold:**
 
