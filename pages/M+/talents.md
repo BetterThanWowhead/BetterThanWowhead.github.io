@@ -1,18 +1,9 @@
 ---
-title: M+
+title: Talents and Gearing.
 permalink: /M+/talents
 layout: post
+
 ---
-
-# Table of Contents
-
-1. [Talents](#Talents)
-2. [Gear](#gear)
-
-# Talents
-
-### **Let’s talk about talents.**
-
 **T15**
 Light’s Hammer
 

@@ -1,10 +1,8 @@
 ---
-title:
+title: How to use your cooldowns?
 permalink: /M+/cd
 layout: post
 ---
-
-### **How to use your cooldowns?**
 
 The key to managing your cooldowns in a m+ dungeon is knowing the route and the dangerous parts of the dungeon. Once you know these areas you can start using your wings more aggressively and your overall throughput will increase significantly. The biggest thing you wan't to be aware of is overlapping cooldowns. So if you use wings you ideally don’t want to use Aura Mastery or Bubble if its not necessary. It’s important to use your entire utility kit as that's where our strength lies, so let's talk about cooldown usage in the dungeons.
 
