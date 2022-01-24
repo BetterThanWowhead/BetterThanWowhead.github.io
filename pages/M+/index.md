@@ -6,7 +6,7 @@ layout: post
 
 # Overview
 
-In this guide you'll find everything you need to know to become the next upcoming Mona Lisa of Holy Paladins.
+In this guide you'll find everything you need to know to become the Mona Lisa of Holy Paladins.
 
 ## What makes Holy Paladin a strong pick in m+ currently?
 
