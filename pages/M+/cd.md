@@ -34,6 +34,7 @@ There's two ways to play this boss, you either one phase or you two phase it. If
 If you're a new holy paladin player you might find yourself having a hard time on this boss fight. You wan't too make sure to split your cooldowns and have something for every wave of orbs for example, Ashen + Wings for first wave, Aura Mastery + Holy Avenger for second wave and lastly Bubble + Blessing of Sacrifice for third wave. If your group happens to have a more optimised composition like a Rogue and a Mage, you could Bubble + Blessing of Sacrifice, Cloak and Ice Block one wave which will make the boss fight significantly easier. If your grp is not healthy before a Juggernaut Rush you can always use Blessing of Protection on the targeted target and let him solo soak.
 
 **Executor Tarvold:**
+
 The most important thing to do on this boss is thinking ahead of time and tracking your dps players damage cooldowns, also knowing when the dangerous Castigate and add overlap happens (first one will happen on the second add spawn) make sure the targeted player uses a immunity or if they don't have one, use Blessing of Sacrifice on them. You generally wan't to use Wings + Ashen Hallow at start of fight since you will have 10 stacks of the damage buff this will cover the first add no damage mitigation cooldowns should be used here. Second add would most likely be Bubble + Blessing of Sacrifice since its a overlap, Third add would be Holy Avenger + Aura Mastery.
 
 
