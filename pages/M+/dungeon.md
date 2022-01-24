@@ -1,5 +1,5 @@
 ---
-title: M+
+title: Dungeon Playstyle
 permalink: /M+/dungeon
 layout: post
 ---
