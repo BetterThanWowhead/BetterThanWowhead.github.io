@@ -17,7 +17,7 @@ The key to managing your cooldowns in a m+ dungeon is knowing the route and the 
 
 **Dealer Xy'exa:**
 
-The key to kill this boss is managing the lightning properly, pass it between your tank, tankiest dps and yourself, Pooling holy power for the lighting will make this boss fight easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use Blessing of Sacrifice immediately or Aura Mastery if Blessing of Sacrifice is not available. If you get the overlap then bubble, if you get the overlap multiple times you either need a slow fall from your mage (if you have one) or you're most likely dead.
+The key to kill this boss is managing the lightning properly, pass it between your tank, tankiest dps and yourself, Pooling holy power for the lighting will make this boss fight easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use Blessing of Sacrifice immediately. If you get the overlap then bubble, make sure to rotate your own personals for the overlap if you get it multiple times Divine Protection, Aura Mastery or Bubble you can also ask for a slow fall to mitigate the fall damage (if you have a mage). [Soul Treads](https://www.wowhead.com/spell=323609/soul-treads) these boots enchant will reduce your fall damage by 10%.
 
 **The Manastorms:**
 
@@ -27,7 +27,7 @@ Since pressing the bombs is a healer job on this fight, keybinding mouseover int
 
 **Mueh'Zala:**
 
-There's two ways to play this boss, you either one phase or two phase. If your group decides to one phase, you typically wanna hold your wings for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you wanna dispel one player on every debuff, you can also Aura Mastery one to mitigate damage.
+There's two ways to play this boss, you either one phase or two phase it. If your group decides to one phase, you typically wanna hold your wings for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you wanna dispel one player on Cosmic Collapse, you can also use Aura Mastery on one to mitigate damage.
 
 ### **Sanguine Depths:**
 ---
