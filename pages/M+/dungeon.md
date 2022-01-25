@@ -46,7 +46,7 @@ Lay on Hands is off GCD and our big instant emergency heal. You shouldn’t hesi
 
 This will restore 20k of your health pool and should be used frequently whenever you're in critical danger.
 
-<a href="#" data-wowhead="spell=20473"></a> hai
+
 
 ### **Quick Playstyle.**
 
@@ -54,22 +54,22 @@ This will restore 20k of your health pool and should be used frequently whenever
 
 Here you can see what your playstyle should look like in Mythic+, use the following cheat sheet:
 
-1. Use Holy Shock on cooldown (either for healing or damage).
-2. Use Crusader Strike (If talented to Crusaders Might) to reset cooldown of Holy Shock.
-3. Spend Holy power on Word of Glory or Light of Dawn if your not in wings otherwhise use Shield of the Righteous.
-4. Keep Consecration down all the time.
-5. Cast Hammer of Wrath on cooldown when available.
-6. Cast Judgement on cooldown.
-7. Use Light of the Martyr if you need to do healing (assuming you dont have Holy Shock or enough holy power).
-8. Fill empty GCDs with Holy Light on Beacon target if you need healing otherwhise redrop Consecration
+1. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>on cooldown (either for healing or damage).
+2. Use <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> (If talented to <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wowhead="spell=196926"></a>) to reset cooldown of <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>.
+3. Spend Holy power on <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> if your not inside of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> otherwhise use <a href="#" data-wowhead="spell=53600"></a>.
+4. Keep <a href="#" data-wowhead="spell=26573"></a> Consecration down all the time.
+5. Cast <a href="#" data-wowhead="spell=20473"></a> Hammer of Wrath on cooldown when available.
+6. Cast <a href="#" data-wowhead="spell=20473"></a> Judgement on cooldown.
+7. Use <a href="#" data-wowhead="spell=20473"></a> Light of the Martyr if you need to do healing (assuming you dont have <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> Holy Shock or enough holy power).
+8. Fill empty GCDs with <a href="#" data-wowhead="spell=20473"></a> Holy Light on Beacon target if you need healing otherwhise redrop <a href="#" data-wowhead="spell=26573"></a> Consecration
 
 **Single Target Priority.**
 
-Hammer of Wrath (when available) > Judgement (if inside wings) > Holy Shock > Consecration > Crusader Strike > Shield of the Righteous (if inside wings) otherwhise Word of Glory or Light of Dawn.
+Hammer of Wrath (when available) > Judgement (if inside <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> wings) > <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> Holy Shock > Consecration > <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> Crusader Strike > Shield of the Righteous (if inside <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> wings) otherwhise <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> Word of Glory or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> Light of Dawn.
 
 **AoE Damage Priority**
 
-Consecration (if not active) > Hammer of Wrath (when available) > Holy Shock > Crusader Strike > Judgement > Shield of the Righteous (if inside wings) otherwise Word of Glory or Light of Dawn
+Consecration (if not active) > Hammer of Wrath (when available) > <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> Holy Shock > <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> Crusader Strike > Judgement > Shield of the Righteous (if inside <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> wings) otherwise <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> Word of Glory or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> Light of Dawn
 
 **Healing Cooldown Priority.**
 
@@ -77,4 +77,4 @@ Avenging Wrath > Holy Avenger > Aura Mastery > Divine Shield + Blessing of Sacri
 
 **Healing Ability Priority.**
 
-Holy Shock > Word of Glory > Crusader Strike (For Holy power Generation) > Judgement (If Judgement of Light Talented) > Light of the Martyr (Assuming you don’t have Holy Shock or Enough Holy Power AND if someone is in critical danger) > Holy Light on beacon target (If you have Infusion of Light proc) Otherwhise cast Flash of Light.
+<a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> Holy Shock > Word of Glory > Crusader Strike (For Holy power Generation) > <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> Judgement (If <a href="https://www.wowhead.com/spell=183778/judgment-of-light" data-wowhead="spell=183778"></a> Judgement of Light Talented) > Light of the Martyr (Assuming you don’t have <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> Holy Shock or Enough Holy Power AND if someone is in critical danger) > Holy Light on beacon target (If you have Infusion of Light proc) Otherwhise cast Flash of Light.
