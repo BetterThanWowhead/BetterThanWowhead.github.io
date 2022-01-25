@@ -23,7 +23,7 @@ Devotion Aura is a 3% passive DR and 15% on use, which is one of the strongest h
 
 ### **Utility.**
 
-Paladin utility is one of the strongest and most game changing one in the game when used correctly.
+Paladin brings insanely strong and game changing utility when used correctly.
 
 ## Weaknesses.
 ---
