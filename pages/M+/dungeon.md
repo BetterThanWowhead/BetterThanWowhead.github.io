@@ -55,19 +55,12 @@ This will restore 20k of your health pool and should be used frequently whenever
 Here you can see what your playstyle should look like in Mythic+, use the following cheat sheet:
 
 1. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown (either for healing or damage).
-
 2. Use <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> (If talented to <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wowhead="spell=196926"></a>) to reset cooldown of <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>.
-
 3. Spend Holy power on <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> if your not inside of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> otherwhise use <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a>.
-
 4. Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> down all the time.
-
 5. Cast <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown when available.
-
 6. Cast <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> on cooldown.
-
 7. Use <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> if you need to do healing (assuming you dont have <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> or enough holy power).
-
 8. Fill empty GCDs with <a href="https://www.wowhead.com/spell=82326/holy-light" data-wowhead="spell=82326"></a> on <a href="https://www.wowhead.com/spell=53563/beacon-of-light" data-wowhead="spell=53563"></a> target if you need healing otherwhise redrop <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a>.
 
 **Single Target Priority.**
@@ -76,7 +69,7 @@ Here you can see what your playstyle should look like in Mythic+, use the follow
 
 **AoE Damage Priority**
 
-<a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> (if not active) > Hammer of Wrath (when available) > <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> > <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> Crusader Strike > Judgement > Shield of the Righteous (if inside <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> wings) otherwise <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> Word of Glory or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a>.
+<a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> (if not active) > Hammer of Wrath (when available) > <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> > <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> > Judgement > Shield of the Righteous (if inside <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> wings) otherwise <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> Word of Glory or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a>.
 
 **Healing Cooldown Priority.**
 
