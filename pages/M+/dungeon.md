@@ -108,8 +108,8 @@ or
 **Healing Ability Priority.**
 
 <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>
-\> Word of Glory 
-\> Crusader Strike (For Holy power Generation) 
+\> <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a>
+\> <a href="https://www.wowhead.com/spell=283637/crusader-strike" data-wowhead="spell=283637"></a> (For Holy power Generation) 
 \> <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> (If <a href="https://www.wowhead.com/spell=183778/judgment-of-light" data-wowhead="spell=183778"></a> talented) 
-\> Light of the Martyr (Assuming you don’t have <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> or enough holy power AND if someone is in critical danger) 
+\> <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> (Assuming you don’t have <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> or enough holy power AND if someone is in critical danger) 
 \> <a href="https://www.wowhead.com/spell=82326/holy-light" data-wowhead="spell=82326"></a> on <a href="https://www.wowhead.com/spell=53563/beacon-of-light" data-wowhead="spell=53563"></a> (If you have <a href="https://www.wowhead.com/spell=53576/infusion-of-light" data-wowhead="spell=53576"></a>) Otherwhise cast <a href="https://www.wowhead.com/spell=19750/flash-of-light" data-wowhead="spell=19750"></a>
