@@ -75,11 +75,11 @@ The most dangerous thing on this boss to be aware of is getting multiple Shadow 
 
 **Margrave stradama:**
 
-Healing this fight can be very difficult, so its important that you play well with your cooldowns and always think ahead what cooldowns you will use on on the next Acid Rain. Dependin on your group composition you will either use Ashen Hallow in phase two or phase three, usually if you don't play with a boomkin you use Ashen Hallow in phase two. This means you would use Holy Avenger on the first Acid Rain, the second rain would be Aura Mastery (this is hopefully the last rain in phase one) Ashen + Wings should cover the second phase and no defensive cooldowns should be used here. In phase three the first rain would be Bubble + Blessing of Sacrifice and the second rain you should have Holy Avenger back up. You wan't to dispel your most squishy dps on 2 stacks, this way you get to dispel twice and will mitigate the most damage.
+Healing this fight can be very difficult, so its important that you play well with your cooldowns and always think ahead what cooldowns you will use on on the next Acid Rain. Dependin on your group composition you will either use Ashen Hallow in phase two or phase three, usually if you don't play with a boomkin you use Ashen Hallow in phase two. This means you would use Holy Avenger on the first Acid Rain, the second rain would be Aura Mastery (this is hopefully the last rain in phase one). Ashen + Wings should cover the second phase and no defensive cooldowns should be used here. In phase three the first rain would be Bubble + Blessing of Sacrifice and the second rain you should have Holy Avenger back up. You wan't to dispel your most squishy dps on 2 stacks, this way you get to dispel twice and will mitigate the most damage.
 
 **Important trash mechanics to use Blessing of Protection or Freedom on:**
 
-**Rigged Plagueborer's Wretched Phlegm:** Using freedom BEFORE the cast is finished will fully immune the damage, and can be used every second plagueborer cast.
+**Rigged Plagueborer's Wretched Phlegm:** Using freedom BEFORE the cast is finished will fully immune the damage, and can be used on every second plagueborer cast.
 
 **Slime Tentacle's Crushing Embrace:** Every now and then the tentacle will grip one of your players, you can either Hammer of Justice, Blinding Light, Freedom or use Blessing of Protection to break them free.
 
