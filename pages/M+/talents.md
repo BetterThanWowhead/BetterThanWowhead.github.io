@@ -52,7 +52,7 @@ This will be your go to build for high keys as venthyr.
 
 Intellect > Haste > Versatility > Crit > Mastery.
 
-You should always prioritise Intellect during first few tiers of a expansion, this might change later into expansion.
+You should always prioritise Intellect during first few tiers of a expansion, this might change later into the expansion.
 
 ### **Haste:**
 
@@ -113,6 +113,8 @@ Weapon: [Celestial Guidance](https://www.wowhead.com/spell=309627/celestial-guid
 Bracers: [Eternal Intellect](https://www.wowhead.com/spell=309609/eternal-intellect).
 
 Cloak: [Fortified Avoidance](https://www.wowhead.com/spell=309530/fortified-avoidance) or [Fortified Leech](https://www.wowhead.com/spell=309531/fortified-leech) you should enchant Fortified Leech until you reach the point when Avoidance can make you survive a one shot.
+
+Boots: [Soul Treads](https://www.wowhead.com/spell=323609/soul-treads) These boot enchant are useful for Dealer Xy'exa in De other Side.
 
 Weapon Oil: [Shadowcore Weapon Oil](https://www.wowhead.com/item=171285/shadowcore-oil).
 

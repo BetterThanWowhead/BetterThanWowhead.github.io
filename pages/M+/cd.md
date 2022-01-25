@@ -15,7 +15,7 @@ The key to managing your cooldowns in a m+ dungeon is knowing the route and the 
 
 **Dealer Xy'exa:**
 
-The key to kill this boss is managing the lightning properly, pass it between your tank, tankiest dps and yourself, Pooling holy power for the lighting will make this boss fight easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use Blessing of Sacrifice immediately. If you get the overlap then bubble, make sure to rotate your own personals for the overlap if you get it multiple times Divine Protection, Aura Mastery or Bubble you can also ask for a slow fall to mitigate the fall damage (if you have a mage). [Soul Treads](https://www.wowhead.com/spell=323609/soul-treads) these boots enchant will reduce your fall damage by 10%.
+The key to kill this boss is managing the lightning properly, pass it between your tank, tankiest dps and yourself, Pooling holy power for the lighting will make this boss fight easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use Blessing of Sacrifice immediately. If you get the overlap then bubble, make sure to rotate your own personals for the overlap if you get it multiple times Divine Protection, Aura Mastery or Bubble you can also ask for a slow fall to mitigate the fall damage (if you have a mage).
 
 **The Manastorms:**
 
