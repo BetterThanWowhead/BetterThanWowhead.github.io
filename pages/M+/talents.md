@@ -2,10 +2,21 @@
 title: Setup for your Paladin.
 permalink: /M+/talents
 layout: post
-
 ---
+
 **T15**
-Light’s Hammer
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/talents/1_1g.png" style="width:40%">
+  </div>
+  <div class="column">
+    <img src="/assets/img/talents/1_2g.png" style="width:40%">
+  </div>
+  <div class="column">
+    <img src="/assets/img/talents/1_3.jpg" style="width:40%">
+  </div>
+</div>
 
 Crusader’s Might loses value since we’re not running Glimmer of Light or Shock Barrier as Venthyr. Light’s Hammer will not bring much healing but a solid amount of Damage.
 
@@ -18,7 +29,6 @@ JoL will bring you a lot of passive healing throughput since your casting Judgem
 Blinding Light
 
 You should always pick this talent in every dungeon. This will allow you to cc uninterruptable cast like Buckling Rampage in Mists or just mass interrup multiple mobs.
-
 
 or Repentance
 
@@ -47,7 +57,9 @@ BoF will help you a lot with aoe healing, and synergises very well with the anim
 This will be your go to build for high keys as venthyr.
 
 ### **Gearing**
+
 ---
+
 ### **Stat priority:**
 
 Intellect > Haste > Versatility > Crit > Mastery.
@@ -56,25 +68,32 @@ You should always prioritise Intellect during first few tiers of a expansion, th
 
 ### **Haste:**
 
- is our strongest secondary because holy power generation. There’s no breakpoints or softcaps stack it until mana becomes a issue.
+is our strongest secondary because holy power generation. There’s no breakpoints or softcaps stack it until mana becomes a issue.
 
 ### **Versatility:**
 
- is our second best stat because it gives us the highest Damage/Healing throughput also provides us with a solid amount of Damage Reduction.
+is our second best stat because it gives us the highest Damage/Healing throughput also provides us with a solid amount of Damage Reduction.
+
 ### **Critical Strike:**
+
 Since we rarely use Infusion of Light procs Critical Strike loses a lot of value but still provides a decent amount of Healing/damage throughput which putts it Above Mastery.
 
-### **Mastery:** 
+### **Mastery:**
+
 Mastery is still a solid choice for raw healing throughput. But it has no effect on our damage, which in Mythic+ is the biggest part of what we do. The healing it contributes is also too deepent on comp composition and positioning.
 
 ### **Best Legendarys:**
---- 
+
+---
+
 Mad Paragon will be your best legendary for Venthyr as it will greatly increase our damage we do inside Ashen Hallow.
 
 Shock Barrier is our strongest healing legendary in m+ and are also 100% passive, This would be your legendary if you wan’t more healing.
 
 ### **On use Trinkets:**
+
 ---
+
 [Soulletting Ruby](https://www.wowhead.com/item=178809/soulletting-ruby?bonus=6805:1472)
 This is a very strong on use trinket since it lines up with wings (Do not keybind this into wings) since you wanna use it on a low health target whenever you can.
 
@@ -90,7 +109,9 @@ Is your strongest passive trinket since it provides you the most amount of stats
 Will be your second best passive trinket if you dont have Ocular Gland because it provides you with either Haste or Crit (deepnding on your food buff) you should ideally have it sett to Haste at all time.
 
 ### **Soulbinds:**
+
 ---
+
 You go to soulbind should be theotar since its the highest damage soulbind for your entire grp because Wastelands Propreity also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
 
 Your setup should look something like this [Thetotar Soulbind.](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/paladin/Awa-774CBS1ECBUtdAgSBTD0CCUwEAgiFStjCDUsqgg) You should change Echoing Blessing for Pure Concentration conduit for Mists of Tirna Scithe because you will reduce the fear effect on first boss by one second if your conduit is maxed out. And also play Wrench Evil instead of Echoing Blessing for Necrotic Wake and Plaguefall.
@@ -99,10 +120,11 @@ If you pug 24+ keys you can also play General Draven as a soulbind this will pro
 
 Your setup should look something like this [General Draven Soulbind.](https://www.wowhead.com/soulbind-calc/venthyr/general-draven/paladin/AwaWb5YCFS1ECCUtdAgSBTD0CCUwEAghBStjCA)
 
-
 ### **Enchant and Gems:**
+
 ---
-Ring: 
+
+Ring:
 [Tenet of Haste](https://www.wowhead.com/spell=309617/tenet-of-haste) or [Tenet of Versatility](https://www.wowhead.com/spell=309619/tenet-of-versatility) depending on your gear.
 
 Chest:
@@ -123,13 +145,14 @@ Armor Kit: [Heavy Desolate Armor Kit](https://www.wowhead.com/item=172347/heavy-
 Gems: [Quick Jewel Cluster](https://www.wowhead.com/item=173128/quick-jewel-cluster) or [Versatile Jewel Cluster](https://www.wowhead.com/item=173129/versatile-jewel-cluster) depending on your gear.
 
 ### **Consumables:**
+
 ---
+
 Flask: [Spectral Flask of Power](https://www.wowhead.com/item=171276/spectral-flask-of-power)
 
 Food: [Feast of Gluttonous Hedonism](https://www.wowhead.com/item=172043/feast-of-gluttonous-hedonism) or [Tenebrous Crown Roast Aspic](https://www.wowhead.com/spell=308405/tenebrous-crown-roast-aspic) if you don't wan't to spend gold on a feast.
 
 Damage Potion: [Potion of Spectral Intellect](https://www.wowhead.com/item=171273/potion-of-spectral-intellect) or [Potion of Phantom Fire](https://www.wowhead.com/item=171349/potion-of-phantom-fire) for single target (if you're kyrian).
-
 
 Mana Potion: [Spiritual Mana Potion](https://www.wowhead.com/item=171268/spiritual-mana-potion) Keep in mind this shares cooldown with invisibility potion.
 
@@ -138,7 +161,9 @@ Health Potion: [Cosmic Healing Potion](https://ptr.wowhead.com/item=187802/cosmi
 Invisibility Potion: [Potion of the Hidden Spirit](https://www.wowhead.com/item=171266/potion-of-the-hidden-spirit).
 
 ### **Professions:**
+
 ---
-Engineering: 
+
+Engineering:
 
 Having this is a absolute must as a Holy Paladin in m+, since it provides you with a battle ress [Disposable Spectrophasic Reanimator](https://www.wowhead.com/item=184308/disposable-spectrophasic-reanimator), also a useful belt enchants like [Dimensional Shifter](https://www.wowhead.com/spell=310495/dimensional-shifter) If you would run out of potions or press it accidently without thinking.

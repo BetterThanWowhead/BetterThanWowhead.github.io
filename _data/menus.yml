@@ -4,6 +4,8 @@
 - title: M+
   url: /M+/
   subfolderitems:
+    - title: Overview
+      url: /M+/
     - title: Talents/Gearing/Soulbinds
       url: /M+/talents
     - title: Cooldown management

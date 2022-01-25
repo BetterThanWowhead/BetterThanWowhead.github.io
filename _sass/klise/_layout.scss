@@ -304,6 +304,15 @@
   }
 }
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  margin-left: 60px;
+}
+
 // Footer
 .footer {
   margin-top: 8em;
