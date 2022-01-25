@@ -11,7 +11,7 @@ In this guide you'll find everything you need to know to become the Mona Lisa of
 ---
 ### **Damage.**
 
-Paladins biggest strength is our ability to do big amounts of damage on command. Our cooldowns also give us insanely high priority damage, to the point where you can keep up with most dps in your group.
+Paladins biggest strength is our ability to do big amounts of damage on command. Our cooldowns also give us insanely high priority damage.
 
 ### **Healing within cooldowns.**
 
