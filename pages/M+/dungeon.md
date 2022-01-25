@@ -24,7 +24,7 @@ is one of the strongest healer cooldowns. And should NEVER be underestimated, th
 This will save you a ton of healing globals and should be used as frequently as possible on your tank whenever you dont have Avenging Wrath.
 
 #### **Divine Shield**
-With Unbreakable Spirit talent is a 3.5min cooldown, and can be used many ways such as taunting tank hits, dps cooldown or the most important to make AoE healing easier to deal with. Combining SaC + Bubble is very good.
+With Unbreakable Spirit talent bubble is a 3.5min cooldown, and can be used many ways such as taunting tank hits or the most important to make AoE healing easier to deal with. Combining SaC + Bubble is very good.
 
 #### **Blessing of Protection**
 Knowing when BoP will save more keys then you could imagine. This can be used to clear Necrotic stacks, immuning certain dangerous boss mechanics, or removing dangerous debuffs / stuns, BoP is an extremely strong cooldown.
