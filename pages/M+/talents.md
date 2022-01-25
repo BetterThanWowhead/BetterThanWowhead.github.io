@@ -68,7 +68,7 @@ Since we rarely use Infusion of Light procs Critical Strike loses a lot of value
 Mastery is still a solid choice for raw healing throughput. But it has no effect on our damage, which in Mythic+ is the biggest part of what we do. The healing it contributes is also too deepent on comp composition and positioning.
 
 ### **Best Legendarys:**
-
+--- 
 Mad Paragon will be your best legendary for Venthyr as it will greatly increase our damage we do inside Ashen Hallow.
 
 Shock Barrier is our strongest healing legendary in m+ and are also 100% passive, This would be your legendary if you wan’t more healing.
@@ -76,7 +76,7 @@ Shock Barrier is our strongest healing legendary in m+ and are also 100% passive
 ### **On use Trinkets:**
 ---
 [Soulletting Ruby](https://www.wowhead.com/item=178809/soulletting-ruby?bonus=6805:1472)
-This is a very strong on use trinket since it lines up with wings(Do not keybind this into wings) since you wanna use it on a low health target whenever you can.
+This is a very strong on use trinket since it lines up with wings (Do not keybind this into wings) since you wanna use it on a low health target whenever you can.
 
 [Inscrutable Quantum Device](https://www.wowhead.com/item=179350/inscrutable-quantum-device?bonus=6805:1472)
 I personally prefer Quantum Device over Ruby because iqd provides you a large amount of extra burst damage in your Ashen Hallow.
