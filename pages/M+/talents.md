@@ -1,5 +1,5 @@
 ---
-title: Talents and Gearing.
+title: Setup for your Paladin.
 permalink: /M+/talents
 layout: post
 
