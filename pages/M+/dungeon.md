@@ -54,11 +54,11 @@ Here you can see what your playstyle should look like in Mythic+, use the follow
 
 **Single Target Priority.**
 
-Hammer of Wrath (when available) > Judgement > Holy Shock > Consecration > Crusader Strike >  Shield of the Righteous (if inside wings) otherwhise Word of Glory or Light of Dawn.
+Hammer of Wrath (when available) > Judgement (if inside wings) > Holy Shock > Consecration > Crusader Strike >  Shield of the Righteous (if inside wings) otherwhise Word of Glory or Light of Dawn.
 
 **AoE Damage Priority**
 
-Consecration (if not active) > Hammer of Wrath (when available) > Judgement > Holy Shock > Crusader Strike > Shield of the Righteous (if inside wings) otherwhise Word of Glory or Light of Dawn.
+Consecration (if not active) > Hammer of Wrath (when available) > Holy Shock > Crusader Strike > Judgement > Shield of the Righteous (if inside wings) otherwise Word of Glory or Light of Dawn
 
 **Healing Cooldown Priority.**
 
