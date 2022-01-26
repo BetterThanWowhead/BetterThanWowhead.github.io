@@ -5,7 +5,6 @@ layout: post
 ---
 
 **T15**
-Light’s Hammer
 
 <div class="row">
   <div class="column">
@@ -19,10 +18,19 @@ Light’s Hammer
   </div>
 </div>
 
-Crusader’s Might loses value since we’re not running Glimmer of Light or Shock Barrier as Venthyr. Light’s Hammer will not bring much healing but a solid amount of Damage.
+**Crusader's Might:**
+
+This talent loses value for venthyr holy paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+.
+
+**Bestow Faith:**
+
+I would personally not recommend playing this ever, but there is scenarios where it could be usefull for example on a grevious Sanguine Depths week. This being said the healing throughput is not a huge difference and Light's Hammer will contribute more healing in the relevant windows.
+
+**Light's Hammer:**
+
+This should be your go to talent as venthyr in every dungeon. This will provide you with a solid amount of damage.
 
 **T25**
-Judgement of Light
 
 <div class="row">
   <div class="column">
@@ -36,10 +44,19 @@ Judgement of Light
   </div>
 </div>
 
-JoL will bring you a lot of passive healing throughput since your casting Judgement on cooldown in m+.
+**Saved by the Light:**
+
+This talent should only be played if you're using Beacon of Virtue, since it will provide all your Beacon targets with a absorb shield whenever they fall below 30%.
+
+**Judgement of Light:**
+
+This is your best talent pick for any covenant, because its a very efficient healing source since your using Judgement as much as possible.
+
+**Holy Prism:**
+
+This talent just dosn't provide you enough damage or healing for it to be worth the mana cost or casting it every 20seconds.
 
 **T30**
-Blinding Light
 
 <div class="row">
   <div class="column">
@@ -53,11 +70,15 @@ Blinding Light
   </div>
 </div>
 
-You should always pick this talent in every dungeon. This will allow you to cc uninterruptable cast like Buckling Rampage in Mists or just mass interrup multiple mobs.
+**Fist of Justice:**
 
-or Repentance
+This should never be played in m+ because having a AoE disorient is more useful.
 
-This talent is only used for CCing the mages on second boss Necrotic Wake so you can ignore playing them completly.
+**Repentance:**
+
+This should only be used to CC the mages on second boss Necrotic Wake so your group can ignore playing them completly.
+
+**Blinding Light:**
 
 **T35**
 Unbreakable Spirit
