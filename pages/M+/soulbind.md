@@ -15,3 +15,7 @@ Your setup should look something like this [Thetotar Soulbind.](https://www.wowh
 If you pug 24+ keys you can also play General Draven as a soulbind this will provide you with more surivibility and similar personal damage but less grp damage.
 
 Your setup should look something like this [General Draven Soulbind.](https://www.wowhead.com/soulbind-calc/venthyr/general-draven/paladin/AwaWb5YCFS1ECCUtdAgSBTD0CCUwEAghBStjCA)
+
+<div style="text-align:right;">
+<a href="/M+/playstyle"> Playstyle ></a>
+</div>

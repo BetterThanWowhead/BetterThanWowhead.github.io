@@ -11,7 +11,8 @@ layout: post
 3. [Talents](/M+/talents)
 4. [Trinkets](/M+/trinkets)
 5. [Soulbind](/M+/soulbind)
-6. [In depth dungeon guide](/M+/cd)
+6. [Playstyle](/M+/playstyle)
+7. [In depth dungeon guide](/M+/cd)
 
 In this guide you'll find everything you need to know to become the Mona Lisa of Holy Paladins.
 
@@ -46,3 +47,7 @@ Holy Paladins biggest weakness is that we're too reliant on our cooldowns to car
 ### **Being a Melee Healer.**
 
 Being a melee healer has historically been a weakness in dungeons, because mobs with a lot of frontals or range baitable mechanics.
+
+<div style="text-align:right;">
+<a href="/M+/gearing"> Gearing ></a>
+</div>
