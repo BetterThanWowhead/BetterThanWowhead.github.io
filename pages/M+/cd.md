@@ -86,23 +86,18 @@ Collecting orbs good and rotating immunities is the thing that will make the big
 
 This fight is pretty stright forward, you can avoid getting the bleed by using <a href="https://www.wowhead.com/spell=300728/door-of-shadows" data-wowhead="spell=300728"></a> or 
 <a href="https://www.wowhead.com/spell=190784/divine-steed" data-wowhead="spell=190784"></a>. If you see a player is about to get 2 stacks of the debuff you can use 
-<a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> to clear and immune the charge hit. Keep in mind that the shield clears all bleeds so you ideally do not wan't to use 
-<a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> before Gloom Squall, or any sort of immunity in general.
+<a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> to clear and immune the charge hit. Keep in mind that the shield clears all bleeds so you ideally do not wan't to use any sort of immunity before Gloom Squall.
 
 **Important trash mechanics to use <a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> or 
 <a href="https://www.wowhead.com/spell=1044/blessing-of-freedom" data-wowhead="spell=1044"></a> on:**
 
-**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your dps gets hit meanwhile your tank are kiting, 
-<a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
+**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your dps gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
 
-**Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Using 
-<a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> will mitigate a lot of this damage.
+**Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Using Blessing of Protection will mitigate a lot of this damage.
 
-**Grand Overseer's Dread Bindings:** You can pre 
-<a href="https://www.wowhead.com/spell=1044/blessing-of-freedom" data-wowhead="spell=1044"></a> this mechanic and you won't have to run out to break the chain.
+**Grand Overseer's Dread Bindings:** You can pre use Freedom on this mechanic and you won't have to run out to break the chain.
 
-**Depths Warden's Barbed Shackles:** This ability should be interrupted but if it would happen to go through use 
-<a href="https://www.wowhead.com/spell=1044/blessing-of-freedom" data-wowhead="spell=1044"></a> immediately.
+**Depths Warden's Barbed Shackles:** This ability should be interrupted but if it would happen to go through use Freedom immediately.
 
 ### **Plaguefall**
 ---
