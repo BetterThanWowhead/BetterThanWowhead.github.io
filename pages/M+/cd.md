@@ -126,13 +126,8 @@ Only thing you have to do on this fight is using
 
 The most dangerous thing on this boss to be aware of is getting multiple Shadow Ambushes in a row, if you are very unlucky you can get 4-5 in a row and its important that you are not using your 
 <a href="https://www.wowhead.com/spell=498/divine-protection" data-wowhead="spell=498"></a> or 
-<a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> randomly. If this happens you want to 
-<a href="https://www.wowhead.com/spell=498/divine-protection" data-wowhead="spell=498"></a> the first one, you can either 
-<a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> or 
-<a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a> on the second Shadow Ambush i personally prefer to use 
-<a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> for damage, the third one would be 
-<a href="https://www.wowhead.com/spell=498/divine-protection" data-wowhead="spell=498"></a> again and lastly 
-<a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a>. When the boss summons Brood Assasins and you do not have any throughput cooldowns, you can use 
+<a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> randomly. If this happens you want to Divine Protection the first one, you can either Divine Shield or 
+<a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a> on the second Shadow Ambush i personally prefer to use Divine Shield for damage, the third one would be Divine Protection again and lastly Aura Mastery. When the boss summons Brood Assasins and you do not have any throughput cooldowns, you can use 
 <a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" data-wowhead="spell=6940"></a> on the tank.
 
 **Margrave stradama:**
