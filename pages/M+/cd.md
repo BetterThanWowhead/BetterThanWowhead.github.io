@@ -15,11 +15,17 @@ The key to managing your cooldowns in a m+ dungeon is knowing the route and the 
 
  **Hakkar the Soulflayer:**
 
- You generally wan't to have Aura Mastery on the first barrier to get one more usage later in the fight, also can use short defensives like Divine Protection and have it back up for third, sixth and so on. Bubble + Blessing of Sacrifice can be used if your group falls behind on killing the adds and a Blood Barrier is about to happen. You can also Hammer of Justice them and Blessing of Protection the fixate to mitigate damage.
+ You generally wan't to have 
+ <a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a> on the first barrier to get one more usage later in the fight, also can use short defensives like 
+ <a href="https://www.wowhead.com/spell=498/divine-protection" data-wowhead="spell=498"></a> and have it back up for third, sixth and so on. 
+ <a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> + 
+ <a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" data-wowhead="spell=6940"></a> can be used if your group falls behind on killing the adds and a Blood Barrier is about to happen. You can also 
+ <a href="https://www.wowhead.com/spell=853/hammer-of-justice" data-wowhead="spell=853"></a> them and 
+ <a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> the fixate to mitigate damage.
 
 **Dealer Xy'exa:**
 
-The key to kill this boss is managing the lightning properly, pass it between your tank, tankiest dps and yourself, Pooling holy power for the lighting will make this boss fight easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use Blessing of Sacrifice immediately. If you get the overlap then bubble, make sure to rotate your own personals for the overlap if you get it multiple times Divine Protection, Aura Mastery or Bubble you can also ask for a slow fall to mitigate the fall damage (if you have a mage).
+The key to kill this boss is managing the lightning properly, pass it between your tank, tankiest dps and yourself, Pooling holy power for the lighting will make this boss fight easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use <a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" data-wowhead="spell=6940"></a> on them immediately. If you get the overlap then <a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a>, make sure to rotate your own personals for the overlap if you get it multiple times <a href="https://www.wowhead.com/spell=498/divine-protection" data-wowhead="spell=498"></a>, Aura Mastery or <a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> you can also ask for a slow fall to mitigate the fall damage (if you have a mage).
 
 **The Manastorms:**
 
