@@ -4,29 +4,29 @@ permalink: /M+/gearing
 layout: post
 ---
 
-### **Stat priority:**
+## **Stat priority:**
 
 Intellect > Haste > Versatility > Crit > Mastery.
 
 You should always prioritise Intellect during first few tiers of a expansion, this might change later into the expansion.
 
-### **Haste:**
+**Haste:**
 
 is our strongest secondary because holy power generation. There’s no breakpoints or softcaps stack it until mana becomes a issue.
 
-### **Versatility:**
+**Versatility:**
 
 is our second best stat because it gives us the highest Damage/Healing throughput also provides us with a solid amount of Damage Reduction.
 
-### **Critical Strike:**
+**Critical Strike:**
 
 Since we rarely use Infusion of Light procs Critical Strike loses a lot of value but still provides a decent amount of Healing/damage throughput which putts it Above Mastery.
 
-### **Mastery:**
+**Mastery:**
 
 Mastery is still a solid choice for raw healing throughput. But it has no effect on our damage, which in Mythic+ is the biggest part of what we do. The healing it contributes is also too deepent on comp composition and positioning.
 
-### **Best Legendarys:**
+## **Best Legendarys**
 
 ---
 
@@ -34,7 +34,7 @@ Mad Paragon will be your best legendary for Venthyr as it will greatly increase 
 
 Shock Barrier is our strongest healing legendary in m+ and are also 100% passive, This would be your legendary if you wan’t more healing.
 
-### **Enchant and Gems:**
+## **Enchant and Gems**
 
 ---
 

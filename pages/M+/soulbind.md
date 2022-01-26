@@ -4,6 +4,9 @@ permalink: /M+/soulbind
 layout: post
 ---
 
+<div style="display: block;width: 33%; margin-left: auto;margin-top:-20%;">
+<img src="/assets/img/theotar.png" alt="">
+</div>
 You go to soulbind should be theotar since its the highest damage soulbind for your entire grp because Wastelands Propreity also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
 
 Your setup should look something like this [Thetotar Soulbind.](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/paladin/Awa-774CBS1ECBUtdAgSBTD0CCUwEAgiFStjCDUsqgg) You should change Echoing Blessing for Pure Concentration conduit for Mists of Tirna Scithe because you will reduce the fear effect on first boss by one second if your conduit is maxed out. And also play Wrench Evil instead of Echoing Blessing for Necrotic Wake and Plaguefall.

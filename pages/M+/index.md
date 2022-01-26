@@ -4,50 +4,24 @@ permalink: /M+/
 layout: post
 ---
 
+In this guide you'll find everything you need to know to become the Mona Lisa of Holy Paladins.
+
 # Table of Contents
 
 1. [Overview](/M+/)
-2. [Gearing](/M+/gearing)
-3. [Talents](/M+/talents)
-4. [Trinkets](/M+/trinkets)
-5. [Soulbind](/M+/soulbind)
-6. [Playstyle](/M+/playstyle)
-7. [In depth dungeon guide](/M+/cd)
-
-In this guide you'll find everything you need to know to become the Mona Lisa of Holy Paladins.
-
-## What makes Holy Paladin a strong pick in m+ currently?
-
----
-
-### **Damage.**
-
-Paladins biggest strength is our ability to do big amounts of damage on command. Our cooldowns also give us insanely high priority damage.
-
-### **Healing within cooldowns.**
-
-The healing we can do within our cooldown window. Which will allow your grp to pull more aggressively than they could with other healers.
-
-### **Damage Reduction.**
-
-Devotion Aura is a 3% passive DR and 15% on use, which is one of the strongest healer cooldowns in the game.
-
-### **Utility.**
-
-Paladin brings insanely strong and game changing utility when used correctly.
-
-## Weaknesses.
-
----
-
-### **Throughput outside of major cooldowns.**
-
-Holy Paladins biggest weakness is that we're too reliant on our cooldowns to carry us through difficult parts of the dungeons. The largest learning curves in dungeon healing as a paladin is learning how to manage your cooldowns properly.
-
-### **Being a Melee Healer.**
-
-Being a melee healer has historically been a weakness in dungeons, because mobs with a lot of frontals or range baitable mechanics.
+2. [General](/M+/general)
+   1. [Strengths](/M+/general/#strengths)
+   2. [Weaknesses](/M+/general/#weaknesses)
+3. [Gearing](/M+/gearing)
+   1. [Stats](/M+/general/#strengths)
+   2. [Legendary](/M+/general/#best-legendarys)
+   3. [Enchants](/M+/general/#enchant-and-gems)
+4. [Talents](/M+/talents)
+5. [Trinkets](/M+/trinkets)
+6. [Soulbind](/M+/soulbind)
+7. [Playstyle](/M+/playstyle)
+8. [In-depth dungeon guides](/M+/cd)
 
 <div style="text-align:right;">
-<a href="/M+/gearing"> Gearing ></a>
+<a href="/M+/general"> General ></a>
 </div>

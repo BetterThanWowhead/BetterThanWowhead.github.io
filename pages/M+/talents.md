@@ -1,5 +1,5 @@
 ---
-title: Setup for your Paladin.
+title: Setup for your Paladin
 permalink: /M+/talents
 layout: post
 ---
@@ -19,15 +19,12 @@ layout: post
 </div>
 
 **Crusader's Might:**
-
 This talent loses value for venthyr holy paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+.
 
 **Bestow Faith:**
-
 I would personally not recommend playing this ever, but there is scenarios where it could be usefull for example on a grevious Sanguine Depths week. This being said the healing throughput is not a huge difference and Light's Hammer will contribute more healing in the relevant windows.
 
 **Light's Hammer:**
-
 This should be your go to talent as venthyr in every dungeon. This will provide you with a solid amount of damage.
 
 **T25**
@@ -45,15 +42,12 @@ This should be your go to talent as venthyr in every dungeon. This will provide 
 </div>
 
 **Saved by the Light:**
-
 This talent should only be played if you're using Beacon of Virtue, since it will provide all your Beacon targets with a absorb shield whenever they fall below 30%.
 
 **Judgement of Light:**
-
 This is your best talent pick for any covenant, because its a very efficient healing source since your using Judgement as much as possible.
 
 **Holy Prism:**
-
 This talent just dosn't provide you enough damage or healing for it to be worth the mana cost or casting it every 20seconds.
 
 **T30**
@@ -71,11 +65,9 @@ This talent just dosn't provide you enough damage or healing for it to be worth 
 </div>
 
 **Fist of Justice:**
-
 This should never be played in m+ because having a AoE disorient is more useful.
 
 **Repentance:**
-
 This should only be used to CC the mages on second boss Necrotic Wake so your group can ignore playing them completly.
 
 **Blinding Light:**

@@ -1,5 +1,5 @@
 ---
-title: Cooldown Management.
+title: Cooldown Management
 permalink: /M+/cd
 layout: post
 ---

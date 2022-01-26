@@ -1,4 +1,4 @@
-- title: home
+- title: Home
   url: /
 
 - title: M+
@@ -6,6 +6,8 @@
   subfolderitems:
     - title: Overview
       url: /M+/
+    - title: General
+      url: /M+/general
     - title: Gearing
       url: /M+/gearing
     - title: Talents
@@ -22,7 +24,7 @@
 - title: Raid
   url: /Raid/
 
-- title: about
+- title: About
   url: /about/
 
 # Example:
