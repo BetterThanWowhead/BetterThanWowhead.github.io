@@ -4,7 +4,11 @@ permalink: /M+/cd
 layout: post
 ---
 
-The key to managing your cooldowns in a m+ dungeon is knowing the route and the dangerous parts of the dungeon. Once you know these areas you can start using your wings more aggressively and your overall throughput will increase significantly. The biggest thing you wan't to be aware of is overlapping cooldowns. So if you use wings you ideally don’t want to use Aura Mastery or Bubble if its not necessary. It’s important to use your entire utility kit as that's where our strength lies, so let's talk about cooldown usage in the dungeons.
+The key to managing your cooldowns in a m+ dungeon is knowing the route and the dangerous parts of the dungeon. Once you know these areas you can start using your 
+<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> more aggressively and your overall throughput will increase significantly. The biggest thing you wan't to be aware of is overlapping cooldowns. So if you use 
+<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> you ideally don’t want to use 
+<a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a> or 
+<a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> if its not necessary. It’s important to use your entire utility kit as that's where our strength lies, so let's talk about cooldown usage in the dungeons.
 
 ### **De Other Side:**
 ---

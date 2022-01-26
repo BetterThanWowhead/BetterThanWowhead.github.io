@@ -12,19 +12,19 @@ The most important part to success in m+ is knowing how to play around your cool
 
 #### **<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>**
 
-is by far our strongest cooldown learning how to play around this will make the biggest difference in your gameplay.
+Is by far our strongest cooldown learning how to play around this will make the biggest difference in your gameplay.
 
 #### **<a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>**
 
-is a very strong healing and damage cooldown, which might be hard to get value out of in m+ pugs since you need to pull very aggresivly around it whenever you have it available.
+Is a very strong healing and damage cooldown, which might be hard to get value out of in m+ pugs since you need to pull very aggresivly around it whenever you have it available.
 
 #### **<a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wowhead="spell=105809"></a>**
 
-is a very strong healing cooldown can also be used for damage if your not in need of a extra throughput cooldown in between your <a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>.
+Is a very strong healing cooldown can also be used for damage if your not in need of a extra throughput cooldown in between your <a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>.
 
 #### **<a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a>**
 
-is one of the strongest healer cooldowns. And should NEVER be underestimated, this is your best tool to handle large incoming AoE damage spikes but could also be used for tank damage mitigation.
+Is one of the strongest healer cooldowns. And should NEVER be underestimated, this is your best tool to handle large incoming AoE damage spikes but could also be used for tank damage mitigation.
 
 #### **<a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" data-wowhead="spell=6940"></a>**
 
