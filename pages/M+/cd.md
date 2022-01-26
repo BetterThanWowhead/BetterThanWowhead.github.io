@@ -5,8 +5,7 @@ layout: post
 ---
 
 The key to managing your cooldowns in a m+ dungeon is knowing the route and the dangerous parts of the dungeon. Once you know these areas you can start using your 
-<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> more aggressively and your overall throughput will increase significantly. The biggest thing you wan't to be aware of is overlapping cooldowns. So if you use 
-<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> you ideally don’t want to use 
+<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> more aggressively and your overall throughput will increase significantly. The biggest thing you wan't to be aware of is overlapping cooldowns. So if you use Avenging Wrath you ideally don’t want to use 
 <a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a> or 
 <a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> if its not necessary. It’s important to use your entire utility kit as that's where our strength lies, so let's talk about cooldown usage in the dungeons.
 
@@ -111,9 +110,7 @@ This fight is pretty stright forward, you can avoid getting the bleed by using <
 **Globgrog:**
 
 Healing this boss is very simple, you wanna prioritize using 
-<a href="https://www.wowhead.com/spell=4987/cleanse" data-wowhead="spell=4987"></a> on the most squishy player in your group and when 
-<a href="https://www.wowhead.com/spell=4987/cleanse" data-wowhead="spell=4987"></a> comes back off from the cooldown, you 
-<a href="https://www.wowhead.com/spell=4987/cleanse" data-wowhead="spell=4987"></a> whoever is in most danger. If someone are not topped before a plaguestomp you can use either 
+<a href="https://www.wowhead.com/spell=4987/cleanse" data-wowhead="spell=4987"></a> on the most squishy player in your group and when your dispel comes back off from the cooldown, you can dispel whoever is in most danger. If someone are not topped before a plaguestomp you can use either 
 <a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a> or 
 <a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" data-wowhead="spell=6940"></a> on them. Keep in mind that 
 <a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> will prevent the knockback and also add a 10% damage reduction if you are using the 
