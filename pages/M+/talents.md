@@ -6,6 +6,7 @@ layout: post
 
 **T15**
 
+---
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wh-icon-size="medium" data-wowhead="spell=196926"></a>
@@ -20,11 +21,11 @@ layout: post
 
 **Crusader's Might:**
 
-This talent loses value for venthyr holy paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+.
+This talent loses value for venthyr holy paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+. That being said this is still a very competitive talent pick and should definitely be played for explosive weeks.
 
 **Bestow Faith:**
 
-I would personally not recommend playing this ever, but there is scenarios where it could be usefull for example on a grevious Sanguine Depths week. This being said the healing throughput is not a huge difference and Light's Hammer will contribute more healing in the relevant windows.
+I would personally not recommend playing this ever, but there is scenarios where it could be useful for example on a grievous Sanguine Depths week. This being said the healing throughput is not a huge difference and Light's Hammer will contribute more healing in the relevant windows.
 
 **Light's Hammer:**
 
@@ -32,6 +33,7 @@ This should be your go to talent as venthyr in every dungeon. This will provide 
 
 **T25**
 
+---
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=157047/saved-by-the-light" data-wh-icon-size="medium" data-wowhead="spell=157047"></a>
@@ -50,14 +52,15 @@ This talent should only be played if you're using Beacon of Virtue, since it wil
 
 **Judgement of Light:**
 
-This is your best talent pick for any covenant, because its a very efficient healing source since your using Judgement as much as possible.
+This is your best talent pick for any covenant, because its a very efficient healing source since you're using Judgement as much as possible.
 
 **Holy Prism:**
 
-This talent just dosn't provide you enough damage or healing for it to be worth the mana cost or the gcd every 20seconds.
+This talent is very mana inefficient and costs you a GCD every 20 seconds for very minor damage difference and should generally never be played except for on explosive weeks.
 
 **T30**
 
+---
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=234299/fist-of-justice" data-wh-icon-size="medium" data-wowhead="spell=234299"></a>
@@ -72,11 +75,11 @@ This talent just dosn't provide you enough damage or healing for it to be worth 
 
 **Fist of Justice:**
 
-This should never be played in m+ because having a AoE disorient will be more useful in most scenarios.
+This should almost never be played in m+ because having a AoE disorient will be more useful in most scenarios.
 
 **Repentance:**
 
-This talent should only be used to CC the mages on second boss Necrotic Wake so your group can ignore playing them completly.
+This talent should only be used to CC the mages on second boss Necrotic Wake so your group can ignore playing them completely.
 
 **Blinding Light:**
 
@@ -84,6 +87,7 @@ This should be your default pick in keys. You can use this to mass interrupt uni
 
 **T35**
 
+---
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=114154/unbreakable-spirit" data-wh-icon-size="medium" data-wowhead="spell=114154"></a>
@@ -109,6 +113,7 @@ This talent should never be played even if your playing with a full range comp R
 
 **T40**
 
+---
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=223817/divine-purpose" data-wh-icon-size="medium" data-wowhead="spell=223817"></a>
@@ -135,6 +140,7 @@ This talent does not synergsie at all with Awakening also costs you a GCD and 3 
 
 **T45**
 
+---
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=53376/sanctified-wrath" data-wh-icon-size="medium" data-wowhead="spell=53376"></a>
@@ -161,6 +167,7 @@ This should be your default pick in keys, because it provides you with very cons
 
 **T50**
 
+---
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=287268/glimmer-of-light" data-wh-icon-size="medium" data-wowhead="spell=287268"></a>
