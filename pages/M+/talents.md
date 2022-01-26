@@ -8,13 +8,13 @@ layout: post
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/talents/1_1g.png" style="width:40%">
+    <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wh-icon-size="medium" data-wowhead="spell=196926"></a>
   </div>
   <div class="column">
-    <img src="/assets/img/talents/1_2g.png" style="width:40%">
+    <a href="https://www.wowhead.com/spell=223306/bestow-faith" data-wh-icon-size="medium" data-wowhead="spell=223306"></a>
   </div>
   <div class="column">
-    <img src="/assets/img/talents/1_3.jpg" style="width:40%">
+    <a href="https://www.wowhead.com/spell=114158/lights-hammer" data-wh-icon-size="medium" data-wowhead="spell=114158"></a>
   </div>
 </div>
 
