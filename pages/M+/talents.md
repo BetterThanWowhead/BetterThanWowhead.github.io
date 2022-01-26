@@ -80,7 +80,7 @@ This talent should only be used to CC the mages on second boss Necrotic Wake so 
 
 **Blinding Light:**
 
-This should be your default pick in keys. You can use this to mass interrupt uninterruptible casts like Bucking Rampage in Mists of Tirna Scithe or interrupt the Curse of Obliteration in Halls of Atonement, this will cause the mobs to not recast it and your mage does not have to lose GCDs on dispeling it.
+This should be your default pick in keys. You can use this to mass interrupt uninterruptible casts like Bucking Rampage in Mists of Tirna Scithe or interrupt the Curse of Obliteration in Halls of Atonement, this will cause the mobs to not recast it and your mage does not have to lose GCDs on dispelling it.
 
 **T35**
 
