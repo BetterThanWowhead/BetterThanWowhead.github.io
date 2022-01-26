@@ -46,7 +46,7 @@ This should be your go to talent as venthyr in every dungeon. This will provide 
 
 **Saved by the Light:**
 
-This talent should only be played if you're using Beacon of Virtue, since it will provide all your Beacon targets with a absorb shield whenever they fall below 30%.
+This talent should only be played if you're using Beacon of Virtue, since it will provide all of your Beacon targets with a absorb shield whenever they fall below 30%.
 
 **Judgement of Light:**
 
@@ -54,7 +54,7 @@ This is your best talent pick for any covenant, because its a very efficient hea
 
 **Holy Prism:**
 
-This talent just dosn't provide you enough damage or healing for it to be worth the mana cost or casting it every 20seconds.
+This talent just dosn't provide you enough damage or healing for it to be worth the mana cost or the gcd every 20seconds.
 
 **T30**
 
@@ -72,7 +72,7 @@ This talent just dosn't provide you enough damage or healing for it to be worth 
 
 **Fist of Justice:**
 
-This should never be played in m+ because having a AoE disorient is more useful.
+This should never be played in m+ because having a AoE disorient will be more useful in most scenarios.
 
 **Repentance:**
 
@@ -80,7 +80,7 @@ This talent should only be used to CC the mages on second boss Necrotic Wake so 
 
 **Blinding Light:**
 
-This should be your default pick in keys. You can use this to mass interrupt uninterruptible casts like Bucking Rampage in Mists of Tirna Scithe or interrupt the Curse of Obliteration in Halls of Atonement, this will cause the mobs to not recast it and your mage does not have to lose GCDs on dispelling it.
+This should be your default pick in keys. You can use this to mass interrupt uninterruptible casts like Bucking Rampage in Mists of Tirna Scithe or interrupt the Curse of Obliteration in Halls of Atonement, this will cause the mobs to not recast it and your mage does not have to lose GCDs on decursing it.
 
 **T35**
 
@@ -180,7 +180,7 @@ Since Glimmer of Light is not anywhere near as strong as in BFA, this talent los
 
 **Beacon of Faith:**
 
-This talent will help you a lot with aoe healing, and synergises very well with the anima power Self Embalming Kit, You wanna putt your second beacon on a squishy dps and funnel beacon healing from yourself. This should be your pick in keys always.
+This talent will help you a lot with AoE healing, and synergises very well with the anima power Self Embalming Kit, You wanna putt your second beacon on a squishy dps and funnel beacon healing from yourself. This should be your pick in keys always.
 
 **Beacon of Virtue:**
 
