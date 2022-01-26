@@ -1,7 +1,7 @@
 ---
 title: Trinkets
 permalink: /M+/trinkets
-layout: post
+layout: page
 ---
 
 ### **On use:**

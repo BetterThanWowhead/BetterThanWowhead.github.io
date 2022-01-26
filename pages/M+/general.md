@@ -1,7 +1,7 @@
 ---
 title: General
 permalink: /M+/general
-layout: post
+layout: page
 ---
 
 ## Strengths

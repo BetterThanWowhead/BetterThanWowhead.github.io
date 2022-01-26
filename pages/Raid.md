@@ -1,7 +1,7 @@
 ---
 title: Raid
 permalink: /Raid/
-layout: post
+layout: page
 comments: false
 ---
 

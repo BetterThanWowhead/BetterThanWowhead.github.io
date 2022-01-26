@@ -1,7 +1,7 @@
 ---
 title: Setup for your Paladin.
 permalink: /M+/talents
-layout: post
+layout: page
 ---
 
 **T15**

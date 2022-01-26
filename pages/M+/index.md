@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /M+/
-layout: post
+layout: page
 ---
 
 In this guide you'll find everything you need to know to become the Mona Lisa of Holy Paladins.

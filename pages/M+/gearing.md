@@ -1,7 +1,7 @@
 ---
 title: Gearing
 permalink: /M+/gearing
-layout: post
+layout: page
 ---
 
 ## **Stat priority:**
