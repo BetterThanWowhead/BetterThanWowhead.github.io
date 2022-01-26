@@ -20,7 +20,7 @@ Is a very strong healing and damage cooldown, which might be hard to get value o
 
 #### **<a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wowhead="spell=105809"></a>**
 
-Is a very strong healing cooldown can also be used for damage if your not in need of a extra throughput cooldown in between your <a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>.
+Is a very strong healing cooldown can also be used for damage if your not in need of a extra throughput cooldown in between your Ashen Hallows.
 
 #### **<a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a>**
 
@@ -28,7 +28,7 @@ Is one of the strongest healer cooldowns. And should NEVER be underestimated, th
 
 #### **<a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" data-wowhead="spell=6940"></a>**
 
-This will save you a ton of healing globals and should be used as frequently as possible on your tank whenever you dont have <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>.
+This will save you a ton of healing globals and should be used as frequently as possible on your tank whenever you dont have Avenging Wrath available.
 
 #### **<a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a>**
 
