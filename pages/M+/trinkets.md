@@ -22,3 +22,7 @@ Is your strongest passive trinket since it provides you the most amount of stats
 
 [Unbound Changeling](https://www.wowhead.com/item=178708/unbound-changeling?bonus=6805:1472)
 Will be your second best passive trinket if you dont have Ocular Gland because it provides you with either Haste or Crit (deepnding on your food buff) you should ideally have it sett to Haste at all time.
+
+<div style="text-align:right;">
+<a href="/M+/soulbind"> Soulbind ></a>
+</div>

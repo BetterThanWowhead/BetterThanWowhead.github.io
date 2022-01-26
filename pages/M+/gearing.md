@@ -61,3 +61,8 @@ Weapon Oil: [Shadowcore Weapon Oil](https://www.wowhead.com/item=171285/shadowco
 Armor Kit: [Heavy Desolate Armor Kit](https://www.wowhead.com/item=172347/heavy-desolate-armor-kit).
 
 Gems: [Quick Jewel Cluster](https://www.wowhead.com/item=173128/quick-jewel-cluster) or [Versatile Jewel Cluster](https://www.wowhead.com/item=173129/versatile-jewel-cluster) depending on your gear.
+
+
+<div style="text-align:right;">
+<a href="/M+/talents"> Talents ></a>
+</div>

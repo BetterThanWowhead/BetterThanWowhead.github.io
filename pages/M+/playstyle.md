@@ -1,6 +1,6 @@
 ---
 title: Dungeon Playstyle.
-permalink: /M+/dungeon
+permalink: /M+/playstyle
 layout: post
 ---
 
@@ -111,3 +111,7 @@ or
 \> <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> (If <a href="https://www.wowhead.com/spell=183778/judgment-of-light" data-wowhead="spell=183778"></a> talented)
 \> <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> (assuming you don’t have <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> or enough holy power AND if someone is in critical danger)
 \> <a href="https://www.wowhead.com/spell=82326/holy-light" data-wowhead="spell=82326"></a> on <a href="https://www.wowhead.com/spell=53563/beacon-of-light" data-wowhead="spell=53563"></a> (If you have <a href="https://www.wowhead.com/spell=53576/infusion-of-light" data-wowhead="spell=53576"></a>) otherwhise cast <a href="https://www.wowhead.com/spell=19750/flash-of-light" data-wowhead="spell=19750"></a>
+
+<div style="text-align:right;">
+<a href="/M+/cd"> Cooldowns ></a>
+</div>
