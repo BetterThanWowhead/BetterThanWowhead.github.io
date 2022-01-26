@@ -1,11 +1,7 @@
 ---
-title: Soulbind.
+title: Soulbind
 permalink: /M+/soulbind
 layout: post
----
-
-### **Soulbinds:**
-
 ---
 
 You go to soulbind should be theotar since its the highest damage soulbind for your entire grp because Wastelands Propreity also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
@@ -16,6 +12,11 @@ If you pug 24+ keys you can also play General Draven as a soulbind this will pro
 
 Your setup should look something like this [General Draven Soulbind.](https://www.wowhead.com/soulbind-calc/venthyr/general-draven/paladin/AwaWb5YCFS1ECCUtdAgSBTD0CCUwEAghBStjCA)
 
-<div style="text-align:right;">
+<div>
+<div style="text-align:left;display: inline-block;width: 49%;">
+<a href="/M+/trinkets"> < Trinkets</a>
+</div>
+<div style="text-align:right;display: inline-block;width: 49%;">
 <a href="/M+/playstyle"> Playstyle ></a>
+</div>
 </div>

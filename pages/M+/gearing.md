@@ -1,11 +1,7 @@
 ---
-title: Trinkets.
+title: Gearing
 permalink: /M+/gearing
 layout: post
----
-
-### **Gearing**
-
 ---
 
 ### **Stat priority:**
@@ -62,7 +58,11 @@ Armor Kit: [Heavy Desolate Armor Kit](https://www.wowhead.com/item=172347/heavy-
 
 Gems: [Quick Jewel Cluster](https://www.wowhead.com/item=173128/quick-jewel-cluster) or [Versatile Jewel Cluster](https://www.wowhead.com/item=173129/versatile-jewel-cluster) depending on your gear.
 
-
-<div style="text-align:right;">
+<div>
+<div style="text-align:left;display: inline-block;width: 49%;">
+<a href="/M+"> < Overview </a>
+</div>
+<div style="text-align:right;display: inline-block;width: 49%;">
 <a href="/M+/talents"> Talents ></a>
+</div>
 </div>
