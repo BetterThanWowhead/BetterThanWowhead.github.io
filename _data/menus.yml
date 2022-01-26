@@ -6,12 +6,16 @@
   subfolderitems:
     - title: Overview
       url: /M+/
-    - title: Talents/Gearing/Soulbinds
+    - title: Gearing
+      url: /M+/gearing
+    - title: Talents
       url: /M+/talents
+    - title: Trinkets
+      url: /M+/trinkets
+    - title: Soulbind
+      url: /M+/soulbind
     - title: Cooldown management
       url: /M+/cd
-    - title: Dungeon Playstyle
-      url: /M+/dungeon
 
 - title: Raid
   url: /Raid/

@@ -221,7 +221,7 @@
 
 // Author
 .author {
-  margin-top: 6.3rem;
+  margin-top: 3.3rem;
   margin-bottom: 7.2rem;
   text-align: center;
 
@@ -234,11 +234,12 @@
     height: 70px;
     border-radius: 100%;
     user-select: none;
-    background-color: $black;
+    background-color: $white;
+    vertical-align: middle;
     -ms-user-select: none;
     -webkit-user-select: none;
-    -webkit-animation: 0.5s ease-in forwards fadein;
-    animation: 0.5s ease-in forwards fadein;
+    -webkit-animation: 1s ease-in forwards fadein;
+    animation: 1s ease-in forwards fadein;
     opacity: 1;
   }
 
@@ -252,6 +253,7 @@
     opacity: 0.9;
     max-width: 393px;
     line-height: 1.688;
+    color: #f58cba;
   }
 }
 
@@ -310,7 +312,6 @@
 
 .column {
   flex: 33.33%;
-  margin-left: 60px;
 }
 
 // Footer
