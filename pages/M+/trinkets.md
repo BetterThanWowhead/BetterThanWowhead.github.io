@@ -1,5 +1,5 @@
 ---
-title: Trinkets.
+title: Trinkets
 permalink: /M+/trinkets
 layout: post
 ---

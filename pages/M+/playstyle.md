@@ -1,12 +1,12 @@
 ---
-title: Dungeon Playstyle.
+title: Dungeon Playstyle
 permalink: /M+/playstyle
 layout: post
 ---
 
 The most important part to success in m+ is knowing how to play around your cooldowns and where to use them properly.
 
-### **Healing Cooldowns.**
+## **Healing Cooldowns.**
 
 ---
 
@@ -46,7 +46,7 @@ Is off GCD and our big instant emergency heal. You shouldn’t hesitate to use t
 
 This will restore 20k of your health pool and should be used frequently whenever you're in critical danger.
 
-### **Quick Playstyle.**
+## **Quick Playstyle.**
 
 ---
 

@@ -7,6 +7,7 @@ layout: post
 **T15**
 
 ---
+
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wh-icon-size="medium" data-wowhead="spell=196926"></a>
@@ -20,20 +21,18 @@ layout: post
 </div>
 
 **Crusader's Might:**
-
 This talent loses value for venthyr holy paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+. That being said this is still a very competitive talent pick and should definitely be played for explosive weeks.
 
 **Bestow Faith:**
-
 I would personally not recommend playing this ever, but there is scenarios where it could be useful for example on a grievous Sanguine Depths week. This being said the healing throughput is not a huge difference and Light's Hammer will contribute more healing in the relevant windows.
 
 **Light's Hammer:**
-
 This should be your go to talent as venthyr in every dungeon. This will provide you with a solid amount of damage.
 
 **T25**
 
 ---
+
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=157047/saved-by-the-light" data-wh-icon-size="medium" data-wowhead="spell=157047"></a>
@@ -47,20 +46,18 @@ This should be your go to talent as venthyr in every dungeon. This will provide 
 </div>
 
 **Saved by the Light:**
-
 This talent should only be played if you're using Beacon of Virtue, since it will provide all of your Beacon targets with a absorb shield whenever they fall below 30%.
 
 **Judgement of Light:**
-
 This is your best talent pick for any covenant, because its a very efficient healing source since you're using Judgement as much as possible.
 
 **Holy Prism:**
-
 This talent is very mana inefficient and costs you a GCD every 20 seconds for very minor damage difference and should generally never be played except for on explosive weeks.
 
 **T30**
 
 ---
+
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=234299/fist-of-justice" data-wh-icon-size="medium" data-wowhead="spell=234299"></a>
@@ -74,20 +71,18 @@ This talent is very mana inefficient and costs you a GCD every 20 seconds for ve
 </div>
 
 **Fist of Justice:**
-
 This should almost never be played in m+ because having a AoE disorient will be more useful in most scenarios.
 
 **Repentance:**
-
 This talent should only be used to CC the mages on second boss Necrotic Wake so your group can ignore playing them completely.
 
 **Blinding Light:**
-
 This should be your default pick in keys. You can use this to mass interrupt uninterruptible casts like Bucking Rampage in Mists of Tirna Scithe or interrupt the Curse of Obliteration in Halls of Atonement, this will cause the mobs to not recast it and your mage does not have to lose GCDs on decursing it.
 
 **T35**
 
 ---
+
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=114154/unbreakable-spirit" data-wh-icon-size="medium" data-wowhead="spell=114154"></a>
@@ -104,16 +99,15 @@ This should be your default pick in keys. You can use this to mass interrupt uni
 This talent is a absolute must in keys, it will provide you with a 30% cooldown reduction on Divine Shield, Lay on Hands and Divine Protection.
 
 **Cavalier:**
-
 Don't play this.
 
 **Rule of Law:**
-
 This talent should never be played even if your playing with a full range comp Rule of Law won't be comparable to Unbreakable Spirit.
 
 **T40**
 
 ---
+
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=223817/divine-purpose" data-wh-icon-size="medium" data-wowhead="spell=223817"></a>
@@ -127,20 +121,18 @@ This talent should never be played even if your playing with a full range comp R
 </div>
 
 **Divine Purpose:**
-
 This talent synergises very well with Awakening but since Divine Purpose is rng this loses a lot of value for venthyr in keys because you never wan't your throughput to be rng dependent.
 
 **Holy Avenger:**
-
 This will not only provide you with a strong healing cooldown to force proc wings in between your Ashen Hallows, but also a strong AoE damage cooldown if you're not in need of extra throughput. This should always be your default pick as venthyr in keys.
 
 **Seraphim:**
-
 This talent does not synergsie at all with Awakening also costs you a GCD and 3 holy power. Only time you would play this is for raid dps logging for fun.
 
 **T45**
 
 ---
+
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=53376/sanctified-wrath" data-wh-icon-size="medium" data-wowhead="spell=53376"></a>
@@ -154,20 +146,18 @@ This talent does not synergsie at all with Awakening also costs you a GCD and 3 
 </div>
 
 **Sanctified Wrath:**
-
 This talent is good to empower your Avenging Wrath even more, but should never be necessary because Avenging Wrath is already a very strong cooldown.
 
 **Avenging Crusader:**
-
 This is a very bad talent pick and should never be played for a few reasons, it doesn't provide you with anywhere near the same amount of damage as the two other options, the healing you gain from it isn't a smart heal which means if one of your players are at 10% health and another at 80% it won't prioritise the 10% health player. Also a very none mana efficient talent.
 
 **Awakening:**
-
 This should be your default pick in keys, because it provides you with very constant throughput, scales very well with haste and allows you to force proc Avenging Wrath with Holy Avenger for dangerous situations.
 
 **T50**
 
 ---
+
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=287268/glimmer-of-light" data-wh-icon-size="medium" data-wowhead="spell=287268"></a>
@@ -184,10 +174,10 @@ This should be your default pick in keys, because it provides you with very cons
 
 Glimmer of Light no longer has the synergies that once made its healing strong, so most of its power comes from retaining your single full power beacon. In dungeons we frequently need to deal with large incoming AoE healing Beacon of Faith generally performs better. That being said Glimmer of Light can still be used for lower keys and will help quite abit with tank healing if your tank are not super experienced.
 
-
 **Beacon of Faith:**
 
-This talent will help you a lot with AoE healing, and synergises very well with the anima power Self Embalming Kit, the idea is to putt your second beacon on a squishy dps and funnel beacon healing from yourself.
+This talent will help you a lot with AoE healing, and synergises very well with the anima power Self Embalming Kit, You wanna putt your second beacon on a squishy dps and funnel beacon healing from yourself. This should be your pick in keys always.
+
 **Beacon of Virtue:**
 
 This will provide you with a large amount of AoE burst healing, but does not contribute any damage also becomes very mana inefficient fast and forces you to clutter your GCDs with spells you generally do not want to cast regularly in your rotation.
