@@ -171,12 +171,15 @@ This should be your default pick in keys, because it provides you with very cons
 </div>
 
 **Glimmer of Light:**
-Since Glimmer of Light is not anywhere near as strong as in BFA, this talent loses value because one of holy paladins weaknesses is AoE healing throughput. That being said keeping your default beacon is stil very strong and this could be played in lower keys.
+
+Glimmer of Light no longer has the synergies that once made its healing strong, so most of its power comes from retaining your single full power beacon. In dungeons we frequently need to deal with large incoming AoE healing Beacon of Faith generally performs better. That being said Glimmer of Light can still be used for lower keys and will help quite abit with tank healing if your tank are not super experienced.
 
 **Beacon of Faith:**
+
 This talent will help you a lot with AoE healing, and synergises very well with the anima power Self Embalming Kit, You wanna putt your second beacon on a squishy dps and funnel beacon healing from yourself. This should be your pick in keys always.
 
 **Beacon of Virtue:**
+
 This will provide you with a large amount of AoE burst healing, but does not contribute any damage also becomes very mana inefficient fast and forces you to clutter your GCDs with spells you generally do not want to cast regularly in your rotation.
 
 ### **Consumables:**
