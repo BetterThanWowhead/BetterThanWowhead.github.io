@@ -32,15 +32,15 @@ This will save you a ton of healing globals and should be used as frequently as 
 
 #### **<a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a>**
 
-With <a href="https://www.wowhead.com/spell=114154/unbreakable-spirit" data-wowhead="spell=114154"></a> talent <a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> is a 3.5min cooldown, and can be used many ways such as taunting tank hits or the most important to make AoE healing easier to deal with.
+With <a href="https://www.wowhead.com/spell=114154/unbreakable-spirit" data-wowhead="spell=114154"></a> talent Divine Shield is a 3.5min cooldown, and can be used many ways such as taunting tank hits or the most important to make AoE healing easier to deal with.
 
 #### **<a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a>**
 
-Knowing when to use <a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> will save more keys then you could imagine. This can be used to clear Necrotic stacks, immuning certain dangerous boss mechanics, or removing dangerous debuffs / stuns, <a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> is an extremely strong cooldown.
+Knowing when to use this will save more keys then you could imagine. This can be used to clear Necrotic stacks, immuning certain dangerous boss mechanics, or removing dangerous debuffs / stuns, <a href="https://www.wowhead.com/spell=1022/blessing-of-protection" data-wowhead="spell=1022"></a> is an extremely strong cooldown.
 
 #### **<a href="https://www.wowhead.com/spell=633/lay-on-hands" data-wowhead="spell=633"></a>**
 
-<a href="https://www.wowhead.com/spell=633/lay-on-hands" data-wowhead="spell=633"></a> is off GCD and our big instant emergency heal. You shouldn’t hesitate to use this.
+Is off GCD and our big instant emergency heal. You shouldn’t hesitate to use this.
 
 #### **<a href="https://ptr.wowhead.com/item=187802/cosmic-healing-potion" data-wowhead="spell=187802"></a>**
 
