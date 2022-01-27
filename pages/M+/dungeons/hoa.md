@@ -30,3 +30,5 @@ On this boss with a coordinated group and assuming you have a windwalker monk or
 **Depraved Houndmaster's Loyal Beast cast:** This will increase Vicious Gargron's damage done by 125% make sure to Hammer of Justice this.
 
 **Depraved Obliterator's Curse of Obliteration:** This should generally never be interrupted and instead decursed but if you only have one decurse player in your group make sure to Blinding Light it if there's more than one of them, this will make them not recast it and instead cast the bolt.
+
+**Inquisitor Sigar:** the adds in this room will fixate random players, Blessin of Protection will mitigate all this damage.
