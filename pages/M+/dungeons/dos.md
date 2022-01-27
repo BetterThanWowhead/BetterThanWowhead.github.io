@@ -14,13 +14,13 @@ The key to kill this boss is managing the lightning properly, pass it between yo
 
 **The Manastorms:**
 
-There's not really a lot to talk about cooldown whise on this boss, but if one of your players get targetet by Shadowfury and for some reasson dont have a defensiv available for the group wide AOE damage overlap, Blessing of Sacrifice him immediately to keep him from dying. You can use Blessing of Protection on your tank if he is gets overwhelmed and starts dropping really low from the debuff him, but make sure hes aware your about to do it since he loses all threat from the boss.
+There's not really a lot to talk about cooldown whise on this boss, but if one of your players get targetet by Shadowfury and for some reasson dont have a defensiv available for the group wide AOE damage overlap, Blessing of Sacrifice him immediately to keep him from dying. You can use Blessing of Protection on your tank if he is gets overwhelmed and starts dropping really low from the debuff, but make sure hes aware your about to do it since he loses all threat from the boss.
 
 Since pressing the bombs is a healer job on this fight, keybinding mouseover interact will help you a ton.
 
 **Mueh'Zala:**
 
-There's two ways to play this boss, you either one phase or you two phase it. If your group decides to one phase, you typically wan't to hold your Avenging Wrath for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you wan't to dispel one player on Cosmic Collapse, you can also use Aura Mastery to mitigate damage on one Cosmic Collapse.
+There's two ways to play this boss, you either one phase or you two phase it. If your group decides to one phase, you typically wan't to hold your Avenging Wrath for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you wan't to dispel one player on Cosmic Collapse, you can also use Aura Mastery to mitigate damage.
 
 **Important trash mechanics to use utility on:**
 
