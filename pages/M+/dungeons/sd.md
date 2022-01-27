@@ -23,7 +23,7 @@ This fight is pretty stright forward, you can avoid getting the bleed by using D
 **Important trash mechanics to use utility on:**
 
 ---
-Chamber Sentinel's **<a href="https://www.wowhead.com/spell=322429/severing-slice" data-wowhead="spell=322429"></a>:** This is the frontal the sentinel does, if one of your players gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
+**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your players gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
 
 **Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Make sure to use Blessing of Protection to immune damage and Hammer of Justice or Blinding Light to delay the casts.
 

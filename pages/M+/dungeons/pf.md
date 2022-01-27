@@ -25,7 +25,6 @@ Healing this fight can be very difficult, so its important that you play well wi
 **Important trash mechanics to use utility on:**
 
 ---
-
 **Rigged Plagueborer's Wretched Phlegm:** Using freedom BEFORE the cast is finished will fully immune the damage, and can be used on every second plagueborer cast.
 
 **Slime Tentacle's Crushing Embrace:** Every now and then the tentacle will grip one of your players, you can either Hammer of Justice, Blinding Light, Freedom or use Blessing of Protection to break them free.
