@@ -32,3 +32,7 @@ This fight is pretty stright forward, you can avoid getting the bleed by using D
 **Depths Warden's Barbed Shackles:** This ability should be interrupted but if it would happen to go through use Freedom immediately.
 
 **Dark Acolyte's Dark Bolt:** This cast becomes very dangerous the higher you go, Use Blinding Light to mass interrupt the casts.
+
+**Wicked Oppressor's Wrack Soul:** Use Hammer of Justice on this cast to mitigate damage if you don't have dispel available.
+
+**Gluttonous Tick's Drain Essence:** Blinding Light and Hammer of Justice should be used frequently on these mobs whenever your group does not have interrupts available.

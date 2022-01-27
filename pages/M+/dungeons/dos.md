@@ -21,3 +21,10 @@ Since pressing the bombs is a healer job on this fight, keybinding mouseover int
 **Mueh'Zala:**
 
 There's two ways to play this boss, you either one phase or you two phase it. If your group decides to one phase, you typically wan't to hold your Avenging Wrath for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you wan't to dispel one player on Cosmic Collapse, you can also use Aura Mastery to mitigate damage on one Cosmic Collapse.
+
+**Important trash mechanics to use utility on:**
+
+---
+**Enraged Spirit's Enraged Mask:** Using Blinding Light on the Enraged Mask will interrupt them and cause them to disappear.
+
+**Atal'ai Deathwalker:** Blinding Light will interrupt the Bladestorm and will allow you to go back into melee again. Using Hammer of Justice on this mob will save you a lot of healing globals, and will allow your tank to reset Gushing Wound stacks easier. Blessing of Sacrifice can be used whenever you do not have Avenging Wrath available to mitigate Gushing Wound damage taken.
