@@ -5,7 +5,7 @@ layout: post
 ---
 All these addons and weakauras will increase your performance.
 
-Addons:
+**Addons:**
 
 [WeakAuras](https://www.curseforge.com/wow/addons/weakauras-2)
 
@@ -21,7 +21,7 @@ Addons:
 
 [Details Damage Meter](https://www.curseforge.com/wow/addons/details)
 
-Weakauras:
+**Weakauras:**
 
 [Targeted Spells](https://wago.io/BFADungeonTargetedSpells/68)
 
