@@ -14,7 +14,7 @@ The key to kill this boss is managing the lightning properly, pass it between yo
 
 **The Manastorms:**
 
-There's not really a lot to talk about cooldown whise on this boss, but if one of your players get targetet by Shadowfury and for some reasson dont have a defensiv available for the group wide AOE damage overlap, Blessing of Sacrifice him immediately to keep him from dying. You can use Blessing of Protection on your tank if he is gets overwhelmed and starts dropping really low from the debuff, but make sure hes aware your about to do it since he loses all threat from the boss.
+There's not really a lot to talk about cooldown whise on this boss, but if one of your players get targetet by Shadowfury and for some reasson dont have a defensiv available for the group wide AOE damage overlap, Blessing of Sacrifice him immediately to keep him from dying. You can use Blessing of Protection on your tank if he is gets overwhelmed and starts dropping really low from the debuff, but make sure hes aware you're about to do it since he loses all threat from the boss.
 
 Since pressing the bombs is a healer job on this fight, keybinding mouseover interact will help you a ton.
 
