@@ -1,7 +1,7 @@
 ---
 title: Soulbind
 permalink: /M+/soulbind
-layout: post
+layout: page
 ---
 
 <div style="display: block;width: 33%; margin-left: auto;margin-top:-20%;">

@@ -27,11 +27,13 @@ layout: compress
     
     setTimeout(() => body.classList.remove("notransition"), 75);
   </script>
+  <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true, iconSize: true, renameLinks: true};</script>
+  <script src="https://wow.zamimg.com/widgets/power.js"></script>
 
   {% include navbar.html %}
   <div class="wrapper">
     <header class="header">
-      <h1 class="header-title center" itemprop="headline">{{ page.title | escape }}.</h1>
+      <h1 class="header-title center" itemprop="headline">{{ page.title | escape }}</h1>
     </header>
     <main class="page-content" aria-label="Content">
       {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=4 h_max=4 %}
