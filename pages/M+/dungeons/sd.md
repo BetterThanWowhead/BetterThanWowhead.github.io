@@ -4,10 +4,6 @@ permalink: /M+/cd/sd
 layout: dungeons
 ---
 
-### **Sanguine Depths:**
-
----
-
 **Kryxis:**
 
 If you're a new holy paladin player you might find yourself having a hard time on this boss fight. You wan't to make sure to split your cooldowns and have something for every wave of orbs for example, Ashen Hallow + Avenging Wrath for first wave, Aura Mastery + Holy Avenger for second wave and lastly Divine Shield + Blessing of Sacrifice for third wave. If your group happens to have a more optimised composition like a Rogue and a Mage, you could Divine Shield + Blessing of Sacrifice if you have a player without a immunity, Cloak of Shadows and Ice Block one wave which will make the boss fight significantly easier. If your group happends to not be healthy before a Juggernaut Rush, you can always use Blessing of Protection to allow him to solo soak.
@@ -24,12 +20,15 @@ Collecting orbs good and rotating immunities is the thing that will make the big
 
 This fight is pretty stright forward, you can avoid getting the bleed by using Door of Shadows or Divine Steed. If you see a player is about to get 2 stacks of the debuff you can use Blessing of Protection to clear and immune the charge hit. Keep in mind that the shield clears all bleeds so you ideally do not wan't to use any sort of immunity before Gloom Squall.
 
-**Important trash mechanics to use Blessing of Protection and Blessing of Freedom on:**
+**Important trash mechanics to use utility on:**
 
-**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your dps gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
+---
+Chamber Sentinel's **<a href="https://www.wowhead.com/spell=322429/severing-slice" data-wowhead="spell=322429"></a>:** This is the frontal the sentinel does, if one of your players gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
 
-**Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Using Blessing of Protection will mitigate a lot of this damage.
+**Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Make sure to use Blessing of Protection to immune damage and Hammer of Justice or Blinding Light to delay the casts.
 
 **Grand Overseer's Dread Bindings:** You can pre use Freedom on this mechanic and you won't have to run out to break the chain.
 
 **Depths Warden's Barbed Shackles:** This ability should be interrupted but if it would happen to go through use Freedom immediately.
+
+**Dark Acolyte's Dark Bolt:** This cast becomes very dangerous the higher you go, Use Blinding Light to mass interrupt the casts.

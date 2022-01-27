@@ -4,10 +4,6 @@ permalink: /M+/cd/pf
 layout: dungeons
 ---
 
-### **Plaguefall**
-
----
-
 **Globgrog:**
 
 Healing this boss is very simple, you wanna prioritize using your dispel on the most squishy player in your group and when your dispel comes back off from the cooldown, you can dispel whoever is in most danger. If someone are not topped before a plaguestomp you can use either use Aura Mastery or Blessing of Sacrifice to keep them alive. Keep in mind that Blessing of Protection will prevent the knockback and also add a 10% damage reduction if you are using the Echoing Blessing conduit.
@@ -26,10 +22,16 @@ The most dangerous thing on this boss to be aware of is getting multiple Shadow 
 
 Healing this fight can be very difficult, so its important that you play well with your cooldowns and always think ahead what cooldowns you will use on on the next Acid Rain. Dependin on your group composition you will either use Ashen Hallow in phase two or phase three, usually if you don't play with a boomkin you use it in phase two. This means you would use Holy Avenger on the first Acid Rain, the second rain would be Aura Mastery (this is hopefully the last rain in phase one). Ashen Hallow + Avenging Wrath should cover the second phase and no defensive cooldowns should be used here. In phase three the first rain would be Bubble + Blessing of Sacrifice and the second rain you should have Holy Avenger back up. You wan't to dispel your most squishy dps on 2 stacks, this way you get to dispel twice and will mitigate the most damage.
 
-**Important trash mechanics to use Blessing of Protection or Freedom on:**
+**Important trash mechanics to use utility on:**
+
+---
 
 **Rigged Plagueborer's Wretched Phlegm:** Using freedom BEFORE the cast is finished will fully immune the damage, and can be used on every second plagueborer cast.
 
 **Slime Tentacle's Crushing Embrace:** Every now and then the tentacle will grip one of your players, you can either Hammer of Justice, Blinding Light, Freedom or use Blessing of Protection to break them free.
 
-**Plaguebinder's Gripping Infection:** You need to use Freedom on this since You don't wan't to use your dispel on this mechanic since you need to save it for the debuff the slimeclaws puts on your tank or closest target.
+**Plaguebinder's Gripping Infection:** You need to use Freedom on this because you don't wan't to use your dispel on this mechanic since you need to save it for the debuff the slimeclaws puts on your tank or closest target.
+
+**Defender of Many Eyes Bulwark of Maldraxxus:** Using Hammer of Justice or Blinding Light on this is very important because it will reduce all mobs in the zones damage taken by 90%.
+
+**Brood Ambusher Stealthlings:** If you see the casts is about to go through use Blinding Light or if you don't have it available, Blessing of Protection your squishiest player immediately.
