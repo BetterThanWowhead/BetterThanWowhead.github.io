@@ -27,7 +27,7 @@ On this boss with a coordinated group and assuming you have a windwalker monk or
 
 **Depraved Collector's Collect Sins:** Letting this cast go fully through is usefull for funnel damage in current meta, but if your tank is kiting and this boss is still alive he will cast Collect Sins on the nearest target and most likely kill him, if you see this is about to happen use Hammer of Justice or Blinding Light immediately.
 
-**Depraved Houndmaster's Loyal Beast cast:** This will increase Vicious Gargron's damage done by 125% make sure to Hammer of Justice this.
+**Depraved Houndmaster's Loyal Beast:** This will increase Vicious Gargron's damage done by 125% make sure to Hammer of Justice this.
 
 **Depraved Obliterator's Curse of Obliteration:** This should generally never be interrupted and instead decursed but if you only have one decurse player in your group make sure to Blinding Light it if there's more than one of them, this will make them not recast it and instead cast the bolt.
 
