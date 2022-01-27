@@ -21,7 +21,7 @@ In this guide you'll find everything you need to know to become the Mona Lisa of
 6. [Soulbind](/M+/soulbind)
 7. [Playstyle](/M+/playstyle)
 8. [In-depth dungeon guides](/M+/cd)
-
+9. [Addons & WeakAuras](/M+/wa)
 <div style="text-align:right;">
 <a href="/M+/general"> General ></a>
 </div>
