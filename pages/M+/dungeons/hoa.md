@@ -3,7 +3,6 @@ title: Halls of Atonement
 permalink: /M+/cd/hoa
 layout: dungeons
 ---
-
 **Halkias:**
 
 After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight, which means the tank will most likely move away to give people enough space before the Refracted Sinlight happens, make sure to wait abit before casting your Ashen Hallow if you get it back from cooldown during the fight, so he does not accidently move out of it.
@@ -23,12 +22,13 @@ On this boss with a coordinated group and assuming you have a windwalker monk or
 **Important trash mechanics to use utility on:**
 
 ---
-**Shard of Halkias Thrash:** You should rotate damage mitigation cooldowns whenever you do not have Avenging Wrath available, keep in mind Blessing of Protection will immune the damage taken.
+**Shard of Halkias Thrash:** You should rotate damage mitigation cooldowns whenever you do not have Avenging Wrath available, keep in mind Blessing of Protection will immune this ability.
 
-**Depraved Collector's Collect Sins:** Letting this cast go fully through is usefull for funnel damage in current meta, but if your tank is kiting and this boss is still alive he will cast Collect Sins on the nearest target and most likely kill him, if you see this is about to happen use Hammer of Justice or Blinding Light immediately.
+**Depraved Collector's Collect Sins:** Letting this cast go fully through is usefull for funnel damage in current meta, but if your tank is kiting and this mob is still alive he will cast Collect Sins on the nearest target and most likely kill him, if you see this is about to happen use Hammer of Justice or Blinding Light immediately.
 
 **Depraved Houndmaster's Loyal Beast:** This will increase Vicious Gargron's damage done by 125% make sure to Hammer of Justice this.
 
-**Depraved Obliterator's Curse of Obliteration:** This should generally never be interrupted and instead decursed but if you only have one decurse player in your group make sure to Blinding Light it if there's more than one of them, this will make them not recast it and instead cast the bolt.
+**Depraved Obliterator's Curse of Obliteration:** This should generally never be interrupted and instead decursed but if you only have one decurse player in your group make sure to Blinding Light it if there's more than one of them, this will make them not recast it and instead cast the Wicked Bolt.
 
-**Inquisitor Sigar:** the adds in this room will fixate random players, Blessin of Protection will mitigate all this damage.
+**Inquisitor Sigar:** The adds in this room will fixate random players, Blessin of Protection will fully immune all this damage.
+

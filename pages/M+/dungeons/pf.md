@@ -3,7 +3,6 @@ title: Plaguefall
 permalink: /M+/cd/pf
 layout: dungeons
 ---
-
 **Globgrog:**
 
 Healing this boss is very simple, you wanna prioritize using your dispel on the most squishy player in your group and when your dispel comes back off from the cooldown, you can dispel whoever is in most danger. If someone are not topped before a plaguestomp you can use either use Aura Mastery or Blessing of Sacrifice to keep them alive. Keep in mind that Blessing of Protection will prevent the knockback and also add a 10% damage reduction if you are using the Echoing Blessing conduit.
