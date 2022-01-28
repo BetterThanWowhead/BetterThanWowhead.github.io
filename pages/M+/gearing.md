@@ -24,7 +24,7 @@ Since we rarely use Infusion of Light procs Critical Strike loses a lot of value
 
 **Mastery:**
 
-Mastery is still a solid choice for raw healing throughput. But it has no effect on our damage, which in Mythic+ is the biggest part of what we do. The healing it contributes is also too deepent on comp composition and positioning.
+Mastery is still a decent choice for raw healing. But it has no effect on our damage, which in Mythic+ is the biggest part of what we do. The healing it contributes is also too dependent on comp composition and positioning.
 
 ## **Best Legendarys**
 
