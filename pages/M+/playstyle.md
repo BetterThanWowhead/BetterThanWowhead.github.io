@@ -50,7 +50,7 @@ This will restore 20k of your health pool and should be used frequently whenever
 
 ---
 
-Here you can see what your playstyle should look like in Mythic+, use the following sheet:
+Here you can see what your playstyle should look like, use the following sheet:
 
 1. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown (either for healing or damage).
 2. Use 

@@ -24,7 +24,7 @@ Since we rarely use Infusion of Light procs Critical Strike loses a lot of value
 
 **Mastery:**
 
-Mastery is still a decent choice for raw healing. But it has no effect on our damage, which in Mythic+ is the biggest part of what we do. The healing it contributes is also too dependent on comp composition and positioning.
+Mastery is still a decent choice for raw healing. But it has no effect on our damage, which in Mythic+ is the biggest part of what we do. The healing it contributes is also dependent on composition and positioning.
 
 ## **Best Legendarys**
 
@@ -32,7 +32,7 @@ Mastery is still a decent choice for raw healing. But it has no effect on our da
 
 Mad Paragon will be your best legendary for Venthyr as it will greatly increase our damage we do inside Ashen Hallow.
 
-Shock Barrier is our strongest healing legendary in m+ and are also 100% passive, This would be your legendary if you wan’t more healing.
+Shock Barrier is our strongest healing legendary in m+ and are also passive, This would be your legendary if you wan’t more healing.
 
 ## **Enchant and Gems**
 
