@@ -26,5 +26,5 @@ There's few things to be aware of on this fight and that is to rotate your heali
 
 **Loyal Creations and Goregrind's Tenderize + Mutilate:** You can Blessing of Protection + taunt these two abilities to make it easier for your tank, or if you do not have it available you can Shield of the Righteous and taunt the tenderize to reset your tanks stacks but make sure he's taunting the mob back before the Mutilate.
 
-**Corpse Harvester's Throw Flesh:** The damage from this ability will start to almost one shot a player if they're not prepared, Blessing of Protection will immune this damage. Use Hammer of Justice and Blinding Light frequently on these mobs.
+**Corpse Harvester's Throw Flesh:** The damage from this ability will start to almost one shot the higher the key goes if the player are not prepared, Blessing of Protection will immune this damage. Use Hammer of Justice and Blinding Light frequently on these mobs.
 
