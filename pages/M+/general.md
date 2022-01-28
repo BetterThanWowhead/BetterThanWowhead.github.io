@@ -14,7 +14,7 @@ Paladins biggest strength is our ability to do big amounts of damage on command.
 
 **Healing within cooldowns.**
 
-The healing we can do within our cooldown window. Which will allow your grp to pull more aggressively than they could with other healers.
+The healing we can do within our cooldown windows, which will allow your grp to pull more aggressively than they could with other healers.
 
 **Damage Reduction.**
 
@@ -22,7 +22,7 @@ Devotion Aura is a 3% passive DR and 15% on use, which is one of the strongest h
 
 **Utility.**
 
-Paladin brings insanely strong and game changing utility when used correctly.
+Paladins utility is one of the strongest in mythic+ currently when used correctly.
 
 ## Weaknesses
 

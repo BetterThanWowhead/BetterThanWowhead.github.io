@@ -67,7 +67,7 @@ Here you can see what your playstyle should look like, use the following sheet:
 <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>) otherwhise use 
 <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> if there's no healing required.
 4. Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> down all the time.
-5. Cast <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown when available.
+5. Cast <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown whenever it's available.
 6. Cast <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> on cooldown.
 7. Use <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> if you need to do healing (assuming you dont have <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> or enough holy power).
 8. Fill empty GCDs with 
