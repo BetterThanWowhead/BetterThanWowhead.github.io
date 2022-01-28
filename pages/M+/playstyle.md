@@ -53,8 +53,16 @@ This will restore 20k of your health pool and should be used frequently whenever
 Here you can see what your playstyle should look like in Mythic+, use the following sheet:
 
 1. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown (either for healing or damage).
-2. Use <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> (If talented to <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wowhead="spell=196926"></a>) to reset cooldown of <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>.
-3. Spend holy power on <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> (if you're not inside of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>) otherwhise use <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> if there's no healing required.
+2. Use 
+<a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> (If talented to 
+<a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wowhead="spell=196926"></a>) to reset cooldown of 
+<a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>.
+3. Spend holy power on 
+<a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> or 
+<a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc 
+<a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> (if you're not inside of 
+<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>) otherwhise use 
+<a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> if there's no healing required.
 4. Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> down all the time.
 5. Cast <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown when available.
 6. Cast <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> on cooldown.
@@ -68,7 +76,7 @@ Here you can see what your playstyle should look like in Mythic+, use the follow
 \> <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>
 \> <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a>
 \> <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a>
-\> <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> (if inside <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>) otherwhise <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a>.
+\> <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> (if inside <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>) otherwhise <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a>.
 
 **AoE Damage Priority**
 
