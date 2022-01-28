@@ -20,11 +20,11 @@ A very strong healing and damage cooldown, which might be hard to get value out 
 
 #### **<a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wowhead="spell=105809"></a>**
 
-Are a very flexible healing cooldown can also be used for damage if your not in need of a extra throughput cooldown in between your Ashen Hallows.
+A very flexible cooldown can be used for either healing or damage if you're not in need of a extra throughput cooldown in between your Ashen Hallows.
 
 #### **<a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a>**
 
-Is one of the strongest healer cooldowns. And should NEVER be underestimated, this is your best tool to handle large incoming AoE damage spikes but could also be used for tank damage mitigation.
+This is one of the strongest healer cooldowns. And should NEVER be underestimated, this is your best tool to handle large incoming AoE damage spikes but could also be used for tank damage mitigation.
 
 #### **<a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" data-wowhead="spell=6940"></a>**
 
