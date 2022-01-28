@@ -16,7 +16,7 @@ Our strongest cooldown, learning how to play around with this will make the bigg
 
 #### **<a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>**
 
-A very strong healing and damage cooldown, which might be hard to get value out of in m+ pugs since you need to pull very aggresivly around it whenever you have it available. Do not split Avenging Wrath and Ashen Hallow.
+A very strong healing and damage cooldown, which might be hard to get value out of in m+ pugs since you need to pull very aggresivly around it whenever you have it available. You should generally never pop Ashen Hallow without Avenging Wrath. 
 
 #### **<a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wowhead="spell=105809"></a>**
 
