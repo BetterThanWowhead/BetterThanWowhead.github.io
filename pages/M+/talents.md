@@ -124,7 +124,7 @@ This talent should never be played even if your playing with a full range comp R
 This talent synergises very well with Awakening but since Divine Purpose is rng this loses a lot of value for venthyr in keys because you never wan't your throughput to be rng dependent.
 
 **Holy Avenger:**
-This will not only provide you with a strong healing cooldown to force proc wings in between your Ashen Hallows, but also a strong AoE damage cooldown if you're not in need of extra throughput. This should always be your default pick as venthyr in keys.
+This will not only provide you with a strong healing cooldown to force proc wings in between your Ashen Hallows, but also a strong AoE damage cooldown if you're not in need of extra throughput. This should always be your default pick as venthyr in keys. I would suggest you to check out [In-depth dungeon guides](/M+/cd) for more information regarding this.
 
 **Seraphim:**
 This talent does not synergsie at all with Awakening also costs you a GCD and 3 holy power. Only time you would play this is for raid dps logging for fun.
