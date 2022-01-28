@@ -12,15 +12,15 @@ The most important part to success in m+ is knowing how to play around your cool
 
 #### **<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>**
 
-Is by far our strongest cooldown learning how to play around this will make the biggest difference in your gameplay.
+Our strongest cooldown, learning how to play around with this will make the biggest difference in your gameplay.
 
 #### **<a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>**
 
-Is a very strong healing and damage cooldown, which might be hard to get value out of in m+ pugs since you need to pull very aggresivly around it whenever you have it available.
+A very strong healing and damage cooldown, which might be hard to get value out of in m+ pugs since you need to pull very aggresivly around it whenever you have it available. Do not split Avenging Wrath and Ashen Hallow.
 
 #### **<a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wowhead="spell=105809"></a>**
 
-Is a very strong healing cooldown can also be used for damage if your not in need of a extra throughput cooldown in between your Ashen Hallows.
+Are a very flexible healing cooldown can also be used for damage if your not in need of a extra throughput cooldown in between your Ashen Hallows.
 
 #### **<a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a>**
 
