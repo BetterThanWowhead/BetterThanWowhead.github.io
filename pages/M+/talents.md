@@ -77,7 +77,7 @@ This should almost never be played in m+ because having a AoE disorient will be 
 This talent should only be used to CC the mages on second boss Necrotic Wake so your group can ignore playing them completely.
 
 **Blinding Light:**
-This should be your default pick in keys. You can use this to mass interrupt uninterruptible casts like Bucking Rampage in Mists of Tirna Scithe or interrupt the Curse of Obliteration in Halls of Atonement, this will cause the mobs to not recast it and your mage does not have to lose GCDs on decursing it.
+This should be your default pick in keys. You can use this to mass interrupt uninterruptible casts like Bucking Rampage in Mists of Tirna Scithe or interrupt the Curse of Obliteration in Halls of Atonement.
 
 **T35**
 
@@ -182,29 +182,6 @@ This talent will help you a lot with AoE healing, and synergises very well with 
 
 This will provide you with a large amount of AoE burst healing, but does not contribute any damage also becomes very mana inefficient fast and forces you to clutter your GCDs with spells you generally do not want to cast regularly in your rotation.
 
-### **Consumables:**
-
----
-
-Flask: [Spectral Flask of Power](https://www.wowhead.com/item=171276/spectral-flask-of-power)
-
-Food: [Feast of Gluttonous Hedonism](https://www.wowhead.com/item=172043/feast-of-gluttonous-hedonism) or [Tenebrous Crown Roast Aspic](https://www.wowhead.com/spell=308405/tenebrous-crown-roast-aspic) if you don't wan't to spend gold on a feast.
-
-Damage Potion: [Potion of Spectral Intellect](https://www.wowhead.com/item=171273/potion-of-spectral-intellect) or [Potion of Phantom Fire](https://www.wowhead.com/item=171349/potion-of-phantom-fire) for single target (if you're kyrian).
-
-Mana Potion: [Spiritual Mana Potion](https://www.wowhead.com/item=171268/spiritual-mana-potion) Keep in mind this shares cooldown with invisibility potion.
-
-Health Potion: [Cosmic Healing Potion](https://ptr.wowhead.com/item=187802/cosmic-healing-potion).
-
-Invisibility Potion: [Potion of the Hidden Spirit](https://www.wowhead.com/item=171266/potion-of-the-hidden-spirit).
-
-### **Professions:**
-
----
-
-Engineering:
-
-Having this is a absolute must as a Holy Paladin in m+, since it provides you with a battle ress [Disposable Spectrophasic Reanimator](https://www.wowhead.com/item=184308/disposable-spectrophasic-reanimator), also a useful belt enchants like [Dimensional Shifter](https://www.wowhead.com/spell=310495/dimensional-shifter).
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">

@@ -4,7 +4,7 @@ permalink: /M+/gearing
 layout: page
 ---
 
-## **Stat priority:**
+### **Stat priority:**
 
 Intellect > Haste > Versatility > Crit > Mastery.
 
@@ -26,7 +26,7 @@ Since we rarely use Infusion of Light procs Critical Strike loses a lot of value
 
 Mastery is still a decent choice for raw healing. But it has no effect on our damage, the healing it contributes is also dependent on composition and positioning.
 
-## **Best Legendarys**
+### **Best Legendarys**
 
 ---
 
@@ -34,7 +34,7 @@ Mad Paragon will be your best legendary for Venthyr as it will greatly increase 
 
 Shock Barrier is our strongest healing legendary in m+ and are also passive, This would be your legendary if you wan’t more healing.
 
-## **Enchant and Gems**
+### **Enchant and Gems**
 
 ---
 
@@ -57,6 +57,29 @@ Weapon Oil: [Shadowcore Weapon Oil](https://www.wowhead.com/item=171285/shadowco
 Armor Kit: [Heavy Desolate Armor Kit](https://www.wowhead.com/item=172347/heavy-desolate-armor-kit).
 
 Gems: [Quick Jewel Cluster](https://www.wowhead.com/item=173128/quick-jewel-cluster) or [Versatile Jewel Cluster](https://www.wowhead.com/item=173129/versatile-jewel-cluster) depending on your gear.
+
+### **Consumables:**
+---
+
+Flask: [Spectral Flask of Power](https://www.wowhead.com/item=171276/spectral-flask-of-power)
+
+Food: [Feast of Gluttonous Hedonism](https://www.wowhead.com/item=172043/feast-of-gluttonous-hedonism) or [Tenebrous Crown Roast Aspic](https://www.wowhead.com/spell=308405/tenebrous-crown-roast-aspic) if you don't wan't to spend gold on a feast.
+
+Damage Potion: [Potion of Spectral Intellect](https://www.wowhead.com/item=171273/potion-of-spectral-intellect) or [Potion of Phantom Fire](https://www.wowhead.com/item=171349/potion-of-phantom-fire) for single target (if you're kyrian).
+
+Mana Potion: [Spiritual Mana Potion](https://www.wowhead.com/item=171268/spiritual-mana-potion) Keep in mind this shares cooldown with invisibility potion.
+
+Health Potion: [Cosmic Healing Potion](https://ptr.wowhead.com/item=187802/cosmic-healing-potion).
+
+Invisibility Potion: [Potion of the Hidden Spirit](https://www.wowhead.com/item=171266/potion-of-the-hidden-spirit).
+
+### **Professions:**
+---
+
+Engineering:
+
+Having this is a absolute must as a Holy Paladin in m+, since it provides you with a battle ress [Disposable Spectrophasic Reanimator](https://www.wowhead.com/item=184308/disposable-spectrophasic-reanimator), also a useful belt enchants like [Dimensional Shifter](https://www.wowhead.com/spell=310495/dimensional-shifter).
+
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">
