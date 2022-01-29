@@ -51,7 +51,7 @@ This will restore 20k of your health pool and should be used frequently whenever
 ### **Dawn Will Come:**
 ---
 
-In construction.
+The holy paladin tier sett will change how you play in mythic+ drastically.
 
 **What does it do?**
 
@@ -59,11 +59,11 @@ In construction.
 
 (4 set) Each target hit by Light of Dawn has a 100% chance to reduce the remaining cooldown of Avenging Wrath by 2 sec.
 
-**Quick Playstyle:**
+### **Quick Playstyle:**
 
 ---
 
-Here you can see what your playstyle should look like, use the following sheet:
+Here you can see what your playstyle should look like:
 
 1. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown (either for healing or damage).
 2. Use 
