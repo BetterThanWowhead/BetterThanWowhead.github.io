@@ -6,8 +6,7 @@ layout: page
 
 The most important part to success in m+ is knowing how to play around your cooldowns and where to use them properly.
 
-## **Healing Cooldowns.**
-
+### **Healing Cooldowns.**
 ---
 
 #### **<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>**
@@ -49,8 +48,18 @@ Is off GCD and our big instant emergency heal. You shouldn’t hesitate to use t
 
 This will restore 20k of your health pool and should be used frequently whenever you're in critical danger.
 
-## **Quick Playstyle.**
+### **Dawn Will Come:**
+---
 
+In construction.
+
+**What does it do?**
+
+(2 set) Casting Word of Glory causes your next Light of Dawn to heal for 50% more and cast twice. Cannot occur more often than once per 30 sec.
+        
+(4 set) Each target hit by Light of Dawn has a 100% chance to reduce the remaining cooldown of Avenging Wrath by 2 sec.
+
+ ### **Quick Playstyle:**
 ---
 
 Here you can see what your playstyle should look like, use the following sheet:
