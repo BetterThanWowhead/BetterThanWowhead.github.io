@@ -22,6 +22,8 @@ All these addons and weakauras will increase your performance.
 
 [Details Damage Meter](https://www.curseforge.com/wow/addons/details)
 
+[MaxCam](https://www.curseforge.com/wow/addons/maxcam) or the chat command ''/console cameradistancemaxzoomfactor 2.6''
+
 **Weakauras:**
 
 ---
@@ -32,5 +34,4 @@ All these addons and weakauras will increase your performance.
 **Macros:**
 
 ---
-
 /cast [@mouseover, exists][] Spell Name

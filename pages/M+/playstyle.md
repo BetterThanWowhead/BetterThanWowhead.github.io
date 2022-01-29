@@ -38,7 +38,7 @@ With <a href="https://www.wowhead.com/spell=114154/unbreakable-spirit" data-wowh
 
 Knowing when to use this will save you more keys then what you could imagine. This can be used to clear Necrotic stacks, immuning certain dangerous boss mechanics, or removing dangerous debuffs, Blessing of Protection is an extremely strong cooldown.
 
-Note: Blessing of Protection won't mitigate Blessing of Sacrifice damage taken if its not physical.
+Note: Blessing of Protection won't mitigate Blessing of Sacrifice damage taken unless its physical damage taken.
 
 #### **<a href="https://www.wowhead.com/spell=633/lay-on-hands" data-wowhead="spell=633"></a>**
 
@@ -51,7 +51,7 @@ This will restore 20k of your health pool and should be used frequently whenever
 ### **Dawn Will Come:**
 ---
 
-The holy paladin tier set will change how you were play in mythic+ drastically.
+The holy paladin tier set will change how you were playing in mythic+ drastically.
 
 **What does it do?**
 
