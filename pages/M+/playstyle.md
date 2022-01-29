@@ -56,10 +56,11 @@ In construction.
 **What does it do?**
 
 (2 set) Casting Word of Glory causes your next Light of Dawn to heal for 50% more and cast twice. Cannot occur more often than once per 30 sec.
-        
+
 (4 set) Each target hit by Light of Dawn has a 100% chance to reduce the remaining cooldown of Avenging Wrath by 2 sec.
 
- ### **Quick Playstyle:**
+**Quick Playstyle:**
+
 ---
 
 Here you can see what your playstyle should look like, use the following sheet:
