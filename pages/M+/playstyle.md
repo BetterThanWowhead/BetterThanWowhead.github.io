@@ -51,7 +51,7 @@ This will restore 20k of your health pool and should be used frequently whenever
 ### **Dawn Will Come:**
 ---
 
-The holy paladin tier sett will change how you play in mythic+ drastically.
+The holy paladin tier set will change how you were play in mythic+ drastically.
 
 **What does it do?**
 
