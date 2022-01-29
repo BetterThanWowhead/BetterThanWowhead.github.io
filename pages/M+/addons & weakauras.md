@@ -34,12 +34,3 @@ All these addons and weakauras will increase your performance.
 ---
 
 /cast [@mouseover, exists][] Spell Name
-
-<div>
-<div style="text-align:left;display: inline-block;width: 49%;">
-<a href="/M+/playstyle"> < Addons & WeakAuras </a>
-</div>
-<div style="text-align:right;display: inline-block;width: 49%;">
-<a href="/M+/cd"> ----></a>
-</div>
-</div>
