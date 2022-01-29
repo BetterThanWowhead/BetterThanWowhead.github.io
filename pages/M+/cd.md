@@ -11,6 +11,6 @@ The key to managing your cooldowns in a m+ dungeon is knowing the route and the 
 <a href="/M+/playstyle"> < Playstyle</a>
 </div>
 <div style="text-align:right;display: inline-block;width: 49%;">
-<a href="/M+/cd"> ---- ></a>
+<a href="/M+/cd"> Addons & Weakauras ></a>
 </div>
 </div>
