@@ -18,6 +18,8 @@ Only thing that really does any damage on this boss is not breaking the Mind Lin
 **Important trash mechanics to use utility on:**
 
 ---
+**Drust Spiteclaw's Bloodletting:** Blessing of Protection will fully immune all the damage from this debuff.
+
 **Drust Harvester's Harvest Essence:** This ability should not be interrupted but instead CCd with Blinding Light, Leg Sweep etc, because you can't afford Spirit Bolt casts going througt on a high fortified key.
 
 **Drust Soulcleaver's Hand of Thros:** When they use this ability you wan't to make sure to Hammer of Justice one of these to prevent them from healing and making it a lot easier for your tank to handle.

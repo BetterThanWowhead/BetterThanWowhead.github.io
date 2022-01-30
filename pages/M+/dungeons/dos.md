@@ -27,3 +27,5 @@ There's two ways to play this boss, you either one phase or you two phase it. If
 **Enraged Spirit's Enraged Mask:** Using Blinding Light on the Enraged Mask will interrupt them and cause them to disappear.
 
 **Atal'ai Deathwalker:** Blinding Light will interrupt the Bladestorm and will allow your group to go back into melee again. Using Hammer of Justice on this mob will save you a lot of healing globals, and will allow your tank to reset Gushing Wound stacks easier. Blessing of Sacrifice can be used whenever you do not have Avenging Wrath available to mitigate Gushing Wound damage taken.
+
+**Lubricator's Self-Cleaning Cycle or Lubricate:** If you see that your entire groups interrupts are on cooldown, Hammer of Justice the cast. (Blinding Light does not work).
