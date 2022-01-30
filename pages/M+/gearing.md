@@ -78,7 +78,8 @@ Invisibility Potion: [Potion of the Hidden Spirit](https://www.wowhead.com/item=
 
 Engineering:
 
-Having this is a absolute must as a Holy Paladin in m+, since it provides you with a battle ress [Disposable Spectrophasic Reanimator](https://www.wowhead.com/item=184308/disposable-spectrophasic-reanimator), also a useful belt enchants like [Dimensional Shifter](https://www.wowhead.com/spell=310495/dimensional-shifter).
+Having this is a absolute must as a Holy Paladin in m+, since it provides you with a combat ress [Disposable Spectrophasic Reanimator](https://www.wowhead.com/item=184308/disposable-spectrophasic-reanimator), also a useful things like [Dimensional Shifter](https://www.wowhead.com/spell=310495/dimensional-shifter) or 
+[Momentum Redistributor Boots](https://www.wowhead.com/item=172912/momentum-redistributor-boots).
 
 
 <div>
