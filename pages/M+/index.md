@@ -16,6 +16,8 @@ In this guide you'll find everything you need to know to become the Mona Lisa of
    1. [Stats](/M+/general/#strengths)
    2. [Legendary](/M+/general/#best-legendarys)
    3. [Enchants](/M+/general/#enchant-and-gems)
+   4. [Consumables](/M+/general/#Consumables)
+   5. [Proffesions](/M+/general/#Proffesions)
 4. [Talents](/M+/talents)
 5. [Trinkets](/M+/trinkets)
 6. [Soulbind](/M+/soulbind)
