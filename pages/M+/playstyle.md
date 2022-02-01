@@ -95,7 +95,7 @@ Here you can see what your playstyle should look like:
 \> <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a>
 \> <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a>
 \> <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> to proc 
-<a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a> and <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> > <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc 2 set and reduce cooldown of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>.
+<a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a> and <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> > <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc 2 piece and reduce cooldown of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>.
 
 **AoE Damage Priority**
 
@@ -128,7 +128,7 @@ Here you can see what your playstyle should look like:
 
 <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>
 \> <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a>
-\> <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc the second effect of <a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a>
+\> <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc the second effect of the 2 piece <a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a>
 \> <a href="https://www.wowhead.com/spell=283637/crusader-strike" data-wowhead="spell=283637"></a> (for holy power generation)
 \> <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> (If <a href="https://www.wowhead.com/spell=183778/judgment-of-light" data-wowhead="spell=183778"></a> talented)
 \> <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> (assuming you don’t have <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> or enough holy power AND if someone is in critical danger)

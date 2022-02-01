@@ -8,10 +8,11 @@ comments: false
 
 Hello peeps.
 
-If you have a question about him or else, just send write me ingame.
+If you have a question about him or else.
 
 **may u needs ✨**
 
 - sknerost@gmail.com
 - discord tag: Skånerost#5248
 
+Stop being weird and reroll mistweaver monk.
