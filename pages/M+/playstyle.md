@@ -51,7 +51,7 @@ This will restore 20k of your health pool and should be used frequently whenever
 ### **Dawn Will Come:**
 ---
 
-The holy paladin tier set will change how you were playing in mythic+ drastically, since you wan't to make sure that you cast atleast one Light of Dawn every 30 seconds and hit as many players as possible. Whenever you have downtime you wan't to fit in a few more casts. Keep in mind windwalkers storm, earth, and fire or any pets in general will give you CDR on Avenging Wrath. I would suggest you getting a weakaura for the tier set cooldown and duration, check out [Addons & WeakAuras](/M+/wa).
+The holy paladin tier set will change how you were playing in mythic+ drastically, since you wan't to make sure that you cast atleast one Light of Dawn every 30 seconds and hit as many players as possible. Whenever you have downtime you wan't to fit in a few more casts, keep in mind windwalkers storm, earth, and fire or any pets in general will give you CDR on Avenging Wrath. I would suggest you getting a weakaura for the tier set cooldown and duration, check out [Addons & WeakAuras](/M+/wa).
 
 **What does it do?**
 
@@ -65,17 +65,19 @@ The holy paladin tier set will change how you were playing in mythic+ drasticall
 
 Here you can see what your playstyle should look like:
 
-1. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown (either for healing or damage).
+1. Use 
+<a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown (either for healing or damage).
 2. Use 
 <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> (If talented to 
 <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wowhead="spell=196926"></a>) to reset cooldown of 
 <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>.
-3. Spend holy power on 
-<a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> or 
-<a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc 
-<a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> (if you're not inside of 
-<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>) otherwhise use 
-<a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> if there's no healing required.
+3. Spend holy power on  <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> to proc 
+<a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a> (if available) otherwhise cast
+<a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to reduce cooldown of 
+<a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=85222"></a>, if there's a target in critical danger then use 
+<a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a>, If you're inside 
+<a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=85222"></a> and there's no healing required then use 
+<a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> if 3+ targets.
 4. Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> down all the time.
 5. Cast <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown whenever it's available.
 6. Cast <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> on cooldown.
