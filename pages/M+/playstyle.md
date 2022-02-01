@@ -107,9 +107,7 @@ Here you can see what your playstyle should look like:
 \> <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a>
 \> <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> to proc 
 <a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a> and  
-<a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a>
-\> <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc 4 set and reduce cooldown of 
-<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>.
+<a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> > <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc 4 set and reduce cooldown of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>.
 
 **AoE Damage Priority**
 
