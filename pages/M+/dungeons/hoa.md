@@ -1,6 +1,6 @@
 ---
 title: Halls of Atonement
-permalink: /M+/cd/hoa
+permalink: /M+/dungeons/hoa
 layout: dungeons
 ---
 **Halkias:**

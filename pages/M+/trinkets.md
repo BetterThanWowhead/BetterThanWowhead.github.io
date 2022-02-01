@@ -6,8 +6,6 @@ layout: page
 
 ### **On use:**
 
----
-
 [Soulletting Ruby](https://www.wowhead.com/item=178809/soulletting-ruby?bonus=6805:1472)
 This is a very strong on use trinket since it lines up with wings (Do not keybind this into wings) since you wanna use it on a low health target whenever you can.
 

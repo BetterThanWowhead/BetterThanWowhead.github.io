@@ -6,8 +6,6 @@ layout: page
 
 ## Strengths
 
----
-
 **Damage.**
 
 Paladins biggest strength is our ability to do big amounts of damage on command. Our cooldowns also give us insanely high priority damage.
@@ -26,8 +24,6 @@ Paladins utility is one of the strongest in mythic+ currently when used correctl
 
 ## Weaknesses
 
----
-
 **Throughput outside of major cooldowns.**
 
 Holy Paladins biggest weakness is that we're too reliant on our cooldowns to carry us through difficult parts of the dungeons. The largest learning curves in dungeon healing as a paladin is learning how to manage your cooldowns properly.
@@ -38,9 +34,9 @@ Being a melee healer has historically been a weakness in dungeons, because mobs 
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">
-<a href="/M+/soulbind"> < Soulbind</a>
+<a href="/M+/"> < Overview</a>
 </div>
-<div style="text-align:right;">
-<a href="/M+/gearing"> Gearing ></a>
+<div style="text-align:right;display: inline-block;width: 49%;">
+<a href="/M+/consumables"> Consumables ></a>
 </div>
 </div>

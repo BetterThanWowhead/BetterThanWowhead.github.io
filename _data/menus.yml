@@ -8,6 +8,10 @@
       url: /M+/
     - title: General
       url: /M+/general
+    - title: Consumables
+      url: /M+/consumables
+    - title: Professions
+      url: /M+/professions
     - title: Gearing
       url: /M+/gearing
     - title: Talents
@@ -16,10 +20,14 @@
       url: /M+/trinkets
     - title: Soulbind
       url: /M+/soulbind
+    - title: Abilities
+      url: /M+/abilities
     - title: Playstyle
       url: /M+/playstyle
-    - title: Cooldown management
-      url: /M+/cd
+    - title: Dungeon guides
+      url: /M+/dungeons
+    - title: Addons & Weakauras
+      url: /M+/weakauras
 
 - title: Raid
   url: /Raid/

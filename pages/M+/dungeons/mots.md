@@ -1,6 +1,6 @@
 ---
 title: Mists of Tirna Scithe
-permalink: /M+/cd/mots
+permalink: /M+/dungeons/mots
 layout: dungeons
 ---
 **Ingra Maloch:**

@@ -1,6 +1,6 @@
 ---
 title: Theater of Pain
-permalink: /M+/cd/top
+permalink: /M+/dungeons/top
 layout: dungeons
 ---
 **Affront of Challengers:**

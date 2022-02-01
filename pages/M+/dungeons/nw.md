@@ -1,6 +1,6 @@
 ---
 title: Necrotic Wake
-permalink: /M+/cd/nw
+permalink: /M+/dungeons/nw
 layout: dungeons
 ---
 **Blightbone:**

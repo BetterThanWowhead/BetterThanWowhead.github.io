@@ -1,6 +1,6 @@
 ---
 title: Plaguefall
-permalink: /M+/cd/pf
+permalink: /M+/dungeons/pf
 layout: dungeons
 ---
 **Globgrog:**

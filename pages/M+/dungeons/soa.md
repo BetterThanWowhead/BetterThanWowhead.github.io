@@ -1,6 +1,6 @@
 ---
 title: Spires of Ascension
-permalink: /M+/cd/soa
+permalink: /M+/dungeons/soa
 layout: dungeons
 ---
 **Kin-Tara:**

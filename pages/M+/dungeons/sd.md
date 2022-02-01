@@ -1,6 +1,6 @@
 ---
 title: Sanguine Depths
-permalink: /M+/cd/sd
+permalink: /M+/dungeons/sd
 layout: dungeons
 ---
 **Kryxis:**

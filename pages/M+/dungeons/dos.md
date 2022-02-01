@@ -1,6 +1,6 @@
 ---
 title: De Other Side
-permalink: /M+/cd/dos
+permalink: /M+/dungeons/dos
 layout: dungeons
 ---
 **Hakkar the Soulflayer:**

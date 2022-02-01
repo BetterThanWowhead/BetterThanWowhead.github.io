@@ -6,8 +6,6 @@ layout: page
 
 **T15**
 
----
-
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wh-icon-size="medium" data-wowhead="spell=196926"></a>
@@ -30,8 +28,6 @@ I would personally not recommend playing this ever, but there is scenarios where
 This should be your go to talent as venthyr in every dungeon. This will provide you with a solid amount of damage.
 
 **T25**
-
----
 
 <div class="row">
   <div class="column">
@@ -56,8 +52,6 @@ This talent is very mana inefficient and costs you a GCD every 20 seconds for ve
 
 **T30**
 
----
-
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=234299/fist-of-justice" data-wh-icon-size="medium" data-wowhead="spell=234299"></a>
@@ -80,8 +74,6 @@ This talent should only be used to CC the mages on second boss Necrotic Wake so 
 This should be your default pick in keys. You can use this to mass interrupt uninterruptible casts like Bucking Rampage in Mists of Tirna Scithe or interrupt the Curse of Obliteration in Halls of Atonement.
 
 **T35**
-
----
 
 <div class="row">
   <div class="column">
@@ -106,8 +98,6 @@ This talent should never be played even if your playing with a full range comp R
 
 **T40**
 
----
-
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=223817/divine-purpose" data-wh-icon-size="medium" data-wowhead="spell=223817"></a>
@@ -130,8 +120,6 @@ This will not only provide you with a strong healing cooldown to force proc wing
 This talent does not synergsie at all with Awakening also costs you a GCD and 3 holy power. Only time you would play this is for raid dps logging for fun.
 
 **T45**
-
----
 
 <div class="row">
   <div class="column">
@@ -156,8 +144,6 @@ This should be your default pick in keys, because it provides you with very cons
 
 **T50**
 
----
-
 <div class="row">
   <div class="column">
     <a href="https://www.wowhead.com/spell=287268/glimmer-of-light" data-wh-icon-size="medium" data-wowhead="spell=287268"></a>
@@ -181,7 +167,6 @@ This talent will help you a lot with AoE healing, and synergises very well with 
 **Beacon of Virtue:**
 
 This will provide you with a large amount of AoE burst healing, but does not contribute any damage also becomes very mana inefficient fast and forces you to clutter your GCDs with spells you generally do not want to cast regularly in your rotation.
-
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">
