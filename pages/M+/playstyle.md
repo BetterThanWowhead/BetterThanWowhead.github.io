@@ -51,7 +51,7 @@ This will restore 20k of your health pool and should be used frequently whenever
 ### **Dawn Will Come:**
 ---
 
-The holy paladin tier set will change how you were playing in mythic+ drastically, since you wan't to make sure that you cast atleast one Light of Dawn every 30 seconds and hit as many players as possible and whenever you have downtime you wan't to fit in a few more casts. Keep in mind windwalkers storm, earth, and fire or any pets in general will give you CDR on Avenging Wrath. I would suggest you getting a weakaura for the tier set cooldown and duration, check out [Addons & WeakAuras](/M+/wa).
+The holy paladin tier set will change how you were playing in mythic+ drastically, since you wan't to make sure that you cast atleast one Light of Dawn every 30 seconds and hit as many players as possible. Whenever you have downtime you wan't to fit in a few more casts. Keep in mind windwalkers storm, earth, and fire or any pets in general will give you CDR on Avenging Wrath. I would suggest you getting a weakaura for the tier set cooldown and duration, check out [Addons & WeakAuras](/M+/wa).
 
 **What does it do?**
 
