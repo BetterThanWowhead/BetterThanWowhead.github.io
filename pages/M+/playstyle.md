@@ -127,7 +127,7 @@ Here you can see what your playstyle should look like:
 **Healing Ability Priority.**
 
 <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>
-\> <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> to proc <a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a>
+\> <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a>
 \> <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc the second effect of <a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a>
 \> <a href="https://www.wowhead.com/spell=283637/crusader-strike" data-wowhead="spell=283637"></a> (for holy power generation)
 \> <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> (If <a href="https://www.wowhead.com/spell=183778/judgment-of-light" data-wowhead="spell=183778"></a> talented)
