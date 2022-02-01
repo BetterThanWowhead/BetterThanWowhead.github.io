@@ -4,7 +4,7 @@ permalink: /M+/
 layout: page
 ---
 
-In this guide you'll find everything you need to know to become the Mona Lisa of Holy Paladins.
+Read until the end and multiple times to become the next Mona Lisa of Holy Paladins.
 
 # Table of Contents
 
