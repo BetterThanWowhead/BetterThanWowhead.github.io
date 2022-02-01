@@ -95,8 +95,7 @@ Here you can see what your playstyle should look like:
 \> <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a>
 \> <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a>
 \> <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> to proc 
-<a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a> and  
-<a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> > <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc 4 set and reduce cooldown of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>.
+<a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a> and <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> > <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to proc 4 set and reduce cooldown of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a>.
 
 **AoE Damage Priority**
 
@@ -113,7 +112,7 @@ Here you can see what your playstyle should look like:
 <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a>
 \>
 <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> to proc 
-<a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a> (when available) > if not then <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> or if <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> are not active then <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to reduce cooldown of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> and to proc <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a>.
+<a href="https://ptr.wowhead.com/spell=364468/dawn-will-come" data-wowhead="spell=364468"></a> (when available) > if not then <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> or if <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> are not active then <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to reduce cooldown of <a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" data-wowhead="spell=31884"></a> and to proc <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a>, if someone is in critical danger then cast <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a>.
 
 **Healing Cooldown Priority.**
 
