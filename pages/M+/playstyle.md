@@ -12,7 +12,7 @@ layout: page
 4. Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> at all time.
 5. Cast <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> when available.
 6. Cast <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> on cooldown.
-7. Use <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> if someone is in critical danger and <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> is on cooldown and you do not have enough holy power.
+7. Use <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a>
 8. Fill empty GCDs with <a href="https://www.wowhead.com/spell=82326/holy-light" data-wowhead="spell=82326"></a> on <a href="https://www.wowhead.com/spell=53563/beacon-of-light" data-wowhead="spell=53563"></a> if you have <a href="https://www.wowhead.com/spell=53576/infusion-of-light" data-wowhead="spell=53576"></a> otherwhise cast <a href="https://www.wowhead.com/spell=19750/flash-of-light" data-wowhead="spell=19750"></a> or if no healing required then redrop <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a>.
 
 **Healing doesn't really have a rotation, and its important to be flexible in whatever situation you're in. Use this as a guideline:**
