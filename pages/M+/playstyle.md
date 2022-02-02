@@ -7,19 +7,12 @@ layout: page
 **Playstyle:**
 
 1. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown, either for damage or healing.
-
 2. If talented to <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wowhead="spell=196926"></a> then use <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> to reset cooldown of <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>.
-
 3. Spend your holy power on <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a> or <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> for <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a>, if <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> are already active then <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> on 3+ if there's no healing required.
-
 4. Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> at all time.
-
 5. Cast <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> when available.
-
 6. Cast <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> on cooldown.
-
 7. Use <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> if someone is in critical danger and <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> is on cooldown and you do not have enough holy power.
-
 8. Fill empty GCDs with <a href="https://www.wowhead.com/spell=82326/holy-light" data-wowhead="spell=82326"></a> on <a href="https://www.wowhead.com/spell=53563/beacon-of-light" data-wowhead="spell=53563"></a> if you have <a href="https://www.wowhead.com/spell=53576/infusion-of-light" data-wowhead="spell=53576"></a> otherwhise cast <a href="https://www.wowhead.com/spell=19750/flash-of-light" data-wowhead="spell=19750"></a> or if no healing required then redrop <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a>.
 
 **Healing doesn't really have a rotation, and its important to be flexible in whatever situation you're in. Use this as a guideline:**
