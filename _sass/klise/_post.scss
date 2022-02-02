@@ -88,7 +88,7 @@
   }
 
   a {
-    color: #f58cba;
+    color: $text-link-blue;
     text-decoration: none;
     &[target="_blank"]::after {
       content: " \2197";
@@ -259,3 +259,4 @@
 .post-updated-at {
   font-family: "Ubuntu mono", "monospace";
 }
+
