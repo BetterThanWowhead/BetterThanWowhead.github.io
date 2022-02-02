@@ -27,7 +27,7 @@ layout: page
 
 You should treat <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> as a ''Panic'' button, so whenever someone is in danger of dying and you do not have enough holy power or <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> available then use this.
 
-**Healing Cooldown Priority:**
+**Healing Cooldown Priorities:**
 
 <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a>
 \>
@@ -41,7 +41,7 @@ You should treat <a href="https://www.wowhead.com/spell=183998/light-of-the-mart
 
 Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons)
 
-**AoE Damage Priority:**
+**AoE Damage Priorities:**
 
 Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> down at all time 
 \>
@@ -55,7 +55,7 @@ Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="sp
 \>
 spend holy power on <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> assuming <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> are active otherwhise fish for <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a>.
 
-**Single Target Damage Priority:** 
+**Single Target Damage Priorities:** 
 
 <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown whenever available >
 <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> if inside 
