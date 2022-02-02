@@ -12,7 +12,7 @@ layout: page
 4. Spend holy power on <a href="https://www.wowhead.com/spell=85673/word-of-glory" data-wowhead="spell=85673"></a>.
 5. Throw <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> if talented to <a href="https://www.wowhead.com/spell=183778/judgment-of-light" data-wowhead="spell=183778"></a>.
 6. Use <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a>.
-7. Cast <a href="https://www.wowhead.com/spell=82326/holy-light" data-wowhead="spell=82326"></a> on <a href="https://www.wowhead.com/spell=53563/beacon-of-light" data-wowhead="spell=53563"></a> if you have <a href="https://www.wowhead.com/spell=53576/infusion-of-light" data-wowhead="spell=53576"></a> otherwhise cast <a href="https://www.wowhead.com/spell=19750/flash-of-light" data-wowhead="spell=19750"></a>.
+7. Fill empty GCDs with <a href="https://www.wowhead.com/spell=82326/holy-light" data-wowhead="spell=82326"></a> on <a href="https://www.wowhead.com/spell=53563/beacon-of-light" data-wowhead="spell=53563"></a> if you have <a href="https://www.wowhead.com/spell=53576/infusion-of-light" data-wowhead="spell=53576"></a> otherwhise cast <a href="https://www.wowhead.com/spell=19750/flash-of-light" data-wowhead="spell=19750"></a>.
 
 You should treat <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> as a ''Panic'' button, so whenever someone is in danger of dying and you do not have enough holy power or <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> available then use this.
 
