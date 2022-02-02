@@ -17,6 +17,8 @@ Health Potion: [Cosmic Healing Potion](https://ptr.wowhead.com/item=187802/cosmi
 
 Invisibility Potion: [Potion of the Hidden Spirit](https://www.wowhead.com/item=171266/potion-of-the-hidden-spirit).
 
+Other: [Potion of Sacrificial Anima](https://www.wowhead.com/item=176811/potion-of-sacrificial-anima) is a good option if you're playing Avenging Crusader.
+
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">
 <a href="/M+/general"> < General</a>

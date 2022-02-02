@@ -29,8 +29,6 @@ You should treat <a href="https://www.wowhead.com/spell=183998/light-of-the-mart
 
 **Healing Cooldown Priority:**
 
-check out how to play around with these cooldowns in [Dungeons](/M+/dungeons)
-
 <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a>
 \>
 <a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wowhead="spell=105809"></a>
@@ -40,6 +38,8 @@ check out how to play around with these cooldowns in [Dungeons](/M+/dungeons)
 <a href="https://www.wowhead.com/spell=642/divine-shield" data-wowhead="spell=642"></a> + <a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" data-wowhead="spell=6940"></a>
 \>
 <a href="https://www.wowhead.com/spell=633/lay-on-hands" data-wowhead="spell=633"></a>
+
+Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons)
 
 **AoE Damage Priority:**
 

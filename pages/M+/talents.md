@@ -94,7 +94,7 @@ This talent is a absolute must in keys, it will provide you with a 30% cooldown 
 Don't play this.
 
 **Rule of Law:**
-This talent should never be played even if your playing with a full range comp Rule of Law won't be comparable to Unbreakable Spirit.
+This talent should never be played even if your playing with a full range comp Rule of Law won't be comparable to Unbreakable Spirit. Rule of Law does also not work with any of your blessings.
 
 **T40**
 
