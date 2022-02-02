@@ -55,13 +55,9 @@ spend holy power on <a href="https://www.wowhead.com/spell=53600/shield-of-the-r
 
 **Single Target Damage Priority:** 
 
-<a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown whenever available
-\>
+<a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown whenever available >
 <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> if inside 
-<a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a>  
-\>
-<a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>
-\>
+<a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> > <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> >
 <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> if not already active
 \>
 <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a>
