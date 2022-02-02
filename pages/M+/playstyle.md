@@ -29,6 +29,8 @@ You should treat <a href="https://www.wowhead.com/spell=183998/light-of-the-mart
 
 **Healing Cooldown Priority:**
 
+check out how to play around with these cooldowns in [Dungeons](/M+/dungeons)
+
 <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a>
 \>
 <a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wowhead="spell=105809"></a>
