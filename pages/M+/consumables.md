@@ -19,6 +19,30 @@ Invisibility Potion: [Potion of the Hidden Spirit](https://www.wowhead.com/item=
 
 Other: [Potion of Sacrificial Anima](https://www.wowhead.com/item=176811/potion-of-sacrificial-anima) is a good option if you're playing Avenging Crusader.
 
+### $$with pot$$
+
+###### $$ hammer = (spellpower + pot) \times 1.2 \times (1+ TotalVers + hasWings + buffs + hasAshen + hasMadParagon) \times casts$$
+
+###### $$cooldown = 7.5 / (1 + TotalHaste)$$
+
+###### $$casts = time / cooldown$$
+
+###### $$ hammer = (2200 + 190) \times 1.2 \times (1 + 0.25 + 0.20 + 0.05 + 1 + 0.3) \times time / cooldown$$
+
+###### $$ hammer = (2200 + 190) \times 1.2 \times (1 + 0.25 + 0.20 + 0.05 + 1 + 0.3) \times 30 / 6$$
+
+###### $$ hammer = 2390 \times 1.2 \times 2.8 \times 5$$ 
+
+###### $$ hammer = 40152$$
+
+### $$no pot$$
+
+###### $$ hammer = 2200 \times 1.2 \times 2.8 \times 5$$ 
+
+######  $$ hammer = 36960$$
+
+$$ x = 2200 \times 1.2 \times \frac{2.8y}{5}$$
+
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">
 <a href="/M+/general"> < General</a>
@@ -27,3 +51,4 @@ Other: [Potion of Sacrificial Anima](https://www.wowhead.com/item=176811/potion-
 <a href="/M+/professions"> Professions ></a>
 </div>
 </div>
+ 
