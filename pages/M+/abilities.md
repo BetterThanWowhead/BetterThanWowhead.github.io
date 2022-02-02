@@ -6,7 +6,7 @@ layout: page
 
 The most important part to success in m+ is knowing how to play around your cooldowns and where to use them properly.
 
-#### **<a href="https://tbc.wowhead.com/spell=31884/avenging-wrath" target="_blank" rel="noopener noreferrer" data-wowhead="spell=31884" data-wh-icon-size="large"></a>**
+#### **<a href="https://www.wowhead.com/spell=66011/avenging-wrath" target="_blank" rel="noopener noreferrer" data-wowhead="spell=66011" data-wh-icon-size="large"></a>**
 
 Our strongest cooldown, learning how to play around with this will make the biggest difference in your gameplay.
 
