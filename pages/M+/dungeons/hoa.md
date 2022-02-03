@@ -5,7 +5,7 @@ layout: dungeons
 ---
 **Halkias:**
 
-After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight, which means the tank will most likely move away to give people enough space before the Refracted Sinlight happens, make sure to wait abit before casting your Ashen Hallow if you get it back from cooldown during the fight, so he does not accidently move out of it.
+After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight, which means the tank will most likely move away to give people enough space before the Refracted Sinlight happens, make sure to wait abit before casting your Ashen Hallow if you get it back from cooldown during the fight, so he does not accidentally move out of it.
 
 **Echelon:**
 
@@ -13,18 +13,18 @@ On this fight its important to rotate your cooldowns for every wave of adds, and
 
 **High Adjudicator Aleez:**
 
-This boss have no healing requirement if your group interrupt the Volley of Power, so try do as much damage as you can.
+this boss has no healing requirement if your group interrupts the Volley of Power, so try do as much damage as you can.
 
 **Lord Chamberlain:**
 
-On this boss with a coordinated group and assuming you have a windwalker monk or any sort of immunity specs, you preferably do NOT wan't to soak the Ritual of Woe with your Divine Shield because taunting the Stigma of Pride debuff that will apply to the tank will mitigate a lot of damage and will make it a ton easier for your tank. When you do not have Avenging Wrath, you can Blessing of Sacrifice the tank to mitigate damage taken.
+On this boss with a coordinated group and assuming you have a windwalker monk or any sort of immunity specs, you preferably do NOT want to soak the Ritual of Woe with your Divine Shield because taunting the Stigma of Pride debuff that will apply to the tank will mitigate a lot of damage and will make it a ton easier for your tank. When you do not have Avenging Wrath, you can Blessing of Sacrifice the tank to mitigate damage taken.
 
 **Important trash mechanics to use utility on:**
 
 ---
 **Shard of Halkias Thrash:** You should rotate damage mitigation cooldowns whenever you do not have Avenging Wrath available, keep in mind Blessing of Protection will immune this ability.
 
-**Depraved Collector's Collect Sins:** Letting this cast go fully through is usefull for funnel damage in current meta, but if your tank is kiting and this mob is still alive he will cast Collect Sins on the nearest target and most likely kill him, if you see this is about to happen use Hammer of Justice or Blinding Light immediately.
+**Depraved Collector's Collect Sins:** Letting this cast go fully through is useful for funnel damage in current meta, but if your tank is kiting and this mob is still alive he will cast Collect Sins on the nearest target and most likely kill him, if you see this is about to happen use Hammer of Justice or Blinding Light immediately.
 
 **Depraved Houndmaster's Loyal Beast:** This will increase Vicious Gargron's damage done by 125% make sure to Hammer of Justice this.
 

@@ -12,7 +12,7 @@ You should always prioritise Intellect during first few tiers of a expansion, th
 
 **Haste:**
 
-This is our strongest secondary because holy power generation. There’s no breakpoints or softcaps stack it until mana becomes a issue.
+This is our strongest secondary because holy power generation. There’s no breakpoints or softcaps stack it until mana becomes an issue.
 
 **Versatility:**
 
@@ -26,13 +26,13 @@ Since we rarely use Infusion of Light procs Critical Strike loses a lot of value
 
 Mastery is still a decent choice for raw healing. But it has no effect on our damage, the healing it contributes is also dependent on composition and positioning.
 
-### **Best Legendarys**
+### **Best Legendaries**
 
 ---
 
 Mad Paragon will be your best legendary for Venthyr as it will greatly increase our damage we do inside Ashen Hallow.
 
-Shock Barrier is our strongest healing legendary in m+ and are also passive, this would be your legendary if you wan’t more healing.
+Shock Barrier is our strongest healing legendary in m+ and are also passive, this would be your legendary if you want more healing.
 
 ### **Enchant and Gems**
 

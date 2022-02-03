@@ -7,14 +7,14 @@ layout: page
 <div style="display: block;width: 33%; margin-left: auto;margin-top:-20%;">
 <img src="/assets/img/theotar.png" alt="">
 </div>
-You go to soulbind should be theotar since its the highest damage soulbind for your entire grp because Wastelands Propreity also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
+Your go to soulbind should be Theotar since its the highest damage soulbind for your entire grp because Wasteland Propriety also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
 
-Your setup should look something like this [Thetotar Soulbind.](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/paladin/Awa-774CBS1ECBUtdAgSBTD0CCUwEAgiFStjCDUsqgg) You should change 
+Your setup should look something like this [Theotar Soulbind.](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/paladin/Awa-774CBS1ECBUtdAgSBTD0CCUwEAgiFStjCDUsqgg) You should change 
 <a href="https://www.wowhead.com/spell=339316/echoing-blessings" data-wowhead="spell=339316"></a> for 
 <a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> conduit when you're playing Mists of Tirna Scithe because this will reduce the fear effect on first boss by one second if your conduit is maxed out. Also play
 <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> instead of Echoing Blessing for Necrotic Wake and Plaguefall.
 
-If you're pugging 24+ keys you can also play General Draven as a soulbind this will provide you with more surivibility and similar personal damage but less grp damage, keep in mind this can also be used to surive a oneshot.
+If you're pugging 24+ keys you can also play General Draven as a soulbind this will provide you with more survivability and similar personal damage but less group damage, keep in mind this can also be used to survive a oneshot.
 
 Your setup should look something like this [General Draven Soulbind.](https://www.wowhead.com/soulbind-calc/venthyr/general-draven/paladin/AwaWb5YCFS1ECCUtdAgSBTD0CCUwEAghBStjCA)
 

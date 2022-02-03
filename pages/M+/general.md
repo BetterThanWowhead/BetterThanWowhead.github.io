@@ -10,9 +10,9 @@ layout: page
 
 Paladins biggest strength is our ability to do big amounts of damage on command. Our cooldowns also give us insanely high priority damage.
 
-**Healing within cooldowns.**
+**Healing within CDs.**
 
-The healing we can do within our cooldown windows, which will allow your grp to pull more aggressively than they could with other healers.
+The healing we can do within CDs, which will allow your group to pull more aggressively than they could with other healers.
 
 **Damage Reduction.**
 

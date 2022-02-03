@@ -111,7 +111,7 @@ This talent should never be played even if your playing with a full range comp R
 </div>
 
 **Divine Purpose:**
-This talent synergises very well with Awakening but since Divine Purpose is rng this loses a lot of value for venthyr in keys because you never wan't your throughput to be rng dependent.
+This talent synergises very well with Awakening but since Divine Purpose is rng this loses a lot of value for venthyr in keys because you never want your throughput to be rng dependent.
 
 **Holy Avenger:**
 This will not only provide you with a strong healing cooldown to force proc wings in between your Ashen Hallows, but also a strong AoE damage cooldown if you're not in need of extra throughput. This should always be your default pick as venthyr in keys.
@@ -158,11 +158,11 @@ This should be your default pick in keys, because it provides you with very cons
 
 **Glimmer of Light:**
 
-Glimmer of Light no longer has the synergies that once made its healing strong, so most of its power comes from retaining your single full power beacon. In dungeons we frequently need to deal with large incoming AoE healing Beacon of Faith generally performs better. That being said Glimmer of Light can still be used for lower keys and will help quite abit with tank healing if your tank are not super experienced.
+Glimmer of Light no longer has the synergies that once made its healing strong, so most of its power comes from retaining your single full power beacon. In dungeons we frequently need to deal with large incoming AoE healing Beacon of Faith generally performs better. That being said Glimmer of Light can still be used for lower keys and will help quite abit with tank healing if your tank are inexperienced.
 
 **Beacon of Faith:**
 
-This talent will help you a lot with AoE healing, and synergises very well with the anima power Self Embalming Kit, You wanna putt your second beacon on a squishy dps and funnel beacon healing from yourself. This should be your pick in keys always.
+This talent will help you a lot with AoE healing, and synergises very well with the anima power Self Embalming Kit, You wanna put your second beacon on a squishy dps and funnel beacon healing from yourself. This should be your pick in keys always.
 
 **Beacon of Virtue:**
 

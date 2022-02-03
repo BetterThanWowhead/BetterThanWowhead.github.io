@@ -5,7 +5,7 @@ layout: dungeons
 ---
 **Affront of Challengers:**
 
-This boss should have a very minimal healing requirement (assuming Searing Death are interrupted) so you should focus your cooldowns on damage here, keep in mind to cast your Hammer of Wraths into Dessia. If you're tank is getting overwhelmed you can Divine Shield or Blessing of Protection + Taunt one mortal strike to make him able to stabilize easier.
+This boss should have a very minimal healing requirement (assuming Searing Death are interrupted) so you should focus your cooldowns on damage here, keep in mind to cast your Hammer of Wraths into Dessia. If your tank is getting overwhelmed you can Divine Shield or Blessing of Protection + Taunt one mortal strike to make him able to stabilize easier.
 
 **Xav the Unfallen:**
 
@@ -17,11 +17,11 @@ This fight is all about dispel management, make sure to prioritise dispelling sq
 
 **Gorechop:**
 
-Everything on this fight is physical damage which means Blessing of Protection will work on both the Hateful Strike and if someone would get hit by the chains. Make sure if your tank are not full health before a Hateful Strike, use Blessing of Sacrifice or Aura Mastery to mitigate the damage, you can also Divine Shield or Blessing of Protection taunt right before to soak the hit and if you're brave you can Shield of the Righteous + Divine Protection and taunt aswell but make sure your tank is aware your about to do it.
+Everything on this fight is physical damage which means Blessing of Protection will work on both the Hateful Strike and if someone would get hit by the chains. Make sure if your tank is not full health before a Hateful Strike, use Blessing of Sacrifice or Aura Mastery to mitigate the damage, you can also Divine Shield or Blessing of Protection taunt right before to soak the hit and if you're brave you can Shield of the Righteous + Divine Protection and taunt aswell but make sure your tank aware that you're about to it.
 
-**Mordretha, the Endless Empress:**
+**Mord'retha, the Endless Empress:**
 
-You will see most groups using lust in p2 (at 50% health) to burn the boss since there's more dangerous mechanics happening from there on. I would suggest you to use Aura Mastery on Echoes of Carnage which the boss will cast when you hit 50% health. Make sure to use Blessing of Sacrifice if your tank are not full health before a Reaping Scythe.
+You will see most groups using lust in p2 (at 50% health) to burn the boss since there's more dangerous mechanics happening from there on. I would suggest you to use Aura Mastery on Echoes of Carnage which the boss will cast when you hit 50% health. Make sure to use Blessing of Sacrifice if your tank is not full health before a Reaping Scythe.
 
 **Important trash mechanics to use utility on:**
 

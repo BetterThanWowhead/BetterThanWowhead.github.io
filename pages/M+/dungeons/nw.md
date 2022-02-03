@@ -5,7 +5,7 @@ layout: dungeons
 ---
 **Blightbone:**
 
-Make sure you're not letting any of the Carrion Worms bite you since when they reach 3 stacks they will explode. You can use Blinding Light or Hammer of Justice to prevent this if for some reasson one of your players are face tanking it. If a player in your group does not have a defensive available and gets targeted by the Heaving Retch, Blessing of Sacrifice him and dispel him after.
+Make sure you're not letting any of the Carrion Worms bite you since when they reach 3 stacks they will explode. You can use Blinding Light or Hammer of Justice to prevent this if for some reason one of your players are face tanking it. If a player in your group does not have a defensive available and gets targeted by the Heaving Retch, Blessing of Sacrifice him and dispel him after.
 
 **Amarth the Harvester:**
 
@@ -13,11 +13,11 @@ Only time there is anything happening on this fight is during the Tortured Echoe
 
 **Surgeon Stichflesh:**
 
-There's zero healing requirement on this fight if it's executed well, this means you should focus your cooldowns on damaging the boss. There might be times where your group falls behind on killing the old add and two Stitchflesh's Creation will be up, make sure to use Blessing of Sacrifice if he does not have any major defensives available to mitigate as much damage as possible. Keep in mind Blessing of Protection works on the fixate.
+there is zero healing requirement on this fight if it's executed well, this means you should focus your cooldowns on damaging the boss. There might be times where your group falls behind on killing the old add and two Stitchflesh's Creation will be up, make sure to use Blessing of Sacrifice if he does not have any major defensives available to mitigate as much damage as possible. Keep in mind Blessing of Protection works on the fixate.
 
 **Nalthor the Rimebinder:**
 
-There's few things to be aware of on this fight and that is to rotate your healing/damage reduction cooldowns on the shields that your dps players does not any damage cooldowns or any weapons on. Also make sure to pre Blessing of Freedom on the Frozen Binding if its a melee that got targeted. Blessing of Protection will mitigate all damage you take from Blessing of Sacrifice on this boss fight.
+there is a few things to be aware of on this fight and that is to rotate your healing/damage reduction cooldowns on the shields that your dps players does not any damage cooldowns or any weapons on. Also make sure to pre Blessing of Freedom on the Frozen Binding if its a melee that got targeted. Blessing of Protection will mitigate all damage you take from Blessing of Sacrifice on this boss fight.
 
 **Important trash mechanics to use utility on:**
 

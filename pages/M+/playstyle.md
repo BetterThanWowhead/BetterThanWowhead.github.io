@@ -45,7 +45,7 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 
 **Dawn Will Come:**
 
-The holy paladin tier sett will change drastically how you were playing in mythic+. You want to make sure to cast a Word of Glory and a Light of Dawn every 30 seconds to proc the 2 piece bonus as much as possible. That being said there's situations were you could delay using it and instead force proc Avenging Wrath when you need it.
+The holy paladin tier set will change drastically how you were playing in mythic+. You want to make sure to cast a Word of Glory and a Light of Dawn every 30 seconds to proc the 2 piece bonus as much as possible. That being said there's situations were you could delay using it and instead force proc Avenging Wrath when you need it.
 
 You generally want to completly ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said you would still play around this if you do not have Avenging Wrath available to fish for Awakening procs whenever someone is not in critical danger.
 

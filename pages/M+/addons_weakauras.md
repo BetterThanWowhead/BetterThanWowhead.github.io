@@ -4,7 +4,7 @@ permalink: /M+/weakauras
 layout: page
 ---
 
-All these addons and weakauras will increase your performance.
+All these addons and weakauras will improve your performance.
 
 **Addons:**
 
