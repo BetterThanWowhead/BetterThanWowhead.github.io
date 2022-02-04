@@ -22,7 +22,7 @@ layout: page
 This talent loses value for venthyr holy paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+. That being said this is still a very competitive talent pick and should definitely be played for explosive weeks.
 
 **Bestow Faith:**
-I would personally not recommend playing this ever, but there is scenarios where it could be useful for example in Sanguine Depths on first or third boss. This being said the healing throughput is not a huge difference and Light's Hammer will contribute more healing in the relevant windows.
+I would personally not recommend playing this ever, but there is scenarios where it could be useful, for example in Sanguine Depths on first or third boss. This being said the healing throughput is not a huge difference and Light's Hammer will contribute more healing in the relevant windows.
 
 **Light's Hammer:**
 This should be your go to talent as venthyr in every dungeon. This will provide you with a solid amount of damage.
