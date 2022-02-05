@@ -9,7 +9,7 @@ After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight,
 
 **Echelon:**
 
-On this fight its important to rotate your cooldowns for every wave of adds, and Blinding Light to mass interrupt the Villainous Bolt to mitigate tank damage. Make sure to have either Divine Steed or Door of Shadows available if you would get targeted by the Stone Shattering Leap. If you see a player get targeted by Shattering Leap and has not received a decurse, Blessing of Protection him immediately to prevent him from getting stunned and make him able to dodge the leap.
+On this fight its important to rotate your cooldowns for every wave of adds, make sure to Blinding Light to mass interrupt the Villainous Bolt to mitigate tank damage. Make sure to have either Divine Steed or Door of Shadows available if you would get targeted by the Stone Shattering Leap. If you see a player get targeted by Shattering Leap and has not received a decurse, Blessing of Protection him immediately to prevent him from getting stunned and make him able to dodge the leap.
 
 **High Adjudicator Aleez:**
 
