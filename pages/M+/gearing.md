@@ -30,6 +30,8 @@ Mastery is still a decent choice for raw healing. But it has no effect on our da
 
 ---
 
+**If your a m+ focused player both of these legendaries should be crafted with Haste and Versatility.**
+
 Mad Paragon will be your best legendary for Venthyr as it will greatly increase our damage we do inside Ashen Hallow.
 
 Shock Barrier is our strongest healing legendary in m+ and are also passive, this would be your legendary if you want more healing.
