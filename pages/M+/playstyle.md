@@ -43,6 +43,10 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 4. Cast <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> for holy power generation.
 5. Spend holy power on <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> or if <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> are not active then fish for <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> procs.
 
+**Beacons:**
+
+You generally always want to have one of your beacons on your tank, but there is situations where you could swap it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken on that fight).
+
 **Dawn Will Come:**
 
 The holy paladin tier set will change drastically how you were playing in mythic+. You want to make sure to cast a Word of Glory and a Light of Dawn every 30 seconds to proc the 2 piece bonus as much as possible. That being said there's situations were you could delay using it and instead force proc Avenging Wrath when you need it.

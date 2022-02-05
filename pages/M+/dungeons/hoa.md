@@ -22,7 +22,7 @@ On this boss with a coordinated group and assuming you have a windwalker monk or
 **Important trash mechanics to use utility on:**
 
 ---
-**Shard of Halkias Thrash:** You should rotate damage mitigation cooldowns whenever you do not have Avenging Wrath available, keep in mind Blessing of Protection will immune this ability.
+**Shard of Halkias Thrash:** You should rotate damage mitigation cooldowns whenever you do not have Avenging Wrath or Holy Avenger available, keep in mind Blessing of Protection will immune this ability.
 
 **Depraved Collector's Collect Sins:** Letting this cast go fully through is useful for funnel damage in current meta, but if your tank is kiting and this mob is still alive he will cast Collect Sins on the nearest target and most likely kill him, if you see this is about to happen use Hammer of Justice or Blinding Light immediately.
 
