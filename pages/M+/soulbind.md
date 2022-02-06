@@ -16,7 +16,7 @@ Your setup should look something like this [Theotar Soulbind.](https://www.wowhe
 
 General Draven should generally only be played if it would allow you surviving a one shot or if you're pugging 24+ keys. Keep in mind that you are losing out on a noticable amount of group damage by playing Draven instead of Theotar.
 
-Your setup should look something like this [General Draven Soulbind](https://www.wowhead.com/soulbind-calc/venthyr/general-draven/paladin/AwaWb5YCFS1ECCUtdAgSBTD0CCUwEAgiBStjCBUsqgo), you can swap to Enduring Gloom for one shot prevention.
+Your setup should look something like this [General Draven Soulbind](https://www.wowhead.com/soulbind-calc/venthyr/general-draven/paladin/Awa-b5YDBS10ChUtRAolLVwKEgUwEAolMPQKIRUrYwo), dont forget to cast Door of Shadows if you need the absorb to prevent a one shot.
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">

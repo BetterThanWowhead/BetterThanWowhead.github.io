@@ -53,7 +53,7 @@ The holy paladin tier set will change drastically how you were playing in mythic
 
 You generally want to completly ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said you would still play around this if you do not have Avenging Wrath available to fish for Awakening procs whenever someone is not in critical danger.
 
-If you're not able to hit enough players for the max CDR keep in mind aiming Light of Dawn toward pets will provide you with Avenging Wrath cooldown reduction as well.
+If you are not able to hit enough players for the max CDR keep in mind aiming Light of Dawn toward pets will provide you with Avenging Wrath cooldown reduction as well.
 
 
 
