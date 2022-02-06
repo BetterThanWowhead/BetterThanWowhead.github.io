@@ -12,7 +12,7 @@ All healing sources buffed by 6%.
 
 <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> effect reduced by 10%.
 
-<a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=66011"></a> healing reduced by ~7,5% 
+<a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=66011"></a> healing reduced by 15%
 
 <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=66011"></a>,
 <a href="https://www.wowhead.com/spell=275773/judgment" data-wowhead="spell=66011"></a> damage reduced by 12%.
@@ -20,3 +20,4 @@ All healing sources buffed by 6%.
 <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=66011"></a>, 
 <a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=66011"></a>, 
 <a href="https://www.wowhead.com/spell=340212/hallowed-discernment" data-wowhead="spell=66011"></a> damage reduced by 5-10%.
+
