@@ -13,7 +13,6 @@ Read until the end and multiple times to become the next Mona Lisa of Holy Palad
 - [Consumables](/M+/consumables)
 - [Professions](/M+/professions)
 - [Gearing](/M+/gearing)
-- [Consumables](/M+/consumables)
 - [Profesions](/M+/professions)
 - [Talents](/M+/talents)
 - [Trinkets](/M+/trinkets)
