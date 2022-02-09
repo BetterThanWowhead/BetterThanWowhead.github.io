@@ -30,20 +30,6 @@ Mastery is still a decent choice for raw healing. But it has no effect on our da
 
 In Shadowlands, now all secondary stats have multiple rating thresholds that reduce the effectiveness of additional rating for that specific secondary stat. This reduction begins to take effect once any rating provides an additional 30% of any stat (with the exception of mastery, for mastery, this is normalised with mastery points as mastery points give differing percentages of benefit depending on any given spec). The diminishing returns only affects *rating* specifically, no matter where it comes from, but it does not affect stat multipliers or effects that add a fixed amount of % to the stat. Rating thresholds are as follows for each secondary stat:
 
-**Critical Strike:** you would need, 1050 for -10%, 1400 for -20%, 1750 for -30%, 2100 for -40%, 2800 for -50% and 7000 for -100%.
-
-**Haste:** you would need, 990 for -10%, 1320 for -20%, 1650 for -30%, 1980 for -40%, 2640 for -50% and 6600 for -100%.
-
-**Mastery:** you would need 1050 for -10%, 1400 for -20%, 1750 for -30%, 2100 for -40%, 2800 for -50% and 7000 for -100%.
-
-**Versatility:** you would need, 1200 for -10%, 1600 for -20%, 2000 for -30%, 2400 for -40%, 3200 for -50% and 8000 for -100%.
-
-**Tertiary Stats:**
-
-**Leech:** you would need, 210 for -20%, 315 for -40% and 420 for -60%.
-
-**Avoidance:** you would need 140 for -20%, 210 for -40% and 280 for -60%.
-
 ### **Best Legendaries**
 
 ---

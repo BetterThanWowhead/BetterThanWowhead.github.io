@@ -1,6 +1,6 @@
 ---
-title: Soulbind
-permalink: /M+/soulbind
+title: Covenant
+permalink: /M+/covenant
 layout: page
 ---
 

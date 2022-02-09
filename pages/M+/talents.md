@@ -19,7 +19,7 @@ layout: page
 </div>
 
 **Crusader's Might:**
-This talent loses value for venthyr holy paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+. That being said this is still a very competitive talent pick and should definitely be played for explosive weeks.
+This talent loses value for venthyr holy paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+. That being said this is still a very competitive talent pick and should definitely be played for explosive weeks or if you are a kyrian holy paladin.
 
 **Bestow Faith:**
 I would personally not recommend playing this ever, but there is scenarios where it could be useful, for example in Sanguine Depths on first or third boss. This being said the healing throughput is not a huge difference and Light's Hammer will contribute more healing in the relevant windows.
@@ -117,7 +117,7 @@ This talent synergises very well with Awakening but since Divine Purpose is rng 
 This will not only provide you with a strong healing cooldown to force proc wings in between your Ashen Hallows, but also a strong AoE damage cooldown if you're not in need of extra throughput. This should always be your default pick as venthyr in keys.
 
 **Seraphim:**
-This talent does not synergsie at all with Awakening also costs you a GCD and 3 holy power. Only time you would play this is for raid dps logging for fun.
+This talent does not synergsie at all with Awakening also costs you a GCD and 3 holy power. Only time you would play this is for raid dps logging or as kyrian holy paladin in mythic+.
 
 **T45**
 

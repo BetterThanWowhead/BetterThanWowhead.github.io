@@ -10,10 +10,6 @@ The most important part to success in m+ is knowing how to play around your cool
 
 Our strongest cooldown, learning how to play around with this will make the biggest difference in your gameplay.
 
-#### **<a href="https://www.wowhead.com/spell=316958/ashen-hallow" target="_blank" rel="noopener noreferrer" data-wowhead="spell=316958" data-wh-icon-size="large"></a>**
-
-A very strong healing and damage cooldown, which might be hard to get value out of in m+ pugs since you need to pull very aggresivly around it whenever you have it available. You should generally never pop Ashen Hallow without Avenging Wrath.
-
 #### **<a href="https://www.wowhead.com/spell=105809/holy-avenger" target="_blank" rel="noopener noreferrer" data-wowhead="spell=105809" data-wh-icon-size="large"></a>**
 
 A very flexible cooldown can be used for either healing or damage if you're not in need of a extra throughput cooldown in between your Ashen Hallows. I would suggest you to check out [Dungeons](/M+/dungeons) for more information regarding this.

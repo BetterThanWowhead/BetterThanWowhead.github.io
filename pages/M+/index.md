@@ -16,7 +16,7 @@ Read until the end and multiple times to become the next Mona Lisa of Holy Palad
 - [Profesions](/M+/professions)
 - [Talents](/M+/talents)
 - [Trinkets](/M+/trinkets)
-- [Soulbind](/M+/soulbind)
+- [Covenant](/M+/covenant)
 - [Abilities](/M+/abilities)
 - [Playstyle](/M+/playstyle)
 - [Dungeons](/M+/dungeons)

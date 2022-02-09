@@ -19,5 +19,3 @@ All healing sources buffed by 6%.
 <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=66011"></a>, 
 <a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=66011"></a>, 
 <a href="https://www.wowhead.com/spell=340212/hallowed-discernment" data-wowhead="spell=66011"></a> damage reduced by 7-10%.
-
-not 100% complete
