@@ -30,6 +30,8 @@ All these addons and weakauras will improve your performance.
 
 [Maze Auto Solver](https://wago.io/tE0vD5mpd/3/)
 
+[Phial of Serenity Reminder ](https://wago.io/KQsMfbEoA)
+
 **Macros:**
 
 /cast [@mouseover, exists][] Spell Name

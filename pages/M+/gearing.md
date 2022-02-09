@@ -30,16 +30,6 @@ Mastery is still a decent choice for raw healing. But it has no effect on our da
 
 In Shadowlands, now all secondary stats have multiple rating thresholds that reduce the effectiveness of additional rating for that specific secondary stat. This reduction begins to take effect once any rating provides an additional 30% of any stat (with the exception of mastery, for mastery, this is normalised with mastery points as mastery points give differing percentages of benefit depending on any given spec). The diminishing returns only affects *rating* specifically, no matter where it comes from, but it does not affect stat multipliers or effects that add a fixed amount of % to the stat. Rating thresholds are as follows for each secondary stat:
 
-### **Best Legendaries**
-
----
-
-**If your a m+ focused player both of these legendaries should be crafted with Haste and Versatility.**
-
-Mad Paragon will be your best legendary for Venthyr as it will greatly increase our damage we do inside Ashen Hallow.
-
-Shock Barrier is our strongest healing legendary in m+ and are also passive, this would be your legendary if you want more healing.
-
 ### **Enchant and Gems**
 
 ---
