@@ -35,13 +35,13 @@ Your soulbind setup as Night Fae should look something like this: [Korayn](https
 
 Note: All these legendaries should be crafted with Haste and Versatility if you are a mythic+ focused player.
 
-Crafting Priority:
+Crafting Priority in the following order:
 
-1. <a href="https://www.wowhead.com/spell=355100/seasons-of-plenty" data-wowhead="spell=355100"></a> since this the only reason night fae is somewhat viable this is your number one priority to craft.
+<a href="https://www.wowhead.com/spell=355100/seasons-of-plenty" data-wowhead="spell=355100"></a> since this the only reason Night Fae is somewhat viable this is your number one priority to craft.
 
-2. <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> if you want to minmax your damage this should be your number two priority to craft.
+<a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> if you want to minmax your damage this should be your number two priority to craft.
 
-3. <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> this is a great choice if you feel like you need some more healing, that being said since we're not playing Crusader's Might as a talent the healing from this legendary wont be game changing.
+<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> this is a great choice if you feel like you need some more healing, that being said since we're not playing Crusader's Might as a talent the healing from this legendary will not make a noticable difference.
 
 
 

@@ -14,15 +14,15 @@ Your go to setup as kyrian should look something like this [Forgelite Prime Mika
 
 Note: All these legendaries should be crafted with Haste and Versatility if you are a mythic+ focused player.
 
-Crafting Priority:
+Crafting Priority in the following order:
 
-1. <a href="https://www.wowhead.com/spell=337638/vanguards-momentum" data-wowhead="spell=355100"></a> this should be your number one priority since this will greatly increase our damage.
+<a href="https://www.wowhead.com/spell=337638/vanguards-momentum" data-wowhead="spell=355100"></a> this should be your number one priority since this will greatly increase our damage.
 
-2. <a href="https://www.wowhead.com/spell=355098/divine-resonance" data-wowhead="spell=355098"></a> kyrian paladins covenant legendary are very underwhelming, but since we're forced to wear one covenant legendarie and only one random this will be your number two priority.
+<a href="https://www.wowhead.com/spell=355098/divine-resonance" data-wowhead="spell=355098"></a> kyrian paladins covenant legendary are very underwhelming, but since we're forced to wear one covenant legendarie and only one random this will be your number two priority.
 
 Note: If you cast Divine Toll and target something for example in the maze of Mists of Tirna Scithe you can actually pull that target through the wall with the Divine Resonance Holy Shock proc.
 
-3. <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> since we have Divine Toll and are playing Crusader's Might this legendary synergises very well and will provide a meaningful amount of healing throughout your key.
+<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> since we have Divine Toll and are playing Crusader's Might this legendary synergises very well and will provide a meaningful amount of healing throughout your key.
 
 
 
