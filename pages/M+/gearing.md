@@ -6,7 +6,9 @@ layout: page
 
 ### **Stat priority:**
 
-Intellect > Haste > Versatility > Crit > Mastery.
+Intellect > Haste > Versatility > Crit > Mastery. 
+
+That being said, if you are playing kyrian Crit value increases.
 
 You should always prioritise Intellect during first few tiers of a expansion, this might change later into the expansion.
 
