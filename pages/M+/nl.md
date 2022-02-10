@@ -1,8 +1,10 @@
 **<a href="https://www.wowhead.com/spell=328204/vanquishers-hammer" data-wowhead="spell=328204"></a>:**
 
-This is a very flexible and strong priority target damage ability, this should generally be used to force proc Avenging Wrath to make AoE healing easier to deal with and if there is no healing required for the next 30 seconds then use it on cooldown.
+This is a very flexible and strong priority target damage ability, this should generally be used to force proc Avenging Wrath to make AoE healing easier to deal with or if there is no healing required for the next 30 seconds then use it on cooldown.
 
 **<a href="https://www.wowhead.com/spell=324631/fleshcraft" data-wowhead="spell=324631"></a>:**
+
+A very powerfull defensive CD on 2 minutes cooldown. This will also provide you with meaningful buffs for your entire group when you are channeling it close to nearby Pestilence Slime, Congealed Slime or Rotmarrow Slime in Plaguefall.
 
 **Soulbind & Conduits:**
 
