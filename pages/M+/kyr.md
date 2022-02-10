@@ -1,6 +1,6 @@
 **<a href="https://www.wowhead.com/spell=326011/divine-toll" data-wowhead="spell=326011"></a>:**
 
-This is a very flexible and powerful ability on a short cooldown that will instantly generate 5 holy power and are by far your best tool to deal with AoE healing, make sure that your on 0 holy power before using this. Keep in mind that there is a tiny window inbetween your <a href="https://www.wowhead.com/spell=340218/ringing-clarity" data-wowhead="spell=340218"></a> Holy Shock procs, which means the moment you press Divine Toll you can instantly spend holy power on Shield of the Righteous and gain 2-3 extra holy power.
+This is a very flexible and powerful ability on a short cooldown that will instantly generate 5 holy power and are by far your best tool to deal with AoE healing, make sure that your on 0 holy power before using this. Keep in mind that there is a tiny window inbetween your Divine Toll and your <a href="https://www.wowhead.com/spell=340218/ringing-clarity" data-wowhead="spell=340218"></a> Holy Shock procs, which means the moment you press Divine Toll you can instantly spend holy power on Shield of the Righteous and gain 2-3 extra holy power.
 
 **<a href="https://www.wowhead.com/spell=324739/summon-steward" data-wowhead="spell=324739"></a>:**
 
