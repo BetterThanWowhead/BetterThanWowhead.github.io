@@ -8,7 +8,7 @@ This will not only activate the goliaths in Necrotic Wake or allow you to pick u
 
 **Soulbind & Conduits:**
 
-Your go to setup as kyrian should look something like this [Forgelite Prime Mikanikos](https://www.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/paladin/AwaW6pYBBS1EChIFMPoKJTAQCiMVK2MKJSyqCjV2AAo). Because we do not have 2x finesse as kyrian, you generally do not want to change to <a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> or <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> since we do not have Door of Shadows as kyrian, which makes <a href="https://www.wowhead.com/spell=339268/lights-barding" data-wowhead="spell=339268"></a> more important than ever.
+Your go to setup as kyrian should look something like this [Forgelite Prime Mikanikos](https://www.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/paladin/AwaW6pYBBS1EChIFMPoKJTAQCiMVK2MKJSyqCjV2AAo). Since we do not have two finesse slots as kyrian, you generally do not want to swap to <a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> or <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> since we dont have Door of Shadows or Soulshape as kyrian, which makes <a href="https://www.wowhead.com/spell=339268/lights-barding" data-wowhead="spell=339268"></a> more important than ever.
 
 **Legendaries:**
 
