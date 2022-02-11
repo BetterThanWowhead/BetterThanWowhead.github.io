@@ -10,6 +10,12 @@ This will not only activate the goliaths in Necrotic Wake or allow you to pick u
 
 Your go to setup as kyrian should look something like this [Forgelite Prime Mikanikos](https://www.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/paladin/AwaW6pYBBS1EChIFMPoKJTAQCiMVK2MKJSyqCjV2AAo). Because we do not have 2x finesse as kyrian, you generally do not want to change to <a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> or <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> since we do not have Door of Shadows as kyrian, which makes <a href="https://www.wowhead.com/spell=339268/lights-barding" data-wowhead="spell=339268"></a> more important than ever.
 
+**Legendaries:**
 
+These legendaries should be crafted with Haste and Versatility and in the following order as a priority if you're focusing on mythic+.
+
+<a href="https://www.wowhead.com/spell=337638/vanguards-momentum" data-wowhead="spell=355100"></a>.
+
+<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a>.
 
 

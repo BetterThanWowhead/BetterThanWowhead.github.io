@@ -14,5 +14,11 @@ General Draven should generally only be played if it would allow you surviving a
 
 Your setup should look something like this [General Draven Soulbind](https://www.wowhead.com/soulbind-calc/venthyr/general-draven/paladin/Awa-b5YDBS10ChUtRAolLVwKEgUwEAolMPQKIRUrYwo), dont forget to cast Door of Shadows if you need the absorb to prevent a one shot.
 
+**Legendaries:**
 
+These legendaries should be crafted with Haste and Versatility and in the following order as a priority if you're focusing on mythic+.
+
+<a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a>.
+
+<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a>.
 
