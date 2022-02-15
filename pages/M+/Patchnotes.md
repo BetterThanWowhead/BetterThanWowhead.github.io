@@ -26,6 +26,6 @@ All this is including the 6% base buff.
 
 **Venthyr Legendary:**
 
-<a href="https://www.wowhead.com/spell=355447/radiant-embers" data-wowhead="spell=24275"></a> can now be canceled by pressing its button again and does not cancels when you walk out of <a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a> area anymore.
+<a href="https://www.wowhead.com/spell=355447/radiant-embers" data-wowhead="spell=24275"></a> can now be canceled by pressing its button again and <a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a> no longer cancels by leaving its area.
 
 
