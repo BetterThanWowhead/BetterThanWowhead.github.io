@@ -49,15 +49,11 @@ You generally always want to have one of your beacons on your tank, but there is
 
 **Dawn Will Come:**
 
-(2 set) Casting Word of Glory causes your next Light of Dawn to heal for 50% more and cast twice. Cannot occur more often than once per 30 sec.
-
-(4 set) Each target hit by Light of Dawn has a 100% chance to reduce the remaining cooldown of Avenging Wrath by 2 sec.
-
 The holy paladin tier set will change drastically how you were playing in mythic+. You want to make sure that you cast a Word of Glory every 30 seconds to proc the 2 piece and afterwards use Light of Dawn for the second effect of the 2 piece bonus. That being said there's situations were you could delay using it and instead force proc Avenging Wrath to make damage spikes easier to deal with.
 
 You generally want to completly ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said you would still play around this if you do not have Avenging Wrath available to fish for Awakening procs whenever someone is not in critical danger.
 
-If you are not able to hit enough players for the max CDR keep in mind aiming Light of Dawn toward pets will provide you with Avenging Wrath cooldown reduction as well.
+If you are not able to hit 5 players for the max CDR keep in mind aiming Light of Dawn toward pets will provide you with Avenging Wrath cooldown reduction as well.
 
 
 <div>
