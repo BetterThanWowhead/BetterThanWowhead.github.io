@@ -56,7 +56,7 @@ Armor Kit: [Heavy Desolate Armor Kit](https://www.wowhead.com/item=172347/heavy-
 
 Gems: [Quick Jewel Cluster](https://www.wowhead.com/item=173128/quick-jewel-cluster) or [Versatile Jewel Cluster](https://www.wowhead.com/item=173129/versatile-jewel-cluster) depending on your gear.
 
-Speed Gem: [Straddling Sage Agate](https://www.wowhead.com/item=169220/straddling-sage-agate) there is absolutely zero reason to not wear one of these gems, this will not only provide you with mostlikely more damage than a 16 stat secondary gem but you will also notice that you will have an easier time moving out of mechanics meanwhile your are focusing on other things on your screen, if you're not using one of these your are absolutly hard trolling.
+Speed Gem: [Straddling Sage Agate](https://www.wowhead.com/item=169220/straddling-sage-agate) there is absolutely zero reason to not wear one of these gems, this will not only provide you with mostlikely more damage than a 16 stat secondary gem but you will also notice that you will have an easier time moving out of mechanics meanwhile your are focusing on other things on your screen, if you're not using one of these your are hard trolling.
 
 
 
