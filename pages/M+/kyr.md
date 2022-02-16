@@ -8,14 +8,19 @@ This will not only activate the goliaths in Necrotic Wake or allow you to pick u
 
 **Soulbind & Conduits:**
 
-Your go to setup as kyrian should look something like this [Forgelite Prime Mikanikos](https://www.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/paladin/AwaW6pYBBS1EChIFMPoKJTAQCiMVK2MKJSyqCjV2AAo). Since we do not have two finesse slots as kyrian, you generally do not want to swap to <a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> or <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> since we dont have Door of Shadows or Soulshape as kyrian, which makes <a href="https://www.wowhead.com/spell=339268/lights-barding" data-wowhead="spell=339268"></a> more important than ever.
+Your go to setup as kyrian should look something like this [Forgelite Prime Mikanikos](https://www.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/paladin/AwaW6pYBBS1EChIFMPoKJTAQCiMVK2MKJSyqCjV2AAo). Because we do not have two finesse slots as kyrian, you generally do not want to swap to <a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> or <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> since we dont have Door of Shadows or Soulshape as kyrian, which makes <a href="https://www.wowhead.com/spell=339268/lights-barding" data-wowhead="spell=339268"></a> more important than ever.
 
 **Legendaries:**
 
-These legendaries should be crafted with Haste and Versatility and in the following order as a priority if you're focusing on mythic+.
+These legendaries should be crafted with Haste and Versatility if you're focusing on mythic+.
 
-<a href="https://www.wowhead.com/spell=337638/vanguards-momentum" data-wowhead="spell=355100"></a>.
+<a href="https://www.wowhead.com/spell=355098/divine-resonance" data-wowhead="spell=355098"></a>
++ <a href="https://www.wowhead.com/spell=337638/vanguards-momentum" data-wowhead="spell=355100"></a> this should be your go to build as Kyrian in mythic+ since it will greatly increase the burst damage you deal with Divine Toll. Keep in mind that 
+<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> is still a incredibly strong healing throughput choice.
 
-<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a>.
+Note:
+
+You can actually pull throught walls in the maze of Mists of Tirna Scithe, if you Divine Toll and target whatever you want to pull while wearing Divine Resonance.
+
 
 

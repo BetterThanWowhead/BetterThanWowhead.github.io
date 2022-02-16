@@ -29,11 +29,13 @@ Your soulbind setup as Night Fae should look something like this: [Korayn](https
 
 **Legendaries:**
 
-These legendaries should be crafted with Haste and Versatility and in the following order as a priority if you're focusing on mythic+.
+These legendaries should be crafted with Haste and Versatility if you're focusing on mythic+.
 
-<a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a>.
+<a href="https://www.wowhead.com/spell=355100/seasons-of-plenty" data-wowhead="spell=355100"></a>
++ <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> will be your go to legendary build as Night Fae, but you could also play 
+<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> instead of Mad Paragon if you feel like you are in need of extra healing throughput, but that being said it wont make a huge difference since we do not have Divine Toll as Night Fae.
 
-<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a>.
+
 
 
 
