@@ -22,7 +22,7 @@ Our second best stat because it gives us the highest Damage/Healing throughput a
 
 **Critical Strike:**
 
-Since we rarely use Infusion of Light procs Critical Strike loses a lot of value but still provides a decent amount of Healing/damage throughput which puts it Above Mastery.
+Since we rarely use Infusion of Light procs Critical Strike loses a lot of value but still provides a decent amount of Healing/damage throughput which puts it above Mastery.
 
 **Mastery:**
 
