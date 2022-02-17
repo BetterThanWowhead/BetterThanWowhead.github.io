@@ -17,4 +17,4 @@ Your soulbind setup as Necrolord should look something like this: [Plague Devise
 These legendaries should be crafted with Haste and Versatility if you're focusing on mythic+.
 
 <a href="https://www.wowhead.com/spell=355099/duty-bound-gavel" data-wowhead="spell=355099"></a> and <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> this will provide you with your highest damage output as Necrolord, you could also replace Mad Paragon with 
-<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> if you feel like you are in need of more healing throughput. That being said the healing Shock Barrier provides wont make a big difference since we dont have Divine Toll as Necrolord.
+<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we dont have Divine Toll as Necrolord.

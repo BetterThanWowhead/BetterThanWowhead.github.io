@@ -51,9 +51,9 @@ You generally want at all time to have one of your beacons on your tank, but the
 
 The Holy Paladin tier set will change drastically how you were playing in mythic+ before. You want to make sure that you are casting atleast one Word of Glory whenever the 2 piece bonus is available and afterwards use Light of Dawn to proc the second effect, however there is situations where you could delay it to force proc Avenging Wrath to make AoE healing situations easier to deal with.
 
-You generally want to completly ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said you would still play around this if you do not have Avenging Wrath active to fish for Awakening procs whenever someone is not in critical danger.
+You generally want to completely ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said, you would still play around this if you do not have Avenging Wrath active to fish for Awakening procs whenever someone is not in critical danger.
 
-If you are not able to hit 5 players for the max CDR keep in mind that aiming Light of Dawn toward pets will provide you with Avenging Wrath cooldown reduction as well.
+If you are not able to hit 5 players for the max CDR, keep in mind that aiming Light of Dawn toward pets will provide you with Avenging Wrath cooldown reduction as well.
 
 
 <div>
