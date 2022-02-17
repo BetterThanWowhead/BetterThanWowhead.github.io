@@ -36,7 +36,7 @@ You will see most groups using lust in p2 (at 50% health) to burn the boss since
 
 **Bone Magus:** If you notice that your group are out of interrupts make sure to use Hammer of Justice or Blinding Light to avoid deaths.
 
-**Maniacal Soulbinder:** Using Hammer of Justice on this mob just to delay the casts is very useful.
+**Maniacal Soulbinder:** you generally want to dispel the first debuff this mob does (it is not a cast) and afterwards Hammer of Justice to delay the next one, this will mitigate a ton of damage.
 
 **Shambling Arbalest:** Every now and then this mob will cast Jagged Quarrel which is a hard ticking DoT, make sure to use Hammer of Justice frequently and don't hesitate to use Blessing of Protection.
 
