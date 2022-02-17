@@ -1,5 +1,5 @@
 ---
-title: Setup for your Paladin.
+title: Setup for your Paladin
 permalink: /M+/talents
 layout: page
 ---
@@ -117,7 +117,7 @@ This talent synergises very well with Awakening but since Divine Purpose is rng 
 This will not only provide you with a strong healing cooldown to force proc wings in between your Ashen Hallows, but also a strong AoE damage cooldown if you're not in need of extra throughput. This should always be your default pick as venthyr in keys.
 
 **Seraphim:**
-As Venthyr this talent has close to zero synergy and should never be played in any relevant content for a few reasons, 1) it does not synergise at all with Awakening which means you are decreasing your Avenging Wrath uptime, 2) 25% of the talent goes to waste since it provides you with Mastery which does not contribute any damage for Holy Paladins, 3) it dosn't line up with Avenging Wrath at all after the first usage, 4) it cost you one GCD and 3 holy power for minor single target damage gain. That being said, for Kyrian this should 100% be played in mythic+ because it synergises very well with Mikanikos Divine Toll CDR on AoE.
+As Venthyr this talent has close to zero synergy and should never be played in any relevant content for a few reasons, 1) it does not synergise at all with Awakening which means you are decreasing your Avenging Wrath uptime, 2) 25% of the talent goes to waste since it provides you with Mastery which does not contribute any damage for Holy Paladins, 3) it doesn't line up with Avenging Wrath at all after the first usage, 4) it cost you one GCD and 3 holy power for minor single target damage gain. That being said, for Kyrian this should 100% be played in mythic+ because it synergises very well with Mikanikos Divine Toll CDR on AoE.
 
 **T45**
 
