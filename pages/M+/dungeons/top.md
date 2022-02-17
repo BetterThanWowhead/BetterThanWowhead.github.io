@@ -40,4 +40,4 @@ You will see most groups using lust in p2 (at 50% health) to burn the boss since
 
 **Shambling Arbalest:** Every now and then this mob will cast Jagged Quarrel which is a hard ticking DoT, make sure to use Hammer of Justice frequently and don't hesitate to use Blessing of Protection.
 
-**Advent Nevermore:** If you happen to get Nevermore as your third mini boss, be aware that he will do a Ricocheting Blade into Seismic Stomp combo, if your dps did not line of sight the blade they will most likely be one shot if you don't use Blessing of Sacrifice on them before the stomp. Keep in mind that Blessing of Protection will fully immune both the bleed and the stomp.
+**Advent Nevermore:** If you happen to get Nevermore as your third mini boss, be aware that he will do a Ricocheting Blade into Seismic Stomp combo, if your dps did not line of sight the blade they will most likely get one shot if you don't use Blessing of Sacrifice on them before the stomp. Keep in mind that Blessing of Protection will fully immune both the bleed and the stomp.
