@@ -45,15 +45,15 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 
 **Beacons:**
 
-You generally always want to have one of your beacons on your tank, but there is situations where you could swap it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken on that fight).
+You generally always want to have one of your beacons on your tank, but there is situations where you could swap it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
 
 **Dawn Will Come:**
 
-The holy paladin tier set will change drastically how you were playing in mythic+. You want to make sure that you cast a Word of Glory every 30 seconds to proc the 2 piece and afterwards use Light of Dawn for the second effect of the 2 piece bonus. That being said there's situations were you could delay using it and instead force proc Avenging Wrath to make damage spikes easier to deal with.
+The Holy Paladin tier set will change drastically how you were playing in mythic+ before. You want to make sure that you are casting atleast one Word of Glory whenever the 2 piece bonus is available and afterwards use Light of Dawn to proc the second effect, however there is situations where you could delay it to force proc Avenging Wrath to make AoE healing situations easier to deal with.
 
-You generally want to completly ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said you would still play around this if you do not have Avenging Wrath available to fish for Awakening procs whenever someone is not in critical danger.
+You generally want to completly ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said you would still play around this if you do not have Avenging Wrath active to fish for Awakening procs whenever someone is not in critical danger.
 
-If you are not able to hit 5 players for the max CDR keep in mind aiming Light of Dawn toward pets will provide you with Avenging Wrath cooldown reduction as well.
+If you are not able to hit 5 players for the max CDR keep in mind that aiming Light of Dawn toward pets will provide you with Avenging Wrath cooldown reduction as well.
 
 
 <div>
