@@ -45,7 +45,7 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 
 **Beacons:**
 
-You generally always want to have one of your beacons on your tank, but there is situations where you could swap it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
+You generally want at all time to have one of your beacons on your tank, but there is situations where you could swap it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
 
 **Dawn Will Come:**
 
