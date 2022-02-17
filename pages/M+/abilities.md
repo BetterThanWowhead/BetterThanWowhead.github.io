@@ -4,7 +4,7 @@ permalink: /M+/abilities
 layout: page
 ---
 
-The most important part to success in m+ is knowing how to play around your cooldowns and where to use them properly.
+The most important part to success in m+ is knowing how to play around your cooldowns, where and when to use them properly. I would suggest you to check out [Dungeons](/M+/dungeons) for more information about cooldown management in mythic+.
 
 #### **<a href="https://www.wowhead.com/spell=66011/avenging-wrath" target="_blank" rel="noopener noreferrer" data-wowhead="spell=66011" data-wh-icon-size="large"></a>**
 
@@ -12,7 +12,7 @@ Our strongest cooldown, learning how to play around with this will make the bigg
 
 #### **<a href="https://www.wowhead.com/spell=105809/holy-avenger" target="_blank" rel="noopener noreferrer" data-wowhead="spell=105809" data-wh-icon-size="large"></a>**
 
-A very flexible cooldown can be used for either healing or damage if you're not in need of a extra throughput cooldown in between your Ashen Hallows. I would suggest you to check out [Dungeons](/M+/dungeons) for more information regarding this.
+A very flexible cooldown can be used for either healing or damage if you're not in need of a extra throughput cooldown in between your Ashen Hallows.
 
 #### **<a href="https://www.wowhead.com/spell=317929/aura-mastery" target="_blank" rel="noopener noreferrer" data-wowhead="spell=317929" data-wh-icon-size="large"></a>**
 
