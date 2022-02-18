@@ -10,7 +10,7 @@ When you are playing with a Blood DK you will notice that they are very self sus
 
 **Protection Paladin**
 
-The most important things to track on your party framse while playing with a Protection Paladin is Shield of the Righteous, Arden Defender, Guardian of Ancient Kings and Divine Shield. Blessing of Sacrifice can be used start of a pull if the Paladin does not have Arden Defender or Guardian available/has to save Guardian for a upcoming pull, Can also be used when he is dry and the pull are still healthy.
+The most important things to track on your party framse while playing with a Protection Paladin is Shield of the Righteous, Arden Defender, Guardian of Ancient Kings and Divine Shield. Blessing of Sacrifice can be used start of a pull if the Paladin does not have Arden Defender or Guardian available/has to save Guardian for a upcoming pull, can also be used when he is dry and the pull are still healthy.
 
 **Protection Warrior**
 
