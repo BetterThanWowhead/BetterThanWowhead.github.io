@@ -4,7 +4,7 @@ permalink: /M+/advanced playstyle
 layout: page
 ---
 
-This should be used as a guideline, since your tank might want Blessing of Sacrifice somewhere else deepending on dungeon and pulls.
+This should be used as a guideline, since your tank might want Blessing of Sacrifice somewhere else depending on dungeon and pulls.
 
 **Blood Death Knight**
 
@@ -16,7 +16,7 @@ The most important things to track on your party framse while playing with a Pro
 
 **Protection Warrior**
 
-Warrior is the kind of tank that are able to self sustain himself most of the time but requires a little bit of healing every now and then. You should track Shield Block, Shield Wall, Last Stand and Ignore Pain on your frames. Keep in mind that you want to make sure to stand relatively close the warrior without getting hit by frontals to allow him to Intervene you easily to get Shield Block uptime without getting hit in his back while doing so. Blessing of Sacrifice can be used whenever the warrior is dry (outside of Shield Wall/Trinket).
+Warrior is the kind of tank that are able to self sustain himself most of the time but requires a little bit of healing every now and then. You should track Shield Block, Shield Wall, Last Stand and Ignore Pain on your frames. Keep in mind that you want to make sure to stand relatively close the warrior without getting hit by frontals to allow him to Intervene you easily to get Shield Block uptime without getting hit in his back while doing so. Blessing of Sacrifice can be used whenever the warrior is dry (outside of Shield Wall/Trinket) and assuming the damage patterns are high.
 
 **Brewmaster Monk**
 
