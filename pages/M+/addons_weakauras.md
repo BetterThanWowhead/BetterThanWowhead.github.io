@@ -6,7 +6,7 @@ layout: page
 
 All these addons and weakauras will improve your performance.
 
-**Addons:**
+**Addons**
 
 [WeakAuras](https://www.curseforge.com/wow/addons/weakauras-2)
 
@@ -24,7 +24,7 @@ All these addons and weakauras will improve your performance.
 
 [MaxCam](https://www.curseforge.com/wow/addons/maxcam) or the chat command ''/console cameradistancemaxzoomfactor 2.6''
 
-**Weakauras:**
+**Weakauras**
 
 [Targeted Spells](https://wago.io/BFADungeonTargetedSpells/68)
 
@@ -32,7 +32,7 @@ All these addons and weakauras will improve your performance.
 
 [Phial of Serenity Reminder ](https://wago.io/KQsMfbEoA)
 
-**Macros:**
+**Macros**
 
 /cast [@mouseover, exists][] Spell Name
 

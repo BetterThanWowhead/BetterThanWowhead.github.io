@@ -4,7 +4,7 @@ permalink: /M+/professions
 layout: page
 ---
 
-Engineering:
+**Engineering**
 
 Having this is a absolute must as Holy Paladin in m+, since it will provide you with a lot of meaningful things, but most importantly a combat ress.
 

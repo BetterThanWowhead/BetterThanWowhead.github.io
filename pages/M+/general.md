@@ -6,29 +6,29 @@ layout: page
 
 ## Strengths
 
-**Damage.**
+**Damage**
 
 Paladins biggest strength is our ability to do big amounts of damage on command. Our cooldowns also give us insanely high priority damage.
 
-**Healing within CDs.**
+**Healing within CDs**
 
 The healing we can do within CDs, which will allow your group to pull more aggressively than they could with other healers.
 
-**Damage Reduction.**
+**Damage Reduction**
 
 Devotion Aura is a 3% passive DR and 15% on use, which is one of the strongest healer cooldowns in the game.
 
-**Utility.**
+**Utility**
 
 Paladins utility is one of the strongest in mythic+ currently when used correctly.
 
 ## Weaknesses
 
-**Throughput outside of major cooldowns.**
+**Throughput outside of major cooldowns**
 
 Holy Paladins biggest weakness is that we're too reliant on our cooldowns to carry us through difficult parts of the dungeons. The largest learning curves in dungeon healing as a paladin is learning how to manage your cooldowns properly.
 
-**Being a Melee Healer.**
+**Being a Melee Healer**
 
 Being a melee healer has historically been a weakness in dungeons, because mobs with a lot of frontals or range baitable mechanics.
 

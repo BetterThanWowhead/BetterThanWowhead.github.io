@@ -4,7 +4,7 @@ permalink: /M+/trinkets
 layout: page
 ---
 
-### **On use:**
+### **On use**
 
 [Soulletting Ruby](https://www.wowhead.com/item=178809/soulletting-ruby?bonus=6805:1472)
 this is a very strong on use trinket since it lines up with wings (do not keybind this into wings) since you want to use it on a low health target whenever you can.
@@ -12,7 +12,7 @@ this is a very strong on use trinket since it lines up with wings (do not keybin
 [Inscrutable Quantum Device](https://www.wowhead.com/item=179350/inscrutable-quantum-device?bonus=6805:1472)
 i personally prefer Quantum Device over Ruby because iqd provides you a large amount of extra burst damage in your Ashen Hallow.
 
-### **Passive:**
+### **Passive**
 
 [Titanic Ocular Gland](https://www.wowhead.com/item=186423/titanic-ocular-gland?bonus=6805)
 your strongest passive trinket since it provides you the most amount of stats (if your above 50% health which you should be most of the time) playing this trinket requires you to optimise your gear since it provides you an increase to your highest secondary stat.

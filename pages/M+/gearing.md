@@ -4,7 +4,7 @@ permalink: /M+/gearing
 layout: page
 ---
 
-### **Stat priority:**
+### **Stat priority**
 
 Intellect > Haste > Versatility > Crit > Mastery. 
 
@@ -12,23 +12,23 @@ That being said, if you are playing kyrian Crit value increases.
 
 You should always prioritise Intellect during first few tiers of a expansion, this might change later into the expansion.
 
-**Haste:**
+**Haste**
 
 This is our strongest secondary because holy power generation. There’s no breakpoints or softcaps stack it until mana becomes an issue.
 
-**Versatility:**
+**Versatility**
 
 Our second best stat because it gives us the highest Damage/Healing throughput also provides us with a solid amount of Damage Reduction.
 
-**Critical Strike:**
+**Critical Strike**
 
 Since we rarely use Infusion of Light procs Critical Strike loses a lot of value but still provides a decent amount of Healing/damage throughput which puts it above Mastery.
 
-**Mastery:**
+**Mastery**
 
 Mastery is still a decent choice for raw healing. But it has no effect on our damage, the healing it contributes is also dependent on composition and positioning.
 
-**Secondary Stat Diminishing Returns:**
+**Secondary Stat Diminishing Returns**
 
 In Shadowlands, now all secondary stats have multiple rating thresholds that reduce the effectiveness of additional rating for that specific secondary stat. This reduction begins to take effect once any rating provides an additional 30% of any stat (with the exception of mastery, for mastery, this is normalised with mastery points as mastery points give differing percentages of benefit depending on any given spec). The diminishing returns only affects *rating* specifically, no matter where it comes from, but it does not affect stat multipliers or effects that add a fixed amount of % to the stat. Rating thresholds are as follows for each secondary stat:
 

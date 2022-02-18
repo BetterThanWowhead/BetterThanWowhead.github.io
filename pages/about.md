@@ -18,7 +18,7 @@ I also use two sorts of macros for Lay on Hands and Blessing of Sacrifice, one t
 
 For Explosive weeks, mouseover Crusader Strike helps me a ton.
 
-My playstyle is pretty niche compared to how other people play but one thing i can recommend to anyone is a focus Hammer of Justice macro, this is very useful in a mythic+ situation since it will allow you to not have to tab or move your mouse around to target whatever you need to stun.
+My playstyle is very niche compared to how other people play but one thing i can recommend to anyone is a focus Hammer of Justice macro, this is very useful in a mythic+ situation since it will allow you to not have to tab or move your mouse around to target whatever you need to stun.
 
 Macros/keybindings are very personal, you should play with whatever you prefer.
 

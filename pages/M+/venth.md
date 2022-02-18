@@ -1,8 +1,8 @@
-**<a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>:**
+**<a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>**
 
 A very powerful healing and damage cooldown that will allow your group to do pulls they would not been able to do with other healers. Keep in mind this might be hard to get value out of in pug group since you will be forced to pull very aggressively around this whenever it's available.
 
-**Soulbind & Conduits:**
+**Soulbind & Conduits**
 
 Your go to soulbind should be Theotar since its the highest damage soulbind for your entire grp because Wasteland Propriety also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
 
@@ -14,7 +14,7 @@ General Draven should generally only be played if it would allow you surviving a
 
 Your setup should look something like this [General Draven Soulbind](https://www.wowhead.com/soulbind-calc/venthyr/general-draven/paladin/Awa-b5YDBS10ChUtRAolLVwKEgUwEAolMPQKIRUrYwo), dont forget to cast Door of Shadows if you need the absorb to prevent a one shot.
 
-**Legendaries:**
+**Legendaries**
 
 These legendaries should be crafted with Haste and Versatility if you're focusing on mythic+.
 
