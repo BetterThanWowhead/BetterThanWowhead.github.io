@@ -20,6 +20,26 @@ These legendaries should be crafted with Haste and Versatility if you're focusin
 
 <a href="https://www.wowhead.com/spell=355447/radiant-embers" data-wowhead="spell=355447"></a> and <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> will be your go to build since it will greatly increase the damage you deal inside Ashen Hallow. You could also replace Mad Paragon with <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we dont have Divine Toll as Venthyr.
 
+**Radiant Embers cdr**
 
+Leaving instantly = 120 seconds off, 50% cdr
+
+Leaving at 5 seconds = 118 seconds off, 49% cdr
+
+Leaving at 10 seconds = 115 seconds off, 48% cdr
+
+Leaving at 15 seconds = 113 seconds off, 47% cdr
+
+Leaving at 20 seconds = 111 seconds off, 46% cdr
+
+Leaving at 22 seconds = 110 seconds off, 46% cdr
+
+Leaving at 25 seconds = 100 seconds off, 42% cdr
+
+Leaving at 30 seconds = 73 seconds off, 30% cdr
+
+Leaving at 35 seconds = 48 seconds off, 20% cdr
+
+Leaving at 40 seconds = 25 seconds off, 10% cdr
 
 
