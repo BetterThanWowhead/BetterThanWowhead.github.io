@@ -4,6 +4,8 @@ permalink: /M+/advanced playstyle
 layout: page
 ---
 
+This should be used as a guideline, since your tank might want Blessing of Sacrifice somewhere else deepending on dungeon and pulls.
+
 **Blood Death Knight**
 
 When you are playing with a Blood DK you will notice that they are very self sustain and barely needs any healing. That being said, you still want to keep track of a few things on your party frames for example, Runic Power since this is where their self sustain lies and active mitigation like, Dancing Rune Weapon, Vampiric Blood, Rune Tap and Icebound Fortitude. Good usages of Blessing of Sacrifice is generally outside of Dancing Rune Weapon or other big active mitigation cooldowns or if you see the DK is going below 5 stacks of Bone Shield they are most likely in danger since this will cause them to lose the buff called Ossuary, this is generally a good time to use Blessing of Sacrifice or Aura Mastery to mitigate damage. You will find situations where using Blessing of Sacrifice while grouping mobs could be good aswell.
