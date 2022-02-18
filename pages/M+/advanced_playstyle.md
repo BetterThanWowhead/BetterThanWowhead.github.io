@@ -1,6 +1,6 @@
 ---
-title: Advanced Playstyle
-permalink: /M+/advanced playstyle
+title: Tank Mitigation Cooldowns
+permalink: /M+/mitigationCD
 layout: page
 ---
 
