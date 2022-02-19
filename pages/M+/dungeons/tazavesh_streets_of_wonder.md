@@ -20,3 +20,9 @@ layout: dungeons
 
 
 **So'amzi**
+
+
+
+**Important trash mechanics to use utility on**
+
+---
