@@ -20,13 +20,13 @@ Devotion Aura is a 3% passive DR and 15% on use, which is one of the strongest h
 
 **Utility**
 
-Paladins utility is one of the strongest in mythic+ currently when used correctly.
+Paladins utility is one of the strongest in mythic+ when used correctly.
 
 ## Weaknesses
 
 **Throughput outside of major cooldowns**
 
-Holy Paladins biggest weakness is that we're too reliant on our cooldowns to carry us through difficult parts of the dungeons. The largest learning curves in dungeon healing as a paladin is learning how to manage your cooldowns properly.
+Holy Paladins biggest weakness is that we are very reliant on our cooldowns to carry us through difficult parts of the dungeons. The largest learning curves in dungeon healing as a paladin is learning how to manage your cooldowns properly.
 
 **Being a Melee Healer**
 
