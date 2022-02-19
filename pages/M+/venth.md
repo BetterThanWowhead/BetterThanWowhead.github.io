@@ -4,7 +4,7 @@ A very powerful healing and damage cooldown that will allow your group to do pul
 
 **Soulbind & Conduits**
 
-Your go to soulbind should be Theotar since its the highest damage soulbind for your entire grp because Wasteland Propriety also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
+Your go to soulbind should be Theotar since it will be the highest damage soulbind for your entire grp because Wasteland Propriety also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
 
 Your setup should look like this [Theotar Soulbind](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/paladin/Awa-774CBS1ECBUtdAgSBTD0CCUwEAgiFStjCDUsqgg). You can change 
 <a href="https://www.wowhead.com/spell=339316/echoing-blessings" data-wowhead="spell=339316"></a> for 
@@ -16,7 +16,7 @@ Your setup should look something like this [General Draven Soulbind](https://www
 
 **Legendaries**
 
-These legendaries should be crafted with Haste and Versatility if you're focusing on mythic+.
+These legendaries should be crafted with Haste and Versatility if you are focusing on mythic+.
 
 <a href="https://www.wowhead.com/spell=355447/radiant-embers" data-wowhead="spell=355447"></a> and <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> will be your go to build since it will greatly increase the damage you deal inside Ashen Hallow. You could also replace Mad Paragon with <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we dont have Divine Toll as Venthyr.
 
