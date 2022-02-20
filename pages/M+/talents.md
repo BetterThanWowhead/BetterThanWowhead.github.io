@@ -180,7 +180,7 @@ Glimmer of Light no longer has the synergies that once made its healing strong, 
 
 **Beacon of Faith**
 
-This talent will help you a ton with AoE healing, and synergises very well with the anima power Self Embalming Kit, You want to put your second Beacon on a squishy dps and funnel Beacon healing from yourself. This should be your pick in keys always.
+This talent will help you a ton with AoE healing, and synergises very well with the anima power Self Embalming Kit, you want to put your second Beacon on a squishy dps and funnel Beacon healing from yourself. This should be your default pick in keys.
 
 **Beacon of Virtue**
 
