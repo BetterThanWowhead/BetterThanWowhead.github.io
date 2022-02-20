@@ -8,10 +8,9 @@ layout: page
  remove details
 </a>
 
-
 ### T15
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=196926/crusaders-might" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=196926"></a>
   </div>
@@ -38,7 +37,7 @@ This should be your go to talent as Venthyr in every dungeon. This will provide 
 
 ### T25
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=157047/saved-by-the-light" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=157047"></a>
   </div>
@@ -65,7 +64,7 @@ This talent is very mana inefficient and costs you a GCD every 20 seconds for ve
 
 ### T30
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=234299/fist-of-justice" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=234299"></a>
   </div>
@@ -92,7 +91,7 @@ This should be your default pick in keys. You can use this to mass interrupt uni
 
 ### T35
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=114154/unbreakable-spirit" data-wh-icon-size="medium" data-wowhead="spell=114154"></a>
   </div>
@@ -118,7 +117,7 @@ This talent should never be played even if you are playing with a full range com
 
 ### T40
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=223817/divine-purpose" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=223817"></a>
   </div>
@@ -145,7 +144,7 @@ As Venthyr this talent has close to zero synergy and should never be played in a
 
 ### T45
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=53376/sanctified-wrath" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=53376"></a>
   </div>
@@ -172,7 +171,7 @@ This should be your default pick in keys, because it provides you with very cons
 
 ### T50
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=287268/glimmer-of-light" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=287268"></a>
   </div>
@@ -183,6 +182,7 @@ This should be your default pick in keys, because it provides you with very cons
     <a href="https://www.wowhead.com/spell=200025/beacon-of-virtue" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=200025"></a>
   </div>
 </div>
+
 
 **Glimmer of Light**
 
@@ -195,6 +195,7 @@ This talent will help you a ton with AoE healing, and synergises very well with 
 **Beacon of Virtue**
 
 This will provide you with a large amount of AoE burst healing, but does not contribute any damage also becomes very mana inefficient fast and forces you to clutter your GCDs with spells you generally do not want to cast regularly in your rotation.
+
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">

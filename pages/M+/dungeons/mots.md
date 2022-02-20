@@ -3,15 +3,25 @@ title: Mists of Tirna Scithe
 permalink: /M+/dungeons/mots
 layout: dungeons
 ---
-**Ingra Maloch**
+
+<a style="color: white">
+    Ingra Maloch
+    <img src="/assets/img/dungeons/ingra.png" class="dungeon_boss"/>
+</a>
 
 Only thing to be aware of on this fight is the Dark Shroud debuff, it starts ticking very hard on a high tyrannical and can be difficult to deal with. How you can make this easier is to hold Holy Avenger + Aura Mastery for the second phase one and let Ashen Hallow cover in first phase, make sure to not use it to early since you wan't it for the 15 seconds boss burn aswell.
 
-**Mistcaller**
+<a style="color: white">
+    Mistcaller
+    <img src="/assets/img/dungeons/mist.png" class="dungeon_boss"/>
+</a>
 
 Since there's no healing requirement during the main boss phase you want to focus as much as possible damaging the boss and during the add phase you can rotate Holy Avenger, Aura Mastery and lastly Divine Shield + Blessing of Sacrifice.
 
-**Tred'ova**
+<a style="color: white">
+    Tred'ova
+    <img src="/assets/img/dungeons/tred.png" class="dungeon_boss"/>
+</a>
 
 Only thing that really does any damage on this boss is not breaking the Mind Link, if you get targeted by this make sure to Door of Shadow or Divine Steed away from your group. The melee's from the small adds start to hurt quite abit the higher you go using Blessing of Protection will immune all the damage.
 

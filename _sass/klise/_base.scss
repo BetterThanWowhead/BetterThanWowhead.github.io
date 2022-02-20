@@ -385,6 +385,15 @@ mark,
             filter: grayscale(100%); 
 }
 
-.selected_talent {
-  
+.talents {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.dungeon_boss {
+  width: 150px;
+  height: 150px;
+  text-align: left;
 }

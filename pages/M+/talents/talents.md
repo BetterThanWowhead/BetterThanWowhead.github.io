@@ -11,7 +11,7 @@ layout: page
 
 ### T15
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=196926/crusaders-might" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=196926"></a>
   </div>
@@ -25,7 +25,7 @@ layout: page
 
 ### T25
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=157047/saved-by-the-light" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=157047"></a>
   </div>
@@ -40,7 +40,7 @@ layout: page
 
 ### T30
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=234299/fist-of-justice" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=234299"></a>
   </div>
@@ -55,7 +55,7 @@ layout: page
 
 ### T35
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=114154/unbreakable-spirit" data-wh-icon-size="medium" data-wowhead="spell=114154"></a>
   </div>
@@ -70,7 +70,7 @@ layout: page
 
 ### T40
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=223817/divine-purpose" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=223817"></a>
   </div>
@@ -85,7 +85,7 @@ layout: page
 
 ### T45
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=53376/sanctified-wrath" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=53376"></a>
   </div>
@@ -100,7 +100,7 @@ layout: page
 
 ### T50
 
-<div class="row">
+<div class="talents">
   <div class="column">
     <a href="https://www.wowhead.com/spell=287268/glimmer-of-light" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=287268"></a>
   </div>
