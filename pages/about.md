@@ -12,7 +12,7 @@ I'm a high mythic+ Holy Paladin and multi CE healer, if you have any questions a
 
 **How do i play?**
 
-In heavvy movement situations i use targeting macros (known as pvp macros) and when there is not a lot of movement i play with normal mouseover macros.
+In heavy movement situations i use targeting macros (known as pvp macros) and when there is not a lot of movement i play with normal mouseover macros.
 
 I also use two different sorts of macros for Lay on Hands and Blessing of Sacrifice, one that casts it on tank only since its off the GCD and i want to be able to use it as quickly as possible without having to move my mouse around, also one that is mouseover if i would have to cast these abilities on another player.
 
