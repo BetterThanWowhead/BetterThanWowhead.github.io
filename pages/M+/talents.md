@@ -4,8 +4,6 @@ permalink: /M+/talents
 layout: page
 ---
 
-Standard build is marked with pink names.
-
 ### T15
 
 <div class="row">
