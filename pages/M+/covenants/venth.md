@@ -26,4 +26,6 @@ These legendaries should be crafted with Haste and Versatility if you are focusi
 <a href="https://www.wowhead.com/spell=355447/radiant-embers" data-wowhead="spell=355447"></a> and <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> will be your go to build since it will greatly increase the damage you deal inside Ashen Hallow. You could also replace Mad Paragon with <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we dont play Crusader's Might as Venthyr or have Divine Toll.
 
 
-
+<a href="#">
+<img class="author-avatar" src="/assets/img/covenants/venth_stats.png" />
+</a>
