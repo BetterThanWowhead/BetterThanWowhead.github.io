@@ -373,3 +373,13 @@ mark,
   margin-right: auto;
   width: 50%;
 }
+
+.unselected_talent {
+  color: #c7bebe;
+  opacity: 0.4;
+  filter: alpha(opacity=40); /* msie */
+}
+
+.selected_talent {
+  
+}
