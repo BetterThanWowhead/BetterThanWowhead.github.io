@@ -3,24 +3,31 @@ title: Tazavesh Streets of Wonder
 permalink: /M+/dungeons/streets
 layout: dungeons
 ---
-**Zo'phex**
+<a style="color: white">
+    Zo'phex
+    <img src="/assets/img/dungeons/zophex.png" class="dungeon_boss"/>
+</a>
 
 
-
-**The Menagerie**
-
+The Menagerie
 
 
-**P.O.S.T Master**
+<a style="color: white">
+    P.O.S.T Master
+    <img src="/assets/img/dungeons/postmaster.png" class="dungeon_boss"/>
+</a>
 
 
+<a style="color: white">
+    Zo'Gron
+    <img src="/assets/img/dungeons/zogron.png" class="dungeon_boss"/>
+</a>
 
-**Zo'Gron**
 
-
-
-**So'amzi**
-
+<a style="color: white">
+    So'amzi
+    <img src="/assets/img/dungeons/soamzi.png" class="dungeon_boss"/>
+</a>
 
 
 **Important trash mechanics to use utility on**

@@ -23,7 +23,7 @@ On this fight its important to rotate your cooldowns for every wave of adds, mak
     <img src="/assets/img/dungeons/aleez.png" class="dungeon_boss"/>
 </a>
 
-this boss has no healing requirement if your group interrupts the Volley of Power, so try do as much damage as you can.
+This boss has no healing requirement if your group interrupts the Volley of Power, so try do as much damage as you can.
 
 <a style="color: white">
     Lord Chamberlain
