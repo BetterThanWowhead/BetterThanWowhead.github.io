@@ -27,5 +27,5 @@ These legendaries should be crafted with Haste and Versatility if you are focusi
 
 
 <a href="#">
-<img class="author-avatar" src="/assets/img/covenants/venth_stats.png" />
+<img class="center" src="/assets/img/covenants/venth_stats.png" />
 </a>

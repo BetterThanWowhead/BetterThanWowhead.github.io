@@ -1,6 +1,6 @@
 ---
 title: Tazavesh Streets of Wonder
-permalink: /M+/dungeons/Streets of Wonder
+permalink: /M+/dungeons/streets
 layout: dungeons
 ---
 **Zo'phex**

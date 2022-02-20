@@ -1,6 +1,6 @@
 ---
 title: Tazavesh So'leah's Gambit
-permalink: /M+/dungeons/Soleahs Gambit
+permalink: /M+/dungeons/soleah
 layout: dungeons
 ---
 **Hylbrande**
