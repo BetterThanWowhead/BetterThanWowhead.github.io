@@ -9,7 +9,11 @@ layout: dungeons
 
 ### Zo'phex
 
-The Menagerie
+<a style="color: white">
+    <img src="/assets/img/dungeons/menagerie.png" class="dungeon_boss"/>
+</a>
+
+### The Menagerie
 
 <a style="color: white">
     <img src="/assets/img/dungeons/postmaster.png" class="dungeon_boss"/>
