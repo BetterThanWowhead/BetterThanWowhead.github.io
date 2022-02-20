@@ -3,18 +3,12 @@
     <input type="checkbox" id="menu-trigger" class="menu-trigger" />
     <label for="menu-trigger">
       <span class="menu-icon">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="24"
-          height="24"
-          viewBox="0 0 512 512"
-        >
-          <path
-            d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z"
-          />
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 512 512">
+          <path d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z" />
         </svg>
       </span>
     </label>
+    <a href="/changes">last update: 20.02.2022</a>
     <!--
     <a id="mode">
       <svg
@@ -166,20 +160,20 @@
         {%- assign url = page.url -%}
         {%- assign menus = site.data.menus -%}
         {%- if menus %}
-          {%- for menu in menus -%} 
-              <div class="dropdown">
-                <a class="menu-link" href="{{ menu.url }}">{{ menu.title }}</a>
-                <div class="dropdown-content">
-                  {%- for item in menu.subfolderitems -%} 
-                    <a href="{{ item.url }}">{{ item.title }}</a>
-                  {%- endfor -%}
-                </div>
-              </div>
-          {%- endfor -%}
+        {%- for menu in menus -%}
+        <div class="dropdown">
+          <a class="menu-link" href="{{ menu.url }}">{{ menu.title }}</a>
+          <div class="dropdown-content">
+            {%- for item in menu.subfolderitems -%}
+            <a href="{{ item.url }}">{{ item.title }}</a>
+            {%- endfor -%}
+          </div>
+        </div>
+        {%- endfor -%}
         {%- else -%}
-          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">M+</a>
-          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">Raid</a>
-          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about">about</a>
+        <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">M+</a>
+        <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">Raid</a>
+        <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about">about</a>
         {%- endif -%}
         <!-- <a class="menu-link rss" href="/feed.xml"> -->
         </a>

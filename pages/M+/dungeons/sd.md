@@ -13,7 +13,6 @@ layout: dungeons
 If you're a new holy paladin player you might find yourself having a hard time on this boss fight. You want to make sure to split your cooldowns and have something for every wave of orbs for example, Ashen Hallow + Avenging Wrath for first wave, Aura Mastery + Holy Avenger for second wave and lastly Divine Shield + Blessing of Sacrifice for third wave. If your group happends to have a more optimised composition like a Rogue and a Mage, you could Divine Shield + Blessing of Sacrifice if you have a player without a immunity, Cloak of Shadows and Ice Block one wave which will make the boss fight significantly easier. If your group happends to not be healthy before a Juggernaut Rush, you can always use Blessing of Protection to allow him to solo soak.
 
 <a style="color: white">
-    
     <img src="/assets/img/dungeons/tarvold.png" class="dungeon_boss"/>
 </a>
 
