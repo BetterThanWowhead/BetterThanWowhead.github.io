@@ -15,7 +15,7 @@ Only thing you have to do on this fight is using dispel on the slime injection. 
 
 **Domina Venomblade**
 
-The most dangerous thing on this boss to be aware of is getting multiple Shadow Ambushes in a row, if you are very unlucky you can get 4-5 in a row and its important that you are not using your Divine Protection or Divine Shield randomly. If this happens you want to Divine Protection the first one, you can either Divine Shield or Aura Mastery on the second Shadow Ambush, I personally prefer to use Divine Shield for damage, the third one would be Divine Protection again and lastly Aura Mastery. When the boss summons Brood Assasins and you do not have any throughput cooldowns, you can use Blessing of Sacrifice on the tank.
+The most dangerous thing on this boss to be aware of is getting multiple Shadow Ambushes in a row, if you are very unlucky you can get 4-5 in a row and its important that you are not using your Divine Protection or Divine Shield randomly. If this happens you want to Divine Protection the first one, you can either Divine Shield or Aura Mastery on the second Shadow Ambush, I personally prefer to use Divine Shield for damage, the third one would be Divine Protection again and lastly Aura Mastery. When the boss summons Brood Assasins and you do not have any throughput cooldowns, you can use Blessing of Sacrifice on the tank (assuming he doesn't have any active mitigation cooldowns).
 
 **Margrave Stradama** 
 
