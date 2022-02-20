@@ -1,3 +1,8 @@
+---
+title: Venthyr
+permalink: /M+/covenants/venth
+layout: covenants
+---
 **<a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>**
 
 A very powerful healing and damage cooldown that will allow your group to do pulls they would not been able to do with other healers. Keep in mind this might be hard to get value out of in pug groups because you will be forced to pull very aggressively around this whenever it's available.
