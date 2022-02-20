@@ -4,31 +4,32 @@ permalink: /M+/dungeons/streets
 layout: dungeons
 ---
 <a style="color: white">
-    Zo'phex
     <img src="/assets/img/dungeons/zophex.png" class="dungeon_boss"/>
 </a>
 
+### Zo'phex
 
 The Menagerie
 
-
 <a style="color: white">
-    P.O.S.T Master
     <img src="/assets/img/dungeons/postmaster.png" class="dungeon_boss"/>
 </a>
 
+### P.O.S.T Master
+
 
 <a style="color: white">
-    Zo'Gron
     <img src="/assets/img/dungeons/zogron.png" class="dungeon_boss"/>
 </a>
 
+### Zo'Gron
+
 
 <a style="color: white">
-    So'amzi
     <img src="/assets/img/dungeons/soamzi.png" class="dungeon_boss"/>
 </a>
 
+### So'amzi
 
 **Important trash mechanics to use utility on**
 

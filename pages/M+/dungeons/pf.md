@@ -4,25 +4,28 @@ permalink: /M+/dungeons/pf
 layout: dungeons
 ---
 <a style="color: white">
-    Globgrog
     <img src="/assets/img/dungeons/globgrog.png" class="dungeon_boss"/>
 </a>
+
+### Globgrog
 
 Healing this boss is very simple, you wanna prioritize using your dispel on the most squishy player in your group and when your dispel comes back off from the cooldown, you can dispel whoever is in most danger. If someone is not topped before a plaguestomp you can use either use Aura Mastery or Blessing of Sacrifice to keep them alive. Keep in mind that Blessing of Protection will fully immune and prevent the knockbock from the plaguestomp.
 
 Hammer of Justice, Blinding Light and Turn Evil works on the slimes.
 
 <a style="color: white">
-    Doctor ickus
     <img src="/assets/img/dungeons/doctor.png" class="dungeon_boss"/>
 </a>
+
+### Doctor ickus
 
 Only thing you have to do on this fight is using dispel on the slime injection. I would suggest using Ashen Hallow on the last platform to skip the bomb completly and instead killing the boss if your group is somewhat coordinated, if not you can use whenever your group does not have a lot of damage. Using Turn Evil on the purple ozee will save you a ton of time since you can ignore killing it completly and keep it CC'd for the rest of the fight.
 
 <a style="color: white">
-    Domina Venomblade
     <img src="/assets/img/dungeons/domina.png" class="dungeon_boss"/>
 </a>
+
+### Domina Venomblade
 
 The most dangerous thing on this boss to be aware of is getting multiple Shadow Ambushes in a row, if you are very unlucky you can get 4-5 in a row and its important that you are not using your Divine Protection or Divine Shield randomly. If this happens you want to Divine Protection the first one, you can either Divine Shield or Aura Mastery on the second Shadow Ambush, I personally prefer to use Divine Shield for damage, the third one would be Divine Protection again and lastly Aura Mastery. When the boss summons Brood Assasins and you do not have any throughput cooldowns, you can use Blessing of Sacrifice on the tank (assuming he doesn't have any active mitigation cooldowns).
 
