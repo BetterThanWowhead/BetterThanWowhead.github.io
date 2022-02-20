@@ -18,7 +18,7 @@ After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight,
 
 ### Echelon
 
-On this fight its important to rotate your cooldowns for every wave of adds, make sure to Blinding Light to mass interrupt the Villainous Bolt to mitigate tank damage. Make sure to have either Divine Steed or Door of Shadows available if you would get targeted by the Stone Shattering Leap. If you see a player get targeted by Shattering Leap and has not received a decurse, Blessing of Protection him immediately to prevent him from getting stunned and make him able to dodge the leap.
+On this fight its important to rotate your cooldowns for every wave of adds, use Blinding Light to mass interrupt the Villainous Bolt to mitigate tank damage. Make sure to have either Divine Steed or Door of Shadows available if you would get targeted by the Stone Shattering Leap. If you see a player get targeted by Shattering Leap and has not received a decurse, Blessing of Protection him immediately to prevent him from getting stunned and make him able to dodge the leap.
 
 <a style="color: white">
     <img src="/assets/img/dungeons/aleez.png" class="dungeon_boss"/>
@@ -26,7 +26,7 @@ On this fight its important to rotate your cooldowns for every wave of adds, mak
 
 ### High Adjudicator Aleez
 
-This boss has no healing requirement if your group interrupts the Volley of Power, so try do as much damage as you can.
+This boss has zero healing requirement (assuming your group interrupts the Volley of Power), so try do as much damage as you possibly can.
 
 <a style="color: white">
     <img src="/assets/img/dungeons/lord.png" class="dungeon_boss"/>

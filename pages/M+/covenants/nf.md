@@ -1,5 +1,5 @@
 ---
-title: Night fae
+title: Night Fae
 permalink: /M+/covenants/nf
 layout: covenants
 ---
