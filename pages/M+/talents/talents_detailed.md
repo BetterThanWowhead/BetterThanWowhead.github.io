@@ -24,7 +24,7 @@ layout: page
 
 **Crusader's Might**
 
-This talent loses value for Venthyr Holy Paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+. That being said, this is still a very competitive talent pick and should definitely be played for explosive weeks.
+This talent loses value for Venthyr Holy Paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+. That being said, this is still a very competitive talent pick and should definitely be played for explosive weeks and as Night Fae in m+.
 
 **Bestow Faith**
 
@@ -131,7 +131,7 @@ This talent should never EVER be played in a mythic+ dungeon no matter if you ar
 
 **Divine Purpose**
 
-This talent synergises very well with Awakening but since Divine Purpose is rng this loses quite abit of value for Venthyr in keys because you never want your throughput to be rng dependent.
+This talent synergises very well with Awakening but since Divine Purpose is rng this loses quite abit of value for Venthyr in keys because you never want your throughput to be rng dependent. That being said, for necrolord this is still a pretty good pick.
 
 **Holy Avenger**
 

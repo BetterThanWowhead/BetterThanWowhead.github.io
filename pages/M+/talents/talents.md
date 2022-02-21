@@ -4,6 +4,19 @@ permalink: /M+/talents
 layout: page
 ---
 
+### tl;dr
+
+The build marked in pink is the normal Venthyr m+ build.
+
+Night Fae m+, 1231232.
+
+Kyrian m+, 3231332.
+
+Necrolord m+, 3231232.
+
+Explosive week, 1331232.
+
+---
 <a id="download" href="/M+/talents/detailed">
  add details
 </a>
