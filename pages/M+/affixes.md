@@ -18,7 +18,7 @@ If you are Venthyr your priority damage will make a noticeable difference so it'
 ### Grievous
 --- 
 
-This is a very unfun and bad affix for any healer in general to deal with since it will greatly decrease the damage you deal. However you want to focus healing one player at a time (generally the one with most stacks and get him above 90% health) first rather than try heal multiple peoples at same time. Keep in mind if you are Kyrian Phial of Serenity clears this and so does Blessing of Protection. One more thing you have to be aware of is that, not every healing source clears a Grievous stack, *Holy Shock, Holy Light, Flash of Light, Light of the Martyr, Word of Glory, Lay on Hands, Bestow Faith and lastly Holy Prism if you use it on a (freindly player)* is the only abilities we have that clears it.
+This is a very unfun and bad affix for any healer in general to deal with since it will greatly decrease the damage you deal. However you want to focus healing one player at a time (generally the one with most stacks and get him above 90% health) first rather than to try heal multiple peoples at same time. Keep in mind if you are Kyrian Phial of Serenity clears this and so does Blessing of Protection. One more thing you have to be aware of is that, not every healing source clears a Grievous stack, *Holy Shock, Holy Light, Flash of Light, Light of the Martyr, Word of Glory, Lay on Hands, Bestow Faith and lastly Holy Prism if you use it on a (freindly player)* is the only abilities we have that clears it.
 
 ### Inspiring
 ---
