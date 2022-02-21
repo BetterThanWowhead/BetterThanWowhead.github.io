@@ -113,7 +113,7 @@ Playing this is completely troll, and will be the main reason you are held back.
 
 **Rule of Law**
 
-This talent should never EVER be played in a mythic+ dungeon no matter if you are playing with tripple range dps or not, Rule of Law won't be comparable to Unbreakable Spirit. Rule of Law does also not work with any of your Blessings.
+This talent should never EVER be played in a mythic+ dungeon no matter if you are playing with tripple range dps or not, Rule of Law won't be comparable to Unbreakable Spirit. Rule of Law also dosen't work with any of your Blessings.
 
 ### T40
 
