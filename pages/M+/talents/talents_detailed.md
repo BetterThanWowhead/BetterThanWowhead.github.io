@@ -24,7 +24,7 @@ layout: page
 
 **Crusader's Might**
 
-This talent loses value for Venthyr Holy Paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+. That being said, this is still a very competitive talent pick and should definitely be played for explosive weeks and as Night Fae in m+.
+This talent loses value for Venthyr Holy Paladin, since we're not using Glimmer of Light or Shock Barrier in mythic+. That being said, this is still a very competitive talent pick.
 
 **Bestow Faith**
 
@@ -55,11 +55,11 @@ This talent should only be played if you're using Beacon of Virtue because of th
 
 **Judgement of Light**
 
-This is your best talent pick for any covenant, because its a very efficient healing source since you're using Judgement as much as possible in mythic+.
+This is will be your best talent pick for Venthyr in keys because its a very efficient healing source since you're using Judgement as much as possible in mythic+.
 
 **Holy Prism**
 
-This talent is very mana inefficient and costs you a GCD every 20 seconds for very minor damage difference and should generally never be played except for on explosive weeks.
+This talent is very mana inefficient and costs you a GCD every 20 seconds for very minor damage difference and should generally never be played.
 
 
 ### T30
@@ -131,15 +131,14 @@ This talent should never EVER be played in a mythic+ dungeon no matter if you ar
 
 **Divine Purpose**
 
-This talent synergises very well with Awakening but since Divine Purpose is rng this loses quite abit of value for Venthyr in keys because you never want your throughput to be rng dependent. That being said, for necrolord this is still a pretty good pick.
+This talent synergises very well with Awakening but since Divine Purpose is rng this loses quite abit of value for Venthyr in keys because you never want your throughput to be rng dependent.
 
 **Holy Avenger**
 
-This will not only provide you with a strong healing cooldown to force proc wings in between your Ashen Hallows, but also a strong AoE damage cooldown if you're not in need of extra throughput. This should always be your default pick as venthyr in keys.
-
+This will not only provide you with a strong healing cooldown to force proc wings in between your Ashen Hallows, but also a strong AoE damage cooldown if you're not in need of extra throughput. This should always be your default pick as Venthyr in keys.
 **Seraphim**
 
-As Venthyr this talent has close to zero synergy and should never be played in any relevant content for a few reasons, 1) it does not synergise at all with Awakening which means you are decreasing your Avenging Wrath uptime, 2) 25% of the talent goes to waste since it provides you with Mastery which does not contribute any damage for Holy Paladins, 3) it doesn't line up with Avenging Wrath at all after the first usage, 4) it cost you one GCD and 3 holy power for minor single target damage gain. That being said, for Kyrian this should 100% be played in mythic+ because it synergises very well with Mikanikos Divine Toll CDR on AoE.
+As Venthyr this talent has close to zero synergy and should never be played in any relevant content for a few reasons, 1) it does not synergise at all with Awakening which means you are decreasing your Avenging Wrath uptime, 2) 25% of the talent goes to waste since it provides you with Mastery which does not contribute any damage for Holy Paladins, 3) it doesn't line up with Avenging Wrath at all after the first usage, 4) it cost you one GCD and 3 holy power for minor single target damage gain.
 
 
 ### T45
