@@ -27,6 +27,6 @@ will be your second best passive trinket if you don't have Ocular Gland since it
 <a href="/M+/talents"> < Talents</a>
 </div>
 <div style="text-align:right;display: inline-block;width: 49%;">
-<a href="/M+/covenant"> Covenant ></a>
+<a href="/M+/covenants"> Covenants ></a>
 </div>
 </div>
