@@ -4,15 +4,6 @@ permalink: /M+/talents
 layout: page
 ---
 
-### tl;dr
-
-Venthyr Build marked in pink.           
-Night Fae m+: 1231232 (Crusader's Might, Judgement of Light, Blinding Light, Unbreakable Spirit, Holy Avenger, Awakening, Beacon of Faith).            
-Kyrian m+: 3231332 (Light's Hammer, Judgement of Light, Blinding Light, Unbreakable Spirit, Seraphim, Awakening, Beacon of Faith).     
-Necrolord m+: 3231232 (Light's Hammer, Judgement of Light, Blinding Light, Unbreakable Spirit, Holy Avenger, Awakening, Beacon of Faith).      
-Explosive week: 1331232 (Crusader's Might, Holy Prism, Blinding Light, Unbreakable Spirit, Holy Avenger, Awakening, Beacon of Faith).
-
----
 <a id="download" href="/M+/talents/detailed">
  add details
 </a>
