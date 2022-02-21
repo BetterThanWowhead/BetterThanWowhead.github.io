@@ -105,15 +105,15 @@ This should be your default pick in keys. You can use this to mass interrupt uni
 
 **Unbreakable Spirit**
 
-This talent is a absolute must in keys, it will provide you with a 30% cooldown reduction on Divine Shield, Lay on Hands and Divine Protection.
+This talent is a absolute must in keys, since it will provide you with a solid 30% cooldown reduction to a part of our utility kit (Divine Shield, Lay on Hands and Divine Protection).
 
 **Cavalier**
 
-Don't play this.
+Playing this is completely troll, and will be the main reason you are held back.
 
 **Rule of Law**
 
-This talent should never be played even if you are playing with a full range comp, Rule of Law won't be comparable to Unbreakable Spirit. Rule of Law does also not work with any of your Blessings.
+This talent should never EVER be played in a mythic+ dungeon no matter if you are playing with tripple range dps or not, Rule of Law won't be comparable to Unbreakable Spirit. Rule of Law does also not work with any of your Blessings.
 
 ### T40
 
