@@ -18,7 +18,7 @@ You generally want to have Aura mastery on the first barrier to get one more usa
 
 ### Dealer Xy'exa
 
-The key to kill this boss is managing the lightning properly, pass it between your tank, tankiest dps and yourself, Pooling holy power for the lighting will make this boss fight easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use Blessing of Sacrifice on them immediately. Make sure to rotate your own personals if you would happen to get the overlap multiple times. Getting slow fall from the mage will mitigate a noticeable amount of fall damage.
+The key to kill this boss is managing the lightning debuff, pass it between your tank, tankiest dps and yourself, pooling holy power for the lighting will make this boss fight significantly easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use Blessing of Sacrifice on them immediately. Make sure to rotate your own personals if you would happen to get the overlap multiple times. Slow Fall from a mage will prevent a noticeable amount of damage you would usually take from falling after going up in the air with the bomb.
 
 <a style="color: white">
     <img src="/assets/img/dungeons/manastorms.png" class="dungeon_boss"/>
