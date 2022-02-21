@@ -48,7 +48,7 @@ Sanguine can be a bit tricky for your tank, so whenever you are not inside coold
 ### Explosive
 ---
 
-On Explosive weeks i recommend you to play Crusader's Might and Holy Prism talent to maximize the amount of Explosives you can do alone.
+On Explosive weeks I recommend you to play Crusader's Might and Holy Prism talent to maximize the amount of Explosives you can do alone.
 
 ### Storming
 ---
