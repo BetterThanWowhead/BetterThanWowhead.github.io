@@ -18,6 +18,7 @@ In this guide you will find everything you need to know to become the next Mona 
 - [Covenants](/M+/covenants)
 - [Cooldowns](/M+/cooldowns)
 - [Playstyle](/M+/playstyle)
+- [Dungeons Affixes](/M+/affixes)
 - [Dungeons](/M+/dungeons)
 - [Addons & WeakAuras](/M+/weakauras)
 
