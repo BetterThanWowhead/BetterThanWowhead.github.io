@@ -53,7 +53,7 @@ On Explosive weeks i recommend you to play Crusader's Might and Holy Prism talen
 ### Storming
 ---
 
-Another awful affix for melee players, it's important on Lord Chamberlain (last boss Halls of Atonement) especially that whenever you dont soak the Ritual of Woe you run into all the Storming to clear them so the soaking players doesn't get hit by them and causes a deplete.
+Another awful affix for the meele players, it's important on Lord Chamberlain (last boss Halls of Atonment) that whenever you don't soak the Ritual of Woe, you run into all the Storming to clear them. So the soaking players don't get hit by them and cause a depelete.
 
 ### Quaking
 ---
