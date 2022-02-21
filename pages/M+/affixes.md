@@ -18,12 +18,12 @@ If you are Venthyr your priority damage will make a noticeable difference so it'
 ### Grievous
 --- 
 
-This is a very unfun and bad affix for any healer in general to deal with since it will greatly decrease the damage you deal. However you want to focus healing one player at a time (generally the one with most stacks and get him above 90% health) first rather than to try heal multiple peoples at same time. Keep in mind if you are Kyrian Phial of Serenity clears this and so does Blessing of Protection. One more thing you have to be aware of is that, not every healing source clears a Grievous stack, *Holy Shock, Holy Light, Flash of Light, Light of the Martyr, Word of Glory, Lay on Hands, Bestow Faith and lastly Holy Prism if you use it on a (freindly player)* is the only abilities we have that clears it.
+This is a very unfun and bad affix for any healer in general to deal with since it will greatly decrease the damage you deal. However you want to focus healing one player at a time (generally the one with most stacks and get him above 90% health) first rather than to try heal multiple peoples at same time. Keep in mind if you are Kyrian Phial of Serenity clears this and so does Blessing of Protection. One more thing you have to be aware of is that, not every healing source clears a Grievous stack, *Holy Shock, Holy Light, Flash of Light, Light of the Martyr, Word of Glory, Lay on Hands, Bestow Faith and lastly Holy Prism if you use it on a (friendly player)* is the only abilities we have that clears it.
 
 ### Inspiring
 ---
 
-Only advice i have for this affix is playing Blood Elf since dungeons like Mists of Tirna Scithe has an incredibly tight timer on a higher key level and you dont have time to CC any inspiring in the maze, Arcane Torrent will remove the Mistveil Tender's Nourish the Forest debuff and prevent them from healing themselfs to full health.
+Only advice i have for this affix is playing Blood Elf since dungeons like Mists of Tirna Scithe has an incredibly tight timer on a higher key level and you dont have time to CC any inspiring in the maze, Arcane Torrent will remove the Mistveil Tender's Nourish the Forest debuff and prevent them from healing themselves to full health.
 
 ### Bursting
 ---
@@ -50,7 +50,7 @@ Sanguine can be a bit tricky for your tank, so whenever you are not inside coold
 
 On Explosive weeks i recommend you to play Crusader's Might and Holy Prism talent to maximize the amount of Explosives you can do alone.
 
-### Stormming
+### Storming
 ---
 
 Another awful affix for melee players, it's important on Lord Chamberlain (last boss Halls of Atonement) especially that whenever you dont soak the Ritual of Woe you run into all the Storming to clear them so the soaking players doesn't get hit by them and causes a deplete.
@@ -63,5 +63,5 @@ A very easy affix to deal with, just make sure to not clip the tank or any other
 ### Volcanic
 ---
 
-Volcanic can't spawn in melee which makes it a completely irrelevan affix.
+Volcanic can’t spawn in melee which makes it a completely irrelevant affix.
 
