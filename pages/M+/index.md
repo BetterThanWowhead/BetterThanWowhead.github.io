@@ -12,7 +12,6 @@ In this guide you will find everything you need to know to become the next Mona 
 - [General](/M+/general)
 - [Consumables](/M+/consumables)
 - [Professions](/M+/professions)
-- [Profesions](/M+/professions)
 - [Gearing](/M+/gearing)
 - [Talents](/M+/talents)
 - [Trinkets](/M+/trinkets)
