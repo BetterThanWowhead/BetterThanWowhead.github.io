@@ -4,8 +4,9 @@ permalink: /M+/playstyle
 layout: page
 ---
 
-**Healing doesn't really have a rotation, and its important to be flexible in whatever situation you're in. Use this as a guideline**
+### Healing doesn't really have a rotation, and its important to be flexible in whatever situation you're in. Use this as a guideline
 
+---
 1. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown for either damage or healing.
 2. Cast <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> for holy power generation or to reset cooldown of <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> if talented to <a href="https://www.wowhead.com/spell=196926/crusaders-might" data-wowhead="spell=196926"></a>.
 3. Throw <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> whenever its available.
@@ -18,6 +19,7 @@ You should treat <a href="https://www.wowhead.com/spell=183998/light-of-the-mart
 
 ### Healing Cooldown Priorities
 
+---
 1. <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a>
 2. <a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wowhead="spell=105809"></a>
 3. <a href="https://www.wowhead.com/spell=317929/aura-mastery" data-wowhead="spell=317929"></a>
@@ -26,8 +28,9 @@ You should treat <a href="https://www.wowhead.com/spell=183998/light-of-the-mart
 
 Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 
-## AoE Damage Priorities
+### AoE Damage Priorities
 
+---
 1. Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> down at all time.
 2. Throw <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown whenever available.
 3. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown.
@@ -35,20 +38,23 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 5. Throw <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> on cooldown.
 6. Spend holy power on <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> assuming <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> are active otherwhise fish for <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a>.
 
-**Single Target Damage Priorities** 
+### Single Target Damage Priorities
 
+---
 1. Throw <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown whenever available.
 2. Throw <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> if inside <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> otherwhise use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>.
 3. Drop <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> if not already active.
 4. Cast <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> for holy power generation.
 5. Spend holy power on <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> or if <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> are not active then fish for <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> procs.
 
-**Beacons**
+### Beacons
 
+---
 You generally want at all time to have one of your beacons on your tank, but there is situations where you could swap it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
 
-**Dawn Will Come**
+### Dawn Will Come
 
+---
 The Holy Paladin tier set will change drastically how you were playing in mythic+ before. You want to make sure that you are casting atleast one Word of Glory whenever the 2 piece bonus is available and afterwards use Light of Dawn to proc the second effect, however there is situations where you could delay it to force proc Avenging Wrath to make AoE healing situations easier to deal with.
 
 You generally want to completely ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said, you would still play around this if you do not have Avenging Wrath active to fish for Awakening procs whenever someone is not in critical danger.
