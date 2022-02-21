@@ -26,7 +26,7 @@ Paladins utility is one of the strongest in mythic+ when used correctly.
 
 ### Throughput outside of major cooldowns
 
-Holy Paladins biggest weakness is that we are very reliant on our cooldowns to carry us through difficult parts of the dungeons. The largest learning curves in dungeon healing as a paladin is learning how to manage your cooldowns properly.
+Holy Paladins biggest weakness is that we are very reliant on our cooldowns to carry us through difficult parts of the dungeons. The largest learning curves in dungeon healing as a paladin is learning how to manage your cooldowns.
 
 ### Being a Melee Healer
 

@@ -4,7 +4,7 @@ permalink: /M+/playstyle
 layout: page
 ---
 
-### Healing doesn't really have a rotation, and its important to be flexible in whatever situation you're in. Use this as a guideline
+### Healing doesn't really have a rotation and its important to be flexible in whatever situation you're in. Use this as a guideline;
 
 ---
 1. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown for either damage or healing.
@@ -50,14 +50,14 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 ### Beacons
 
 ---
-You generally want at all time to have one of your beacons on your tank, but there is situations where you could swap it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
+You generally want at all time to have one of your beacons on your tank, but there is situations where you could move it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
 
 ### Dawn Will Come
 
 ---
 The Holy Paladin tier set will change drastically how you were playing in mythic+ before. You want to make sure that you are casting atleast one Word of Glory whenever the 2 piece bonus is available and afterwards use Light of Dawn to proc the second effect, however there is situations where you could delay it to force proc Avenging Wrath to make AoE healing situations easier to deal with.
 
-You generally want to completely ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said, you would still play around this if you do not have Avenging Wrath active to fish for Awakening procs whenever someone is not in critical danger.
+You generally want to completely ignore playing around the 4 piece on AoE situations unless its less than 3-4 targets. That being said, you would still play around this if you do not have Avenging Wrath available to fish for Awakening procs whenever someone is not in critical danger.
 
 If you are not able to hit 5 players for the max CDR, keep in mind that aiming Light of Dawn toward pets will provide you with Avenging Wrath cooldown reduction as well.
 

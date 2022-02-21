@@ -10,7 +10,7 @@ Hello!
 
 I'm a high mythic+ Holy Paladin and multi CE healer, if you have any questions about me or else send me a dm on discord.
 
-**How do i play?**
+### How do i play?
 
 In heavy movement situations i use targeting macros (known as pvp macros) and when there is not a lot of movement i play with normal mouseover macros.
 
@@ -22,7 +22,7 @@ My playstyle is very niche compared to how other people play but one thing i can
 
 Macros/keybindings are very personal, you should play with whatever you prefer.
 
-**may u needs ✨**
+### Contact:
 
 - sknerost@gmail.com
 - discord tag: Skånerost#5248
