@@ -8,9 +8,9 @@ layout: page
 
 Having this is a absolute must as Holy Paladin in mythic+, since it will provide you with a lot of meaningful things, but most importantly a combat ress.
 
-[Disposable Spectrophasic Reanimator](https://www.wowhead.com/item=184308/disposable-spectrophasic-reanimator) this is the main reason for being engineer, a combat ress.
+[Disposable Spectrophasic Reanimator](https://www.wowhead.com/item=184308/disposable-spectrophasic-reanimator) main reason for being Engineer, a combat ress.
 
-[Dimensional Shifter](https://www.wowhead.com/spell=310495/dimensional-shifter) is an invisibility belt enchant, i don't recommend using this unless you dont have another option since there is a chance it backfires and you will have to wait 20 seconds before you are able to use a invisibility potion instead.
+[Dimensional Shifter](https://www.wowhead.com/spell=310495/dimensional-shifter) this is a belt enchant that will allow you to invis on a 2 minute cooldown but has a relatively high chance to backfire which will also putt your Invisibility potion on a 20 seconds cooldown.
 
 [50UL-TR4P](https://www.wowhead.com/spell=310493/50ul-tr4p) this can be used for CCing things such as, the oozes on first or second boss Plaguefall.
 

@@ -7,7 +7,7 @@ layout: page
 ### On use
 
 [Soulletting Ruby](https://www.wowhead.com/item=178809/soulletting-ruby?bonus=6805:1472)
-this is a very strong on use trinket since it lines up with wings (do not keybind this into wings) since you want to use it on a low health target whenever you can.
+this is a very strong on use trinket since it lines up with Avenging Wrath. That being said, do not macro this into it unless you have mouseover Ruby inside of your Avenging Wrath macro.
 
 [Inscrutable Quantum Device](https://www.wowhead.com/item=179350/inscrutable-quantum-device?bonus=6805:1472)
 i personally prefer Quantum Device over Ruby because iqd provides you a large amount of extra burst damage inside your Ashen Hallow.
