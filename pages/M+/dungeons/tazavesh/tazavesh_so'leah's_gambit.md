@@ -23,6 +23,6 @@ layout: dungeons
 
 ### So'leah
 
-**Important trash mechanics to use utility on**
+### Important trash mechanics to use utility on
 
 ---

@@ -16,7 +16,7 @@ layout: page
 
 You should treat <a href="https://www.wowhead.com/spell=183998/light-of-the-martyr" data-wowhead="spell=183998"></a> as a ''Panic'' button, so whenever someone is in danger of dying and you do not have enough holy power or <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> available then use this.
 
-**Healing Cooldown Priorities**
+### Healing Cooldown Priorities
 
 1. <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a>
 2. <a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wowhead="spell=105809"></a>
@@ -26,7 +26,7 @@ You should treat <a href="https://www.wowhead.com/spell=183998/light-of-the-mart
 
 Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 
-**AoE Damage Priorities**
+## AoE Damage Priorities
 
 1. Keep <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> down at all time.
 2. Throw <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown whenever available.

@@ -35,12 +35,12 @@ there is zero healing requirement on this fight if it's executed well, this mean
 
 there is a few things to be aware of on this fight and that is to rotate your healing/damage reduction cooldowns on the shields that your dps players does not any damage cooldowns or any weapons on. Also make sure to pre Blessing of Freedom on the Frozen Binding if its a melee that got targeted. Blessing of Protection will mitigate all damage you take from Blessing of Sacrifice on this boss fight.
 
-**Important trash mechanics to use utility on**
+### Important trash mechanics to use utility on
 
 ---
-**Separation Assistant's Morbid Fixation** Blessing of Protection will fully immune this fixate and should be used to prevent your targeted player having to move away. Keep in mind a hunter should generally Feign Death this, a rogue can vanish or evasion and so on.
+**Separation Assistant's Morbid Fixation:** Blessing of Protection will fully immune this fixate and should be used to prevent your targeted player having to move away. Keep in mind a hunter should generally Feign Death this, a rogue can vanish or evasion and so on.
 
-**Loyal Creations and Goregrind's Tenderize + Mutilate** You can Blessing of Protection + taunt these two abilities to make it easier for your tank, or if you do not have it available you can Shield of the Righteous and taunt the tenderize to reset your tanks stacks but make sure he's taunting the mob back before the Mutilate.
+**Loyal Creations and Goregrind's Tenderize + Mutilate:** You can Blessing of Protection + taunt these two abilities to make it easier for your tank, or if you do not have it available you can Shield of the Righteous and taunt the tenderize to reset your tanks stacks but make sure he's taunting the mob back before the Mutilate.
 
-**Corpse Harvester's Throw Flesh** The damage from this ability will start to almost one shot the higher the key goes if the player are not prepared. Blessing of Protection will immune this damage. Make sure to use Hammer of Justice and Blinding Light frequently on these mobs.
+**Corpse Harvester's Throw Flesh:** The damage from this ability will start to almost one shot the higher the key goes if the player are not prepared. Blessing of Protection will immune this damage. Make sure to use Hammer of Justice and Blinding Light frequently on these mobs.
 

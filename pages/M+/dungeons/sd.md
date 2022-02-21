@@ -36,19 +36,19 @@ Collecting orbs good and rotating immunities is the thing that will make the big
 
 This fight is pretty straight forward, you can avoid getting the bleed by using Door of Shadows or Divine Steed. If you see a player is about to get 2 stacks of the debuff you can use Blessing of Protection to clear and immune the charge hit. Keep in mind that the shield clears all bleeds so you ideally do not want to use any sort of immunity before Gloom Squall.
 
-**Important trash mechanics to use utility on**
+### Important trash mechanics to use utility on
 
 ---
-**Chamber Sentinel's Severing Slice** This is the frontal the sentinel does, if one of your players gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
+**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your players gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
 
-**Research Scribe's Throw Research** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Make sure to use Blessing of Protection to immune damage and Hammer of Justice or Blinding Light to delay the casts.
+**Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Make sure to use Blessing of Protection to immune damage and Hammer of Justice or Blinding Light to delay the casts.
 
-**Grand Overseer's Dread Bindings** You can pre use Freedom on this mechanic and you won't have to run out to break the chain.
+**Grand Overseer's Dread Bindings:** You can pre use Freedom on this mechanic and you won't have to run out to break the chain.
 
-**Depths Warden's Barbed Shackles** This ability should be interrupted but if it would happen to go through use Freedom immediately.
+**Depths Warden's Barbed Shackles:** This ability should be interrupted but if it would happen to go through use Freedom immediately.
 
-**Dark Acolyte's Dark Bolt** This cast becomes very dangerous the higher you go, Use Blinding Light to mass interrupt the casts.
+**Dark Acolyte's Dark Bolt:** This cast becomes very dangerous the higher you go, Use Blinding Light to mass interrupt the casts.
 
-**Wicked Oppressor's Wrack Soul** Use Hammer of Justice on this cast to mitigate damage if you don't have dispel available.
+**Wicked Oppressor's Wrack Soul:** Use Hammer of Justice on this cast to mitigate damage if you don't have dispel available.
 
-**Gluttonous Tick's Drain Essence** Blinding Light and Hammer of Justice should be used frequently on these mobs whenever your group does not have interrupts available.
+**Gluttonous Tick's Drain Essenc:** Blinding Light and Hammer of Justice should be used frequently on these mobs whenever your group does not have interrupts available.

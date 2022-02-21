@@ -38,13 +38,13 @@ Since pressing the bombs is a healer job on this fight, keybinding mouseover int
 
 There are two ways to play this boss, you either one phase or you two phase it. If your group decides to one phase, you typically want to hold your Avenging Wrath for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you want to dispel one player on Cosmic Collapse, you can also use Aura Mastery to mitigate damage.
 
-**Important trash mechanics to use utility on**
+### Important trash mechanics to use utility on
 
 ---
-**Enraged Spirit's Enraged Mask** Using Blinding Light on the Enraged Mask will interrupt them and cause them to disappear.
+**Enraged Spirit's Enraged Mask:** Using Blinding Light on the Enraged Mask will interrupt them and cause them to disappear.
 
-**Atal'ai Deathwalker** Blinding Light will interrupt the Bladestorm and will allow your group to go back into melee again. Using Hammer of Justice on this mob will save you a lot of healing globals, and will allow your tank to reset Gushing Wound stacks easier. Blessing of Sacrifice can be used whenever you do not have Avenging Wrath available to mitigate Gushing Wound damage taken.
+**Atal'ai Deathwalker:** Blinding Light will interrupt the Bladestorm and will allow your group to go back into melee again. Using Hammer of Justice on this mob will save you a lot of healing globals, and will allow your tank to reset Gushing Wound stacks easier. Blessing of Sacrifice can be used whenever you do not have Avenging Wrath available to mitigate Gushing Wound damage taken.
 
-**Lubricator's Self-Cleaning Cycle or Lubricate** If you see that your entire groups interrupts are on cooldown, Hammer of Justice the cast. (Blinding Light does not work).
+**Lubricator's Self-Cleaning Cycle or Lubricate:** If you see that your entire groups interrupts are on cooldown, Hammer of Justice the cast. (Blinding Light does not work).
 
-**Sentient Oil** Make sure to focus one of these dudes down and use Hammer of Justice, Blinding Light or Turn Evil to prevent them from casting whenever your group does not have interrupts available.
+**Sentient Oil:** Make sure to focus one of these dudes down and use Hammer of Justice, Blinding Light or Turn Evil to prevent them from casting whenever your group does not have interrupts available.
