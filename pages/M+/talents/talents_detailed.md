@@ -109,7 +109,7 @@ This talent is a absolute must in keys, since it will provide you with a solid 3
 
 **Cavalier**
 
-Playing this is completely troll, and will be the main reason you are held back.
+Playing this is completely troll and will be the main reason you are held back.
 
 **Rule of Law**
 
