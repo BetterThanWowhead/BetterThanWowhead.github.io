@@ -78,7 +78,7 @@ This talent is very mana inefficient and costs you a GCD every 20 seconds for ve
 
 **Fist of Justice**
 
-This should almost never be played in m+ because having a AoE disorient will generally be more useful in most scenarios.
+This should almost never be played in m+ since having an AoE disorient will generally be more useful in most scenarios.
 
 **Repentance**
 
@@ -105,7 +105,7 @@ This should be your default pick in keys. You can use this to mass interrupt uni
 
 **Unbreakable Spirit**
 
-This talent is a absolute must in keys, since it will provide you with a solid 30% cooldown reduction to a part of our utility kit (Divine Shield, Lay on Hands and Divine Protection).
+This talent is an absolute must in keys, since it will provide you with a solid 30% cooldown reduction to a part of our utility kit (Divine Shield, Lay on Hands and Divine Protection).
 
 **Cavalier**
 
@@ -186,7 +186,7 @@ This should be your default pick in keys, because it provides you with very cons
 
 **Glimmer of Light**
 
-Glimmer of Light no longer has the synergies that once made its healing strong, so most of its power comes from retaining your single full power beacon. In dungeons that we frequently need to deal with large incoming AoE healing Beacon of Faith generally performs better. That being said Glimmer of Light can still be used for lower keys and will help quite abit with tank healing if he is inexperienced.
+Glimmer of Light no longer has the synergies that once made it's healing strong, so most of it's power comes from retaining your single full power beacon. In dungeons that we frequently need to deal with large incoming AoE healing Beacon of Faith generally performs better. That being said Glimmer of Light can still be used for lower keys and will help quite abit with tank healing.
 
 **Beacon of Faith**
 

@@ -20,7 +20,7 @@ This is one of the strongest healer cooldowns. And should NEVER be underestimate
 
 #### <a href="https://www.wowhead.com/spell=6940/blessing-of-sacrifice" target="_blank" rel="noopener noreferrer" data-wowhead="spell=6940" data-wh-icon-size="large"></a>
 
-This will save you a ton of healing globals and should be used as frequently as possible on your tank whenever you dont have Avenging Wrath available.
+This will save you a ton of healing globals and should be used as frequently as possible on your tank whenever you don't have Avenging Wrath available.
 
 #### <a href="https://www.wowhead.com/spell=642/divine-shield" target="_blank" rel="noopener noreferrer" data-wowhead="spell=642" data-wh-icon-size="large"></a>
 

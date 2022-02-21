@@ -6,7 +6,7 @@ layout: covenants
 ### <a href="https://www.wowhead.com/spell=328204/vanquishers-hammer" data-wowhead="spell=328204"></a>
 
 ---
-This is a very flexible and strong priority target damage ability, this should generally be used to force proc Avenging Wrath to make AoE healing easier to deal with or if there is no healing required for the next 30 seconds then use it on cooldown.
+This is a very flexible and strong priority target damage ability, this should generally be used to force proc Avenging Wrath to make AoE healing situations easier to deal with or if there is no healing required for the next 30 seconds then use it on cooldown.
 
 ### <a href="https://www.wowhead.com/spell=324631/fleshcraft" data-wowhead="spell=324631"></a>
 
@@ -28,4 +28,4 @@ Your soulbind setup as Necrolord should look like this: [Plague Deviser Marileth
 ---
 These legendaries should be crafted with Haste and Versatility if you are focusing on mythic+.
 
-<a href="https://www.wowhead.com/spell=355099/duty-bound-gavel" data-wowhead="spell=355099"></a> and <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> this will provide you with your highest damage output as Necrolord. You could also replace Mad Paragon with <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we dont play Crusader's Might as Necrolord or have Divine Toll.
+<a href="https://www.wowhead.com/spell=355099/duty-bound-gavel" data-wowhead="spell=355099"></a> and <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> this will provide you with your highest damage output as Necrolord. You could also replace Mad Paragon with <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we don't play Crusader's Might as Necrolord or have Divine Toll.

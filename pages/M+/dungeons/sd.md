@@ -10,7 +10,7 @@ layout: dungeons
 
 ### Kryxis
 
-If you're a new holy paladin player you might find yourself having a hard time on this boss fight. You want to make sure to split your cooldowns and have something for every wave of orbs for example, Ashen Hallow + Avenging Wrath for first wave, Aura Mastery + Holy Avenger for second wave and lastly Divine Shield + Blessing of Sacrifice for third wave. If your group happends to have a more optimised composition like a Rogue and a Mage, you could Divine Shield + Blessing of Sacrifice if you have a player without a immunity, Cloak of Shadows and Ice Block one wave which will make the boss fight significantly easier. If your group happends to not be healthy before a Juggernaut Rush, you can always use Blessing of Protection to allow him to solo soak.
+If you're a new holy paladin player you might find yourself having a hard time on this boss fight. You want to make sure to split your cooldowns and have something for every wave of orbs for example, Ashen Hallow + Avenging Wrath for first wave, Aura Mastery + Holy Avenger for second wave and lastly Divine Shield + Blessing of Sacrifice for third wave. If your group happens to have a more optimised composition like a Rogue and a Mage, you could Divine Shield + Blessing of Sacrifice if you have a player without a immunity, Cloak of Shadows and Ice Block one wave which will make the boss fight significantly easier. If your group happens to not be healthy before a Juggernaut Rush, you can always use Blessing of Protection to allow him to solo soak.
 
 <a style="color: white">
     <img src="/assets/img/dungeons/tarvold.png" class="dungeon_boss"/>
@@ -39,7 +39,7 @@ This fight is pretty straight forward, you can avoid getting the bleed by using 
 ### Important trash mechanics to use utility on
 
 ---
-**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your players gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware your about to do it).
+**Chamber Sentinel's Severing Slice:** This is the frontal the sentinel does, if one of your players gets hit meanwhile your tank are kiting, Blessing of Protection will fully immune it. You can also soak the bleed intentionally to help your tank (but make sure he's aware you're about to do it).
 
 **Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Make sure to use Blessing of Protection to immune damage and Hammer of Justice or Blinding Light to delay the casts.
 
@@ -47,8 +47,8 @@ This fight is pretty straight forward, you can avoid getting the bleed by using 
 
 **Depths Warden's Barbed Shackles:** This ability should be interrupted but if it would happen to go through use Freedom immediately.
 
-**Dark Acolyte's Dark Bolt:** This cast becomes very dangerous the higher you go, Use Blinding Light to mass interrupt the casts.
+**Dark Acolyte's Dark Bolt:** This cast becomes very dangerous the higher you go, use Blinding Light to mass interrupt the casts.
 
 **Wicked Oppressor's Wrack Soul:** Use Hammer of Justice on this cast to mitigate damage if you don't have dispel available.
 
-**Gluttonous Tick's Drain Essenc:** Blinding Light and Hammer of Justice should be used frequently on these mobs whenever your group does not have interrupts available.
+**Gluttonous Tick's Drain Essence:** Blinding Light and Hammer of Justice should be used frequently on these mobs whenever your group does not have interrupts available.

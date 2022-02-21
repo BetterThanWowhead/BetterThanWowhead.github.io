@@ -36,7 +36,7 @@ This boss has zero healing requirement (assuming your group interrupts the Volle
 
 On this boss with a coordinated group and assuming you have a windwalker monk or any sort of immunity specs, you preferably do NOT want to soak the Ritual of Woe with your Divine Shield because taunting the Stigma of Pride debuff that will apply to the tank will mitigate a lot of damage and will make it a ton easier for your tank. Whenever you do not have Avenging Wrath (and assuming tank doesn't have any major cooldowns available), you can Blessing of Sacrifice the tank to mitigate damage taken.
 
-### Important trash mechanics to use utility on*
+### Important trash mechanics to use utility on
 
 ---
 **Shard of Halkias Thrash:** You should rotate damage mitigation cooldowns whenever you do not have Avenging Wrath or Holy Avenger available, keep in mind Blessing of Protection will immune this ability.
