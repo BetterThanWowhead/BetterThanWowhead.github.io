@@ -36,7 +36,7 @@ Since pressing the bombs is a healer job on this fight, keybinding mouseover int
 
 ### Mueh'Zal
 
-There are two ways to play this boss, you either one phase or you two phase it. If your group decides to one phase, you typically want to hold your Avenging Wrath for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you want to dispel one player on Cosmic Collapse, you can also use Aura Mastery to mitigate damage.
+There are two ways to play this boss, you either one phase or you two phase it. If your group decides to one phase, you typically want to hold your Avenging Wrath for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you want to dispel one player on Cosmic Collapse (preferably a range), you can also use Aura Mastery early into the fight and have it up later to mitigate damage.
 
 ### Important trash mechanics to use utility on
 
