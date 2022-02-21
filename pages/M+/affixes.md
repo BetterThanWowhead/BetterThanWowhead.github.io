@@ -23,7 +23,7 @@ This is a very unfun and bad affix for any healer in general to deal with since 
 ### Inspiring
 ---
 
-Only advice i have for this affix is playing Blood Elf since dungeons like Mists of Tirna Scithe has an incredibly tight timer on a higher key level and you dont have time to CC any inspiring in the maze, Arcane Torrent will remove the Mistveil Tender's Nourish the Forest debuff and prevent them from healing themselves to full health.
+Only advice i have for this affix is playing Blood Elf since dungeons like Mists of Tirna Scithe has an incredibly tight timer on a higher key level and you don't have time to CC any inspiring in the maze, Arcane Torrent will remove the Mistveil Tender's Nourish the Forest debuff and prevent them from healing themselves to full health.
 
 ### Bursting
 ---
