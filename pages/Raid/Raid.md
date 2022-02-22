@@ -5,4 +5,4 @@ layout: page
 comments: false
 ---
 
-Coming soon!
+<h1>Coming soon! &#128679;</h1>
