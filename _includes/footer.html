@@ -1,5 +1,6 @@
 <footer class="footer">
-  <a class="footer_item" href="/thanks">ack.</a>
+  <a class="footer_item" href="/changes" id="changes_date" style="font-size: 12px;"></a> <br>
+  <!--<a class="footer_item" href="/thanks">ack.</a> -->
   <!-- <a class="footer_item" href="javascript::void(0)">resume</a> -->
   <!-- <a class="footer_item" href="/feed.xml">rss</a> -->
   <span class="footer_item">Skånerost &copy; {{ site.time | date: "%Y" }}. All rights reserved.</span>
@@ -23,3 +24,10 @@
   });
 </script>
 {%- endif -%}
+
+
+<script>
+  fetch('https://api.github.com/repos/monalisapaladins/monalisapaladins.github.io/branches/main')
+    .then(response => response.json())
+    .then(data => document.getElementById("changes_date").innerHTML = "last updated: " + data["commit"]["commit"]["author"]["date"]);
+</script>
