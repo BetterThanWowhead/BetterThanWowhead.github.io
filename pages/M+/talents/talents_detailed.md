@@ -12,10 +12,10 @@ layout: page
 
 <div class="talents">
   <div class="column">
-    <a href="https://www.wowhead.com/spell=196926/crusaders-might" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=196926"></a>
+    <a href="https://www.wowhead.com/spell=196926/crusaders-might" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=196926"></a>
   </div>
   <div class="column">
-    <a href="https://www.wowhead.com/spell=223306/bestow-faith" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=223306"></a>
+    <a href="https://www.wowhead.com/spell=223306/bestow-faith" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=223306"></a>
   </div>
   <div class="column">
     <a href="https://www.wowhead.com/spell=114158/lights-hammer" data-wh-icon-size="medium" data-wowhead="spell=114158"></a>
@@ -39,13 +39,13 @@ This should be your go to talent as Venthyr in every dungeon. This will provide 
 
 <div class="talents">
   <div class="column">
-    <a href="https://www.wowhead.com/spell=157047/saved-by-the-light" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=157047"></a>
+    <a href="https://www.wowhead.com/spell=157047/saved-by-the-light" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=157047"></a>
   </div>
   <div class="column">
     <a href="https://www.wowhead.com/spell=183778/judgment-of-light" data-wh-icon-size="medium" data-wowhead="spell=183778"></a>
   </div>
   <div class="column">
-    <a href="https://www.wowhead.com/spell=114165/holy-prism" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=114165"></a>
+    <a href="https://www.wowhead.com/spell=114165/holy-prism" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=114165"></a>
   </div>
 </div>
 
@@ -66,10 +66,10 @@ This talent is very mana inefficient and costs you a GCD every 20 seconds for ve
 
 <div class="talents">
   <div class="column">
-    <a href="https://www.wowhead.com/spell=234299/fist-of-justice" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=234299"></a>
+    <a href="https://www.wowhead.com/spell=234299/fist-of-justice" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=234299"></a>
   </div>
   <div class="column">
-    <a href="https://www.wowhead.com/spell=20066/repentance" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=20066"></a>
+    <a href="https://www.wowhead.com/spell=20066/repentance" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=20066"></a>
   </div>
   <div class="column">
     <a href="https://www.wowhead.com/spell=115750/blinding-light" data-wh-icon-size="medium" data-wowhead="spell=115750"></a>
@@ -96,10 +96,10 @@ This should be your default pick in keys. You can use this to mass interrupt uni
     <a href="https://www.wowhead.com/spell=114154/unbreakable-spirit" data-wh-icon-size="medium" data-wowhead="spell=114154"></a>
   </div>
   <div class="column">
-    <a href="https://www.wowhead.com/spell=230332/cavalier" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=230332"></a>
+    <a href="https://www.wowhead.com/spell=230332/cavalier" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=230332"></a>
   </div>
   <div class="column">
-    <a href="https://www.wowhead.com/spell=214202/rule-of-law" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=214202"></a>
+    <a href="https://www.wowhead.com/spell=214202/rule-of-law" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=214202"></a>
   </div>
 </div>
 
@@ -119,13 +119,13 @@ This talent should never EVER be played in a mythic+ dungeon no matter if you ar
 
 <div class="talents">
   <div class="column">
-    <a href="https://www.wowhead.com/spell=223817/divine-purpose" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=223817"></a>
+    <a href="https://www.wowhead.com/spell=223817/divine-purpose" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=223817"></a>
   </div>
   <div class="column">
     <a href="https://www.wowhead.com/spell=105809/holy-avenger" data-wh-icon-size="medium" data-wowhead="spell=105809"></a>
   </div>
   <div class="column">
-    <a href="https://www.wowhead.com/spell=152262/seraphim" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=152262"></a>
+    <a href="https://www.wowhead.com/spell=152262/seraphim" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=152262"></a>
   </div>
 </div>
 
@@ -146,10 +146,10 @@ As Venthyr this talent has close to zero synergy and should never be played in a
 
 <div class="talents">
   <div class="column">
-    <a href="https://www.wowhead.com/spell=53376/sanctified-wrath" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=53376"></a>
+    <a href="https://www.wowhead.com/spell=53376/sanctified-wrath" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=53376"></a>
   </div>
   <div class="column">
-    <a href="https://www.wowhead.com/spell=216331/avenging-crusader" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=216331"></a>
+    <a href="https://www.wowhead.com/spell=216331/avenging-crusader" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=216331"></a>
   </div>
   <div class="column">
     <a href="https://www.wowhead.com/spell=248033/awakening" data-wh-icon-size="medium" data-wowhead="spell=248033"></a>
@@ -173,13 +173,13 @@ This should be your default pick in keys, because it provides you with very cons
 
 <div class="talents">
   <div class="column">
-    <a href="https://www.wowhead.com/spell=287268/glimmer-of-light" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=287268"></a>
+    <a href="https://www.wowhead.com/spell=287268/glimmer-of-light" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=287268"></a>
   </div>
   <div class="column">
     <a href="https://www.wowhead.com/spell=156910/beacon-of-faith" data-wh-icon-size="medium" data-wowhead="spell=156910"></a>
   </div>
   <div class="column">
-    <a href="https://www.wowhead.com/spell=200025/beacon-of-virtue" class="unselected_talent" data-wh-icon-size="medium" data-wowhead="spell=200025"></a>
+    <a href="https://www.wowhead.com/spell=200025/beacon-of-virtue" class="unselected" data-wh-icon-size="medium" data-wowhead="spell=200025"></a>
   </div>
 </div>
 

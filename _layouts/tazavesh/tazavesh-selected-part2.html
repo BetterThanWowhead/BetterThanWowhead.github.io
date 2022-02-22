@@ -1,0 +1,100 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include header.html %}
+
+<body data-theme="{{ site.mode }}" class="notransition">
+
+    <script>
+        const body = document.body;
+        const data = body.getAttribute("data-theme");
+
+        const initTheme = (state) => {
+            if (state === "dark") {
+                body.setAttribute("data-theme", "dark");
+            } else if (state === "light") {
+                body.removeAttribute("data-theme");
+            } else {
+                localStorage.setItem("theme", data);
+            }
+        };
+
+        initTheme(localStorage.getItem("theme"));
+
+        setTimeout(() => body.classList.remove("notransition"), 75);
+    </script>
+    <script>const whTooltips = { colorLinks: true, iconizeLinks: true, renameLinks: true, iconSize: true, renameLinks: true };</script>
+    <script src="https://wow.zamimg.com/widgets/power.js"></script>
+
+    {% include navbar.html %}
+    <div class="wrapper">
+        <header class="header">
+            <h1 class="header-title center" itemprop="headline">{{ page.title | escape }}</h1>
+        </header>
+        <main class="page-content" aria-label="Content">
+            <div class="author">
+
+                <a href="/M+/dungeons/dos">
+                    <img class="unselected-dungeon" src="/assets/img/dungeons/dos.jpg" />
+                </a>
+
+                <a href="/M+/dungeons/sd">
+                    <img class="unselected-dungeon" src="/assets/img/dungeons/sd.jpg" />
+                </a>
+
+                <a href="/M+/dungeons/mots">
+                    <img class="unselected-dungeon" src="/assets/img/dungeons/mots.jpg" />
+                </a>
+
+                <a href="/M+/dungeons/nw">
+                    <img class="unselected-dungeon" src="/assets/img/dungeons/nw.jpg" />
+                </a>
+
+                <a href="/M+/dungeons/hoa">
+                    <img class="unselected-dungeon" src="/assets/img/dungeons/hoa.jpg" />
+                </a>
+
+                <a href="/M+/dungeons/top">
+                    <img class="unselected-dungeon" src="/assets/img/dungeons/top.jpg" />
+                </a>
+
+                <a href="/M+/dungeons/pf">
+                    <img class="unselected-dungeon" src="/assets/img/dungeons/pf.jpg" />
+                </a>
+
+                <a href="/M+/dungeons/soa">
+                    <img class="unselected-dungeon" src="/assets/img/dungeons/soa.jpg" />
+                </a>
+
+                <a href="/M+/dungeons/tazavesh">
+                    <img class="author-avatar" src="/assets/img/dungeons/taz.jpg" />
+                </a>
+
+            </div>
+            <div style="text-align: center;">
+                <a href="/M+/dungeons/tazavesh/gambit/hylbrande">
+                    | Hylbrande |
+                </a>
+                <a href="/M+/dungeons/tazavesh/gambit/soleah">
+                    So'leah |
+                </a>
+                <a href="/M+/dungeons/tazavesh/gambit/timecap">
+                    Timecap'n Hooktail |
+                </a>
+                <a href="/M+/dungeons/tazavesh/gambit/trash">
+                    Trash |
+                </a>
+            </div>
+
+            {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=4 h_max=4 %}
+
+        </main>
+        {% include footer.html %}
+    </div>
+</body>
+
+</html>

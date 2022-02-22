@@ -374,10 +374,29 @@ mark,
   width: 50%;
 }
 
-.unselected_talent {
+.unselected {
   color: #c7bebe;
   opacity: 0.4;
   filter: alpha(opacity=40); /* msie */
+  -webkit-filter: grayscale(100%);
+       -moz-filter: grayscale(100%);
+         -o-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+            filter: grayscale(100%); 
+}
+
+.unselected-dungeon {
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  user-select: none;
+  background-color: $dark-black;
+  vertical-align: middle;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -webkit-animation: 1s ease-in forwards fadein;
+  animation: 1s ease-in forwards fadein;
+  opacity: 1;
   -webkit-filter: grayscale(100%);
        -moz-filter: grayscale(100%);
          -o-filter: grayscale(100%);

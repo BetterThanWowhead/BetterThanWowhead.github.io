@@ -4,6 +4,46 @@ permalink: /M+/dungeons/top
 layout: dungeons
 ---
 
+<div class="author">
+
+<a href="/M+/dungeons/dos">
+    <img class="unselected-dungeon" src="/assets/img/dungeons/dos.jpg" />
+</a>
+
+<a href="/M+/dungeons/sd">
+    <img class="unselected-dungeon" src="/assets/img/dungeons/sd.jpg" />
+</a>
+
+<a href="/M+/dungeons/mots">
+    <img class="unselected-dungeon" src="/assets/img/dungeons/mots.jpg" />
+</a>
+
+<a href="/M+/dungeons/nw">
+    <img class="unselected-dungeon" src="/assets/img/dungeons/nw.jpg" />
+</a>
+
+<a href="/M+/dungeons/hoa">
+    <img class="unselected-dungeon" src="/assets/img/dungeons/hoa.jpg" />
+</a>
+
+<a href="/M+/dungeons/top">
+    <img class="author-avatar" src="/assets/img/dungeons/top.jpg" />
+</a>
+
+<a href="/M+/dungeons/pf">
+    <img class="unselected-dungeon" src="/assets/img/dungeons/pf.jpg" />
+</a>
+
+<a href="/M+/dungeons/soa">
+    <img class="unselected-dungeon" src="/assets/img/dungeons/soa.jpg" />
+</a>
+
+<a href="/M+/dungeons/tazavesh">
+    <img class="unselected-dungeon" src="/assets/img/dungeons/taz.jpg" />
+</a>
+
+</div>
+
 <a>
     <img src="/assets/img/dungeons/affront.png" class="dungeon_boss"/>
 </a>

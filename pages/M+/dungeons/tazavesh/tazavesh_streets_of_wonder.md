@@ -1,12 +1,8 @@
 ---
 title: Tazavesh Streets of Wonder
-permalink: /M+/dungeons/streets
-layout: dungeons
+permalink: /M+/dungeons/tazavesh/streets
+layout: tazavesh/tazavesh-selected-part1
 ---
-
-<a href="/M+/dungeons/soleah">
-Tazavesh So'leah's Gambit (Part 2)
-</a>
 
 <a>
     <img src="/assets/img/dungeons/zophex.png" class="dungeon_boss"/>
@@ -40,6 +36,16 @@ Tazavesh So'leah's Gambit (Part 2)
 
 ### So'amzi
 
-**Important trash mechanics to use utility on**
 
----
+<div>
+    <div style="text-align:left;display: inline-block;width: 49%;">
+        <a href="/M+/dungeons/affixes">
+            < Affix
+        </a>
+    </div>
+    <div style="text-align:right;display: inline-block;width: 49%;">
+        <a href="/M+/dungeons/tazavesh/gambit/hylbrande">
+            Part 2 >
+        </a>
+    </div>
+</div>
