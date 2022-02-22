@@ -6,7 +6,7 @@ layout: dungeons
 <div class="author">
 
 <a href="/M+/dungeons/dos">
-    <img class="author-avatar" src="/assets/img/dungeons/dos.jpg" />
+    <img class="selected-dungeon" src="/assets/img/dungeons/dos.jpg" />
 </a>
 
 <a href="/M+/dungeons/sd">

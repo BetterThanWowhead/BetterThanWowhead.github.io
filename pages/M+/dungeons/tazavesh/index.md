@@ -39,7 +39,7 @@ layout: dungeons
 </a>
 
 <a href="/M+/dungeons/tazavesh">
-    <img class="author-avatar" src="/assets/img/dungeons/taz.jpg" />
+    <img class="selected-dungeon" src="/assets/img/dungeons/taz.jpg" />
 </a>
 
 </div>

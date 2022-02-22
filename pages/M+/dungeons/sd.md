@@ -11,7 +11,7 @@ layout: dungeons
 </a>
 
 <a href="/M+/dungeons/sd">
-    <img class="author-avatar" src="/assets/img/dungeons/sd.jpg" />
+    <img class="selected-dungeon" src="/assets/img/dungeons/sd.jpg" />
 </a>
 
 <a href="/M+/dungeons/mots">

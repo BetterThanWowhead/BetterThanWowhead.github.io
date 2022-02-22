@@ -23,7 +23,7 @@ layout: dungeons
 </a>
 
 <a href="/M+/dungeons/hoa">
-    <img class="author-avatar" src="/assets/img/dungeons/hoa.jpg" />
+    <img class="selected-dungeon" src="/assets/img/dungeons/hoa.jpg" />
 </a>
 
 <a href="/M+/dungeons/top">

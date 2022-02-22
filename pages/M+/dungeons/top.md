@@ -27,7 +27,7 @@ layout: dungeons
 </a>
 
 <a href="/M+/dungeons/top">
-    <img class="author-avatar" src="/assets/img/dungeons/top.jpg" />
+    <img class="selected-dungeon" src="/assets/img/dungeons/top.jpg" />
 </a>
 
 <a href="/M+/dungeons/pf">

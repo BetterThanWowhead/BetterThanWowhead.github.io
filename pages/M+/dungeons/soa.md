@@ -35,7 +35,7 @@ layout: dungeons
 </a>
 
 <a href="/M+/dungeons/soa">
-    <img class="author-avatar" src="/assets/img/dungeons/soa.jpg" />
+    <img class="selected-dungeon" src="/assets/img/dungeons/soa.jpg" />
 </a>
 
 <a href="/M+/dungeons/tazavesh">
