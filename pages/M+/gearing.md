@@ -30,7 +30,7 @@ Mastery is still a decent choice for raw healing. But it has no effect on our da
 
 ### Secondary Stat Diminishing Returns
 
-In Shadowlands, now all secondary stats have multiple rating thresholds that reduce the effectiveness of additional rating for that specific secondary stat. This reduction begins to take effect once any rating provides an additional 30% of any stat (with the exception of mastery, for mastery, this is normalised with mastery points as mastery points give differing percentages of benefit depending on any given spec). The diminishing returns only affects *rating* specifically, no matter where it comes from, but it does not affect stat multipliers or effects that add a fixed amount of % to the stat. Rating thresholds are as follows for each secondary stat:
+In Shadowlands, now all secondary stats have multiple rating thresholds that reduce the effectiveness of additional rating for that specific secondary stat. This reduction begins to take effect once any rating provides an additional 30% of any stat (with the exception of mastery, for mastery, this is normalised with mastery points as mastery points give differing percentages of benefit depending on any given spec). The diminishing returns only affects *rating* specifically, no matter where it comes from, but it does not affect stat multipliers or effects that add a fixed amount of % to the stat.
 
 ### Enchant and Gems
 
