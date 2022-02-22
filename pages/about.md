@@ -28,6 +28,10 @@ Macros/keybindings are very personal, you should play with whatever you prefer.
 - discord tag: Skånerost#5248
 
 
+### Thanks:
+
+Thanks to [Metayaya](https://www.twitch.tv/metayaya_) for helping me create the website. <3
+
 
 
 

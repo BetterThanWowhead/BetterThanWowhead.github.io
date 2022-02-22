@@ -4,7 +4,7 @@ permalink: /M+/dungeons/soa
 layout: dungeons
 ---
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/kin-tara.png" class="dungeon_boss"/>
 </a>
 
@@ -12,7 +12,7 @@ layout: dungeons
 
 There's absolutly zero healing requirement on this fight (assuming your group are not standing in the line). Focus your cooldowns on doing damage and if your tank is not full health before a Overhead Slash, Blessing of Sacrifice him immediately.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/ventunax.png" class="dungeon_boss"/>
 </a>
 
@@ -20,7 +20,7 @@ There's absolutly zero healing requirement on this fight (assuming your group ar
 
 One of your range dps will get targeted by Dark Stride and this will apply a hard ticking debuff for 15 seconds, make sure to rotate Blessing of Sacrifice, Aura Mastery and Blessing of Protection whenever your dps doesn't have a defensive and when you're not inside Avenging Wrath.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/oryphrion.png" class="dungeon_boss"/>
 </a>
 
@@ -28,7 +28,7 @@ One of your range dps will get targeted by Dark Stride and this will apply a har
 
 This fight is basically the same as Ventunax make sure to rotate your cooldowns whenever your dps does not have a defensive for the Purifying Blast, keep in mind Blessing of Protection also works on this mechanic for whatever reason. Blessing of Freedom will immune the Charged Stomp damage but you still have to dispel your tank afterwards. Lastly you should hold Ashen Hallow + Avenging Wrath for the damage increase phase to maximize the damage you deal.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/devos.png" class="dungeon_boss"/>
 </a>
 

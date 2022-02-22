@@ -4,7 +4,7 @@ permalink: /M+/dungeons/mots
 layout: dungeons
 ---
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/ingra.png" class="dungeon_boss"/>
 </a>
 
@@ -12,7 +12,7 @@ layout: dungeons
 
 Only thing to be aware of on this fight is the Dark Shroud debuff, it starts ticking very hard on a high tyrannical and can be difficult to deal with. How you can make this easier is to hold Holy Avenger + Aura Mastery for the second phase one and let Ashen Hallow cover in first phase, make sure to not use it to early since you want it for the 15 seconds boss burn aswell.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/mist.png" class="dungeon_boss"/>
 </a>
 
@@ -20,7 +20,7 @@ Only thing to be aware of on this fight is the Dark Shroud debuff, it starts tic
 
 Since there's no healing requirement during the main boss phase you want to focus as much as possible damaging the boss and during the add phase you can rotate Holy Avenger, Aura Mastery and lastly Divine Shield + Blessing of Sacrifice.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/tred.png" class="dungeon_boss"/>
 </a>
 

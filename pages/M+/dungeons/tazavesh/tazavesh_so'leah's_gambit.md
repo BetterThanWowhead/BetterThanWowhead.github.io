@@ -4,20 +4,24 @@ permalink: /M+/dungeons/soleah
 layout: dungeons
 ---
 
-<a style="color: white">
+<a href="/M+/dungeons/streets">
+Tazavesh Streets of Wonder (Part 1)
+</a>
+
+<a>
     <img src="/assets/img/dungeons/hylbrande.png" class="dungeon_boss"/>
 </a>
 
 ### Hylbrande
 
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/timecap.png" class="dungeon_boss"/>
 </a>
 
 ### Timecap'n Hooktail
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/soleah.png" class="dungeon_boss"/>
 </a>
 

@@ -4,7 +4,7 @@ permalink: /M+/dungeons/hoa
 layout: dungeons
 ---
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/halkias.png" class="dungeon_boss"/>
 </a>
 
@@ -12,7 +12,7 @@ layout: dungeons
 
 After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight, which means the tank will most likely move away to give people enough space before the Refracted Sinlight happens, make sure to wait abit before casting your Ashen Hallow if you get it back from cooldown during the fight, so he does not accidentally move out of it.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/echelon.png" class="dungeon_boss"/>
 </a>
 
@@ -20,7 +20,7 @@ After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight,
 
 On this fight its important to rotate your cooldowns for every wave of adds, use Blinding Light to mass interrupt the Villainous Bolt to mitigate tank damage. Make sure to have either Divine Steed or Door of Shadows available if you would get targeted by the Stone Shattering Leap. If you see a player get targeted by Shattering Leap and has not received a decurse, Blessing of Protection him immediately to prevent him from getting stunned and make him able to dodge the leap.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/aleez.png" class="dungeon_boss"/>
 </a>
 
@@ -28,7 +28,7 @@ On this fight its important to rotate your cooldowns for every wave of adds, use
 
 This boss has zero healing requirement (assuming your group interrupts the Volley of Power), so try do as much damage as you possibly can.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/lord.png" class="dungeon_boss"/>
 </a>
 

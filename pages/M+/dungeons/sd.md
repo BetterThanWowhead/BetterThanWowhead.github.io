@@ -4,7 +4,7 @@ permalink: /M+/dungeons/sd
 layout: dungeons
 ---
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/kryxis.png" class="dungeon_boss"/>
 </a>
 
@@ -12,7 +12,7 @@ layout: dungeons
 
 If you're a new holy paladin player you might find yourself having a hard time on this boss fight. You want to make sure to split your cooldowns and have something for every wave of orbs for example, Ashen Hallow + Avenging Wrath for first wave, Aura Mastery + Holy Avenger for second wave and lastly Divine Shield + Blessing of Sacrifice for third wave. If your group happens to have a more optimised composition like a Rogue and a Mage, you could Divine Shield + Blessing of Sacrifice if you have a player without a immunity, Cloak of Shadows and Ice Block one wave which will make the boss fight significantly easier. If your group happens to not be healthy before a Juggernaut Rush, you can always use Blessing of Protection to allow him to solo soak.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/tarvold.png" class="dungeon_boss"/>
 </a>
 
@@ -20,7 +20,7 @@ If you're a new holy paladin player you might find yourself having a hard time o
 
 The most important thing to do on this boss is thinking ahead of time and tracking your dps players damage cooldowns, also knowing when the dangerous Castigate and add overlap happens (first one will happen on the second add spawn) make sure the targeted player uses a immunity or if they don't have one, use Blessing of Sacrifice on them. You generally want to use Avenging Wrath + Ashen Hallow at start of fight since you will have 10 stacks of the damage buff. This will cover the first add, no damage mitigation cooldowns should be used here. Second add would most likely be Divine Shield + Blessing of Sacrifice since its a overlap, Third add would be Holy Avenger + Aura Mastery.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/beryllia.png" class="dungeon_boss"/>
 </a>
 
@@ -28,7 +28,7 @@ The most important thing to do on this boss is thinking ahead of time and tracki
 
 Collecting orbs good and rotating immunities is the thing that will make the biggest difference on this boss. You ideally want to use Aura Mastery on the first Rite of Supremacy late to have the damage reduction rolling for the Endless Torment aswell, the second Endless Torment you would use Holy Avenger, third is Divine Shield + Blessing of Sacrifice on your most squishy dps and lastly Ashen Hallow + Avenging Wrath. This being said you can still use Avenging Wrath on pull and have it back up for the forth Endless Torment also depending on your group composition and route you might have to play differently.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/kaal.png" class="dungeon_boss"/>
 </a>
 

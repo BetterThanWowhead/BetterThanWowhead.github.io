@@ -4,7 +4,7 @@ permalink: /M+/dungeons/dos
 layout: dungeons
 ---
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/hakkar.png" class="dungeon_boss"/>
 </a>
 
@@ -12,7 +12,7 @@ layout: dungeons
 
 You generally want to have Aura mastery on the first barrier to get one more usage later in the fight, also can use short defensives like Divine Protection and have it back up for third, sixth and so on. Divine Shield + Blessing of Sacrifice can be used if your group falls behind on killing the adds and a Blood Barrier is about to happen. You can also use Hammer of Justice on them and Blessing of Protection the fixate to mitigate damage.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/dealer.png" class="dungeon_boss"/>
 </a>
 
@@ -20,7 +20,7 @@ You generally want to have Aura mastery on the first barrier to get one more usa
 
 The key to kill this boss is managing the lightning debuff, pass it between your tank, tankiest dps and yourself, pooling holy power for the lighting will make this boss fight significantly easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use Blessing of Sacrifice on them immediately. Make sure to rotate your own personals if you would happen to get the overlap multiple times. Slow Fall from a mage will prevent a noticeable amount of damage you would usually take from falling after going up in the air with the bomb.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/manastorms.png" class="dungeon_boss"/>
 </a>
 
@@ -30,7 +30,7 @@ There's not really a lot to talk about cooldown-wise on this boss, but if one of
 
 Since pressing the bombs is a healer job on this fight, keybinding mouseover interact will help you a ton.
 
-<a style="color: white">
+<a>
     <img src="/assets/img/dungeons/mue.png" class="dungeon_boss"/>
 </a>
 
