@@ -50,7 +50,7 @@ layout: dungeons
 
 ### Halkias
 
-After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight, which means the tank will most likely move away to give people enough space before the Refracted Sinlight happens, make sure to wait abit before casting your Ashen Hallow if you get it back from cooldown during the fight, so he does not accidentally move out of it.
+After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight, which means the tank will most likely move away to give people enough space before the Refracted Sinlight happens, make sure to wait a bit before casting your Ashen Hallow if you get it back from cooldown during the fight, so he does not accidentally move out of it.
 
 <a>
     <img src="/assets/img/dungeons/echelon.png" class="dungeon_boss"/>
@@ -87,5 +87,5 @@ On this boss with a coordinated group and assuming you have a windwalker monk or
 
 **Depraved Obliterator's Curse of Obliteration:** This should generally never be interrupted and instead decursed but if you only have one decurse player in your group make sure to Blinding Light it if there's more than one of them, this will make them not recast it and instead cast the Wicked Bolt.
 
-**Inquisitor Sigar:** The adds in this room will fixate random players, Blessin of Protection will fully immune all this damage.
+**Inquisitor Sigar:** The adds in this room will fixate random players, Blessing of Protection will fully immune all this damage.
 

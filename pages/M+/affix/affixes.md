@@ -43,7 +43,7 @@ A terrible affix design and very bad for melees in general, you can use Hammer o
 ### Sanguine
 ---
 
-Sanguine can be a bit tricky for your tank, so whenever you are not inside cooldowns you can taunt mobs with low health out from rest of the pull to make it easier to deal with for your tank while also potentially increasing your groups damage since he don't have to move all the other mobs out from ground effects such as Blizzard, Earthquake etc.
+Sanguine can be a bit tricky for your tank, so whenever you are not inside cooldowns you can taunt mobs with low health out from rest of the pull to make it easier for your tank to deal with. This will also potentially increasing your groups damage since he don't have to move all the other mobs out from ground effects such as Blizzard, Earthquake etc.
 
 ### Explosive
 ---
@@ -53,7 +53,7 @@ On Explosive weeks I recommend you to use a mouseover melee hit macro also play 
 ### Storming
 ---
 
-Another awful affix for the meele players, it's important on Lord Chamberlain (last boss Halls of Atonment) that whenever you don't soak the Ritual of Woe, you run into all the Storming to clear them. So the soaking players don't get hit by them and cause a depelete.
+Another awful affix for the melee players, it's important on Lord Chamberlain (last boss Halls of Atonement) that whenever you don't soak the Ritual of Woe, you run into all the Storming to clear them. So the soaking players don't get hit by them and cause a deplete.
 
 ### Quaking
 ---

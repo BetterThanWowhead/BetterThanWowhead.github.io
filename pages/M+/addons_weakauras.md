@@ -4,7 +4,7 @@ permalink: /M+/weakauras
 layout: page
 ---
 
-All these addons and weakauras will improve your performance.
+All these Addons and WeakAuras will improve your performance.
 
 ### Addons
 
@@ -24,7 +24,7 @@ All these addons and weakauras will improve your performance.
 
 [MaxCam](https://www.curseforge.com/wow/addons/maxcam) or the chat command ''/console cameradistancemaxzoomfactor 2.6''
 
-### Weakauras
+### WeakAuras
 
 [Targeted Spells](https://wago.io/BFADungeonTargetedSpells/68)
 

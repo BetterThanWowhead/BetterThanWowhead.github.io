@@ -132,7 +132,7 @@ This talent should never EVER be played in a mythic+ dungeon no matter if you ar
 
 **Divine Purpose**
 
-This talent synergises very well with Awakening but since Divine Purpose is rng this loses quite a bit of value for Venthyr in keys because you never want your throughput to be rng dependent.
+This talent synergies very well with Awakening but since Divine Purpose is rng this loses quite a bit of value for Venthyr in keys because you never want your throughput to be rng dependent.
 
 **Holy Avenger**
 
@@ -140,7 +140,7 @@ This will not only provide you with a strong healing cooldown to force proc wing
 
 **Seraphim**
 
-As Venthyr this talent has close to zero synergy and should never be played in any relevant content for a few reasons, 1) it does not synergise at all with Awakening which means you are decreasing your Avenging Wrath uptime, 2) 25% of the talent goes to waste since it provides you with Mastery which does not contribute any damage for Holy Paladins, 3) it doesn't line up with Avenging Wrath at all after the first usage, 4) it cost you one GCD and 3 holy power for minor single target damage gain.
+As Venthyr this talent has close to zero synergy and should never be played in any relevant content for a few reasons, 1) it does not synergies at all with Awakening which means you are decreasing your Avenging Wrath uptime, 2) 25% of the talent goes to waste since it provides you with Mastery which does not contribute any damage for Holy Paladins, 3) it doesn't line up with Avenging Wrath at all after the first usage, 4) it cost you one GCD and 3 holy power for minor single target damage gain.
 
 
 ### T45
@@ -191,7 +191,7 @@ Glimmer of Light no longer has the synergies that once made it's healing strong,
 
 **Beacon of Faith**
 
-This talent will help you a ton with AoE healing, and synergises very well with the anima power Self Embalming Kit, you want to put your second Beacon on a squishy dps and funnel Beacon healing from yourself. This should be your default pick in keys.
+This talent will help you a ton with AoE healing, and synergies very well with the anima power Self Embalming Kit, you want to put your second Beacon on a squishy dps and funnel Beacon healing from yourself. This should be your default pick in keys.
 
 **Beacon of Virtue**
 

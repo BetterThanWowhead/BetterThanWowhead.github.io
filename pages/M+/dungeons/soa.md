@@ -50,7 +50,7 @@ layout: dungeons
 
 ### Kin-Tara
 
-There's absolutly zero healing requirement on this fight (assuming your group are not standing in the line). Focus your cooldowns on doing damage and if your tank is not full health before a Overhead Slash, Blessing of Sacrifice him immediately.
+There's absolutely zero healing requirement on this fight (assuming your group are not standing in the line). Focus your cooldowns on doing damage and if your tank is not full health before a Overhead Slash, Blessing of Sacrifice him immediately.
 
 <a>
     <img src="/assets/img/dungeons/ventunax.png" class="dungeon_boss"/>
@@ -74,7 +74,7 @@ This fight is basically the same as Ventunax make sure to rotate your cooldowns 
 
 ### Devos
 
-The most important part of this fight is prioritising defensives, for example let's say you have a monk, you want to make sure to let him use Diffuse Magic on the Lost Confident debuff and instead dispel your second target's debuff because the Diffuse Magic will reflect the debuff to the boss and deal a ton of damage. Make sure to use Blessing of Sacrifice if someone is not full health before an Abyssal Detonation or Aura Mastery to mitigate the damage taken.
+The most important part of this fight is prioritizing defensives, for example let's say you have a monk, you want to make sure to let him use Diffuse Magic on the Lost Confident debuff and instead dispel your second target's debuff because the Diffuse Magic will reflect the debuff to the boss and deal a ton of damage. Make sure to use Blessing of Sacrifice if someone is not full health before an Abyssal Detonation or Aura Mastery to mitigate the damage taken.
 
 ### Important trash mechanics to use utility on
 

@@ -8,7 +8,7 @@ layout: covenants
 ---
 While you're playing this you'll feel that these buffs are mostly very undertuned and you will notice the lack of healing throughput outside of Avenging Wrath. That being said there is currently a bug that makes Blessing of Summer have a 80% chance to do 60% extra damage instead of 40% chance which makes it an incredibly strong damage cooldown on 3 minutes. 
 
-You will not see any play of Night Fae in higher than the average keys for the reasons mentioned above but it could potentionally be good with a very specefic comp in a MDI situation or for damage log runs for fun.
+You will not see any play of Night Fae in higher than the average keys for the reasons mentioned above but it could potentially be good with a very specific comp in a MDI situation or for damage log runs for fun.
 
 It will rotate in the following order on a 45 seconds cooldown:
 

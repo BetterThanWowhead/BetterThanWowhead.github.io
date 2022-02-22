@@ -11,7 +11,7 @@ This is a very flexible and strong priority target damage ability, this should g
 ### <a href="https://www.wowhead.com/spell=324631/fleshcraft" data-wowhead="spell=324631"></a>
 
 ---
-A very powerfull defensive CD on 2 minutes cooldown. This will also provide you with meaningful buffs for your entire group when you are channeling it close to nearby Pestilence Slime, Congealed Slime or Rotmarrow Slimes in Plaguefall.
+A very powerful defensive CD on 2 minutes cooldown. This will also provide you with meaningful buffs for your entire group when you are channeling it close to nearby Pestilence Slime, Congealed Slime or Rotmarrow Slimes in Plaguefall.
 
 ### Soulbind & Conduits
 

@@ -66,7 +66,7 @@ This is a great fight for holy paladin especially if you skip banners since Bles
 
 ### Kul'tharok
 
-This fight is all about dispel management, make sure to prioritise dispelling squishy dps players or people without defensives available. Generally if you have a windwalker monk in your group make sure to let him Diffuse Magic and if a tank gets the debuff never dispel him instead dispel the other player. Make sure you use Aura Mastery on one of the Grasping Hands + Debuff overlap.
+This fight is all about dispel management, make sure to prioritize dispelling squishy dps players or people without defensives available. Generally if you have a windwalker monk in your group make sure to let him Diffuse Magic and if a tank gets the debuff never dispel him instead dispel the other player. Make sure you use Aura Mastery on one of the Grasping Hands + Debuff overlap.
 
 <a>
     <img src="/assets/img/dungeons/gorechop.png" class="dungeon_boss"/>
@@ -91,7 +91,7 @@ You will see most groups using lust in p2 (at 50% health) to burn the boss since
 
 **Rancid Gasbag:** If your group for some reason would decide to pull this mob, make sure too rotate your cooldows for example start with Avenging Wrath and at the end of the duration use Aura Mastery or Divine Shield + Blessing of Sacrifice.
 
-**Shackled Soul:** These are very hard hitting espeically if your group are not using any AoE stops or stuns, you can use Aura Mastery + Holy Avenger here to make it easier to deal with.
+**Shackled Soul:** These are very hard hitting especially if your group are not using any AoE stops or stuns, you can use Aura Mastery + Holy Avenger here to make it easier to deal with.
 
 **Portal Guardian's Soul Storm:** This mob will cast an ability called Soul Storm every 22 seconds ish, make sure to have Ashen Hallow + Avenging Wrath up for the first Portal Guardian mob, the second one you should have Avenging Wrath back up you can also use Divine Shield + Blessing of Sacrifice or Aura Mastery to mitigate damage taken.
 

@@ -50,7 +50,7 @@ layout: dungeons
 
 ### Globgrog
 
-Healing this boss is very simple, you wanna prioritize using your dispel on the most squishy player in your group and when your dispel comes back off from the cooldown, you can dispel whoever is in most danger. If someone is not topped before a plaguestomp you can use either use Aura Mastery or Blessing of Sacrifice to keep them alive. Keep in mind that Blessing of Protection will fully immune and prevent the knockbock from the plaguestomp.
+Healing this boss is very simple, you wanna prioritize using your dispel on the most squishy player in your group and when your dispel comes back off from the cooldown, you can dispel whoever is in most danger. If someone is not topped before a Plaguestomp you can use either use Aura Mastery or Blessing of Sacrifice to keep them alive. Keep in mind that Blessing of Protection will fully immune and prevent the knock back from the Plaguestomp.
 
 Hammer of Justice, Blinding Light and Turn Evil works on the slimes.
 
@@ -60,7 +60,7 @@ Hammer of Justice, Blinding Light and Turn Evil works on the slimes.
 
 ### Doctor ickus
 
-Only thing you have to do on this fight is using dispel on the slime injection. I would suggest using Ashen Hallow on the last platform to skip the bomb completly and instead killing the boss if your group is somewhat coordinated, if not you can use whenever your group does not have a lot of damage. Using Turn Evil on the purple ozee will save you a ton of time since you can ignore killing it completly and keep it CC'd for the rest of the fight.
+Only thing you have to do on this fight is using dispel on the slime injection. I would suggest using Ashen Hallow on the last platform to skip the bomb completely and instead killing the boss if your group is somewhat coordinated, if not you can use whenever your group does not have a lot of damage. Using Turn Evil on the purple ozee will save you a ton of time since you can ignore killing it completely and keep it CC'd for the rest of the fight.
 
 <a>
     <img src="/assets/img/dungeons/domina.png" class="dungeon_boss"/>
@@ -81,11 +81,11 @@ Healing this fight can be very difficult, so its important that you play well wi
 ### Important trash mechanics to use utility on
 
 ---
-**Rigged Plagueborer's Wretched Phlegm:** Using freedom BEFORE the cast is finished will fully immune the damage, and can be used on every second plagueborer cast.
+**Rigged Plagueborer's Wretched Phlegm:** Using freedom BEFORE the cast is finished will fully immune the damage, and can be used on every second Plagueborer cast.
 
 **Slime Tentacle's Crushing Embrace:** Every now and then the tentacle will grip one of your players, you can either Hammer of Justice, Blinding Light, Freedom or use Blessing of Protection to break them free.
 
-**Plaguebinder's Gripping Infection:** You need to use Freedom on this because you don't want to use your dispel on this mechanic since you need to save it for the debuff the slimeclaws puts on your tank or closest target.
+**Plaguebinder's Gripping Infection:** You need to use Freedom on this because you don't want to use your dispel on this mechanic since you need to save it for the debuff the Slimeclaws apply to your tank or closest target.
 
 **Defender of Many Eyes Bulwark of Maldraxxus:** Using Hammer of Justice or Blinding Light on this is very important because it will reduce all mobs in the zones damage taken by 90%.
 

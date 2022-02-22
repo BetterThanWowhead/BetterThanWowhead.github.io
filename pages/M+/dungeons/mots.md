@@ -66,7 +66,7 @@ Since there's no healing requirement during the main boss phase you want to focu
 
 ### Tred'ova
 
-Only thing that really does any damage on this boss is not breaking the Mind Link, if you get targeted by this make sure to Door of Shadow or Divine Steed away from your group. The melee's from the small adds start to hurt quite abit the higher you go using Blessing of Protection will immune all the damage.
+Only thing that really does any damage on this boss is not breaking the Mind Link, if you get targeted by this make sure to Door of Shadow or Divine Steed away from your group. The melee's from the small adds start to hurt quite a bit the higher you go using Blessing of Protection will immune all the damage.
 
 ### Important trash mechanics to use utility on
 

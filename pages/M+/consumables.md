@@ -9,7 +9,7 @@ Flask: [Spectral Flask of Power](https://www.wowhead.com/item=171276/spectral-fl
 Food: [Feast of Gluttonous Hedonism](https://www.wowhead.com/item=172043/feast-of-gluttonous-hedonism) or 
 [Tenebrous Crown Roast Aspic](https://www.wowhead.com/spell=308405/tenebrous-crown-roast-aspic) if you don't wan't to spend gold on a feast.
 
-Damage Potion: [Potion of Spectral Intellect](https://www.wowhead.com/item=171273/potion-of-spectral-intellect) or [Potion of Phantom Fire](https://www.wowhead.com/item=171349/potion-of-phantom-fire) for single target (if you're kyrian).
+Damage Potion: [Potion of Spectral Intellect](https://www.wowhead.com/item=171273/potion-of-spectral-intellect) or [Potion of Phantom Fire](https://www.wowhead.com/item=171349/potion-of-phantom-fire) for single target (if you're Kyrian).
 
 Mana Potion: [Spiritual Mana Potion](https://www.wowhead.com/item=171268/spiritual-mana-potion) Keep in mind this shares cooldown with invisibility potion.
 
