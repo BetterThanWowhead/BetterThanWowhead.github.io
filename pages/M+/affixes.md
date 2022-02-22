@@ -65,3 +65,12 @@ A very easy affix to deal with, just make sure to not clip the tank or any other
 
 Volcanic can’t spawn in melee which makes it a completely irrelevant affix.
 
+
+<div>
+<div style="text-align:left;display: inline-block;width: 49%;">
+<a href="/M+/playstyle"> < Playstyle</a>
+</div>
+<div style="text-align:right;display: inline-block;width: 49%;">
+<a href="/M+/dungeons"> Dungeons ></a>
+</div>
+</div>

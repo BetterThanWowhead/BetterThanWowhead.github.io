@@ -38,7 +38,7 @@ Is off GCD and our big instant emergency heal. You shouldn’t hesitate to use t
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">
-<a href="/M+/soulbind"> < Soulbind</a>
+<a href="/M+/covenants"> < Covenants</a>
 </div>
 <div style="text-align:right;display: inline-block;width: 49%;">
 <a href="/M+/playstyle"> Playstyle ></a>

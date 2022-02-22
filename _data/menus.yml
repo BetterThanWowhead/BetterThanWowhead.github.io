@@ -24,7 +24,9 @@
       url: /M+/cooldowns
     - title: Playstyle
       url: /M+/playstyle
-    - title: Dungeon guides
+    - title: Affix
+      url: /M+/affixes
+    - title: Dungeons
       url: /M+/dungeons
     - title: Addons & Weakauras
       url: /M+/weakauras

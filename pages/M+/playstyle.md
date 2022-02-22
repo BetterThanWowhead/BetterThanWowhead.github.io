@@ -67,6 +67,6 @@ If you are not able to hit 5 players for the max CDR, keep in mind that aiming L
 <a href="/M+/cooldowns"> < Cooldowns</a>
 </div>
 <div style="text-align:right;display: inline-block;width: 49%;">
-<a href="/M+/dungeons"> Dungeon guides ></a>
+<a href="/M+/affix"> Affix ></a>
 </div>
 </div>
