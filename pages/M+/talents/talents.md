@@ -3,11 +3,11 @@ title: Setup for your Paladin
 permalink: /M+/talents
 layout: page
 ---
-
-<a id="download" href="/M+/talents/detailed">
- add details
-</a>
-
+<div style="text-align: right;">
+  <a href="/M+/talents/detailed" >
+  add details
+  </a>
+</div>
 
 ### T15
 

@@ -3,10 +3,11 @@ title: Setup for your Paladin
 permalink: /M+/talents/detailed
 layout: page
 ---
-
-<a id="download" href="/M+/talents">
- remove details
-</a>
+<div style="text-align: right;">
+	<a href="/M+/talents">
+		remove details
+  	</a>
+</div>
 
 ### T15
 
@@ -113,7 +114,7 @@ Playing this is completely troll and will be the main reason you are held back.
 
 **Rule of Law**
 
-This talent should never EVER be played in a mythic+ dungeon no matter if you are playing with tripple range dps or not, Rule of Law won't be comparable to Unbreakable Spirit. Rule of Law also dosen't work with any of your Blessings.
+This talent should never EVER be played in a mythic+ dungeon no matter if you are playing with three range dps or not, Rule of Law won't be comparable to Unbreakable Spirit. Rule of Law also doesn't work with any of your Blessings.
 
 ### T40
 
@@ -131,7 +132,7 @@ This talent should never EVER be played in a mythic+ dungeon no matter if you ar
 
 **Divine Purpose**
 
-This talent synergises very well with Awakening but since Divine Purpose is rng this loses quite abit of value for Venthyr in keys because you never want your throughput to be rng dependent.
+This talent synergises very well with Awakening but since Divine Purpose is rng this loses quite a bit of value for Venthyr in keys because you never want your throughput to be rng dependent.
 
 **Holy Avenger**
 
@@ -162,7 +163,7 @@ This talent is good to empower your Avenging Wrath even more, but should never b
 
 **Avenging Crusader**
 
-This is a very bad talent pick and should never be played for a few reasons, it doesn't provide you with anywhere near the same amount of damage as the two other options, the healing you gain from it isn't a smart heal which means if one of your players are at 10% health and another at 80% it won't prioritise the 10% health player, also a very none mana efficient talent.
+This is a very bad talent pick and should never be played for a few reasons, it doesn't provide you with anywhere near the same amount of damage as the two other options, the healing you gain from it isn't a smart heal which means if one of your players are at 10% health and another at 80% it won't prioritize the 10% health player, also a very none mana efficient talent.
 
 **Awakening**
 
@@ -186,7 +187,7 @@ This should be your default pick in keys, because it provides you with very cons
 
 **Glimmer of Light**
 
-Glimmer of Light no longer has the synergies that once made it's healing strong, so most of it's power comes from retaining your single full power beacon. In dungeons that we frequently need to deal with large incoming AoE healing Beacon of Faith generally performs better. That being said Glimmer of Light can still be used for lower keys and will help quite abit with tank healing.
+Glimmer of Light no longer has the synergies that once made it's healing strong, so most of it's power comes from retaining your single full power beacon. In dungeons that we frequently need to deal with large incoming AoE healing Beacon of Faith generally performs better. That being said Glimmer of Light can still be used for lower keys and will help quite a bit with tank healing.
 
 **Beacon of Faith**
 
