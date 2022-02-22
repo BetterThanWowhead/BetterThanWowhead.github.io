@@ -20,7 +20,7 @@ It will rotate in the following order on a 45 seconds cooldown:
 
 <a href="https://www.wowhead.com/spell=328282/blessing-of-spring" data-wowhead="spell=328282"></a>: blesses an ally with 10% increased healing done and 20% healing received.
 
-Here you can see the best targets to use [Blessing of Summer](https://docs.google.com/spreadsheets/d/1TpJwONNo-CBkJRd9KzTNwvBW9MzIHmPoddZjKWOO1do/edit?usp=sharing) on.
+Here you can see the best targets to use [Blessing of Summer](https://docs.google.com/spreadsheets/d/1TpJwONNo-CBkJRd9KzTNwvBW9MzIHmPoddZjKWOO1do/edit?usp=sharing) on. (in construction)
 
 ### Soulbind & Conduits
 
