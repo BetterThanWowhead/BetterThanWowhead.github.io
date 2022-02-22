@@ -416,3 +416,12 @@ mark,
   height: 150px;
   text-align: left;
 }
+
+
+a.external:after {
+	display: none !important;
+}
+
+a.external {
+	background: none !important;
+}
