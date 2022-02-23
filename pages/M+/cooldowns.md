@@ -28,7 +28,7 @@ With <a href="https://www.wowhead.com/spell=114154/unbreakable-spirit" data-wowh
 
 #### <a class="external" href="https://www.wowhead.com/spell=1022/blessing-of-protection" target="_blank" rel="noopener noreferrer" data-wowhead="spell=1022" data-wh-icon-size="large"></a>
 
-Knowing when to use this will save you a ton of keys. This can be used to clear Necrotic stacks, immuning certain dangerous boss mechanics or debuffs, Blessing of Protection is an very powerful cooldown.
+Knowing when to use this will save you a ton of keys. This can be used to immuning certain dangerous boss mechanics or debuffs, Blessing of Protection is an very powerful cooldown.
 
 Note: Blessing of Protection won't immune Blessing of Sacrifice damage taken unless its physical damage taken.
 
