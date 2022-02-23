@@ -26,7 +26,7 @@ Your setup should look something like this: [General Draven Soulbind](https://ww
 ---
 These legendaries should be crafted with Haste and Versatility if you are focusing on mythic+.
 
-<a href="https://www.wowhead.com/spell=355447/radiant-embers" data-wowhead="spell=355447"></a> you will notice that other covenants/classes will gain significantly more from their second legendary, but doesn't mean this is a terrible considering how strong Ashen Hallow is as an cooldown.
+<a href="https://www.wowhead.com/spell=355447/radiant-embers" data-wowhead="spell=355447"></a> you will notice that other covenants/classes will gain significantly more from their second legendary, but doesn't mean this is terrible considering how strong Ashen Hallow is as an cooldown.
 
 <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> will be your go to legendary in mythic+ since it will increase the damage you deal inside Ashen Hallow significantly.
 
