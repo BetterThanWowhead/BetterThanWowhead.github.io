@@ -37,8 +37,11 @@ Your soulbind setup as Night Fae should look like this: [Korayn](https://www.wow
 ---
 These legendaries should be crafted with Haste and Versatility if you are focusing on mythic+.
 
-<a href="https://www.wowhead.com/spell=355100/seasons-of-plenty" data-wowhead="spell=355100"></a> and <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> will be your go to legendary build as Night Fae, but you could also play 
-<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we don't have Divine Toll as Night Fae.
+1. <a href="https://www.wowhead.com/spell=355100/seasons-of-plenty" data-wowhead="spell=355100"></a> this is the main reason Night Fae is viable in the first place, this will empower all of Night Fae's blessings but most importantly Blessing of Summer.
+
+2. <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> will be your go to legendary in mythic+ since it will increase the damage you deal throughout your dungeon significantly.
+
+3. <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> is a solid healing option since we're playing Crusader's Might as Night Fae.
 
 
 

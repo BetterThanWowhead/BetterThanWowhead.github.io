@@ -28,4 +28,8 @@ Your soulbind setup as Necrolord should look like this: [Plague Deviser Marileth
 ---
 These legendaries should be crafted with Haste and Versatility if you are focusing on mythic+.
 
-<a href="https://www.wowhead.com/spell=355099/duty-bound-gavel" data-wowhead="spell=355099"></a> and <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> this will provide you with your highest damage output as Necrolord. You could also replace Mad Paragon with <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we don't play Crusader's Might as Necrolord or have Divine Toll.
+1.  <a href="https://www.wowhead.com/spell=355099/duty-bound-gavel" data-wowhead="spell=355099"></a>  is a very powerful legendary while being our covenant one, this will greatly increase Necrolord's overall throughput.
+
+2. <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> will be your go to legendary in mythic+ since it will increase the damage you deal throughout your dungeon significantly.
+
+3. <a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> is a good option if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we don't have Divine Toll or play Crusader's Might as Necrolord.
