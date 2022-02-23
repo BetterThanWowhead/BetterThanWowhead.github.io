@@ -26,7 +26,7 @@ Your go to setup as Kyrian should look like this: [Forgelite Prime Mikanikos](ht
 ---
 These legendaries should be crafted with Haste and Versatility if you are focusing on mythic+.
 
-<a href="https://www.wowhead.com/spell=355098/divine-resonance" data-wowhead="spell=355098"></a> this is a pretty undertuned legendary but since its our covenant one we're forced to play it. Keep in mind that you can actually pull throught walls in the maze of Mists of Tirna Scithe, if you cast Divine Toll and afterwards target whatever you want to pull while wearing Divine Resonance.
+<a href="https://www.wowhead.com/spell=355098/divine-resonance" data-wowhead="spell=355098"></a> this is a pretty undertuned legendary but since its our covenant one we're forced to play it. Keep in mind that you can actually pull throught walls in the maze of Mists of Tirna Scithe, if you cast Divine Toll and afterwards target whatever you want to pull while wearing this.
 
 <a href="https://www.wowhead.com/spell=337638/vanguards-momentum" data-wowhead="spell=355100"></a> should be your go to legendary in mythic+ as it will provide you with a large amount of extra burst damage in your Divine Toll windows.
 
