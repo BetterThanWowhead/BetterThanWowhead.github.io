@@ -44,4 +44,4 @@ layout: dungeons
 
 </div>
 
-The key to properly manage your cooldowns in a dungeon is knowing the route and all the dangerous parts. The biggest thing you want to be aware of is overlapping cooldowns. It’s important to use your entire utility kit as that's where our strength lies, so let's talk about cooldown usage in mythic+.
+The key to properly manage your cooldowns in a dungeon situation is knowing the route and the dangerous parts. The biggest thing you want to be aware of is overlapping cooldowns. It’s important to use your entire utility kit as that's where our strength lies, so let's talk about cooldown usage in mythic+.
