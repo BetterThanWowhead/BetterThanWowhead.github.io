@@ -191,7 +191,7 @@ Glimmer of Light no longer has the synergies that once made it's healing strong,
 
 **Beacon of Faith**
 
-This talent will help you a ton with AoE healing, and synergies very well with the anima power Self Embalming Kit, you want to put your second Beacon on a squishy dps and funnel Beacon healing from yourself. This should be your default pick in keys.
+One of Holy paladins weaknesses is constant AoE healing throughput, this talent will provide you with a noticeable increase to your AoE healing and should be your default pick in keys.
 
 **Beacon of Virtue**
 
