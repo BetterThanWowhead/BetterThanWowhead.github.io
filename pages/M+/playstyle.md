@@ -41,16 +41,16 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 ### Single Target Damage Priorities
 
 ---
-1. Throw <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> on cooldown whenever available.
+1. Throw <a href="https://www.wowhead.com/spell=24275/hammer-of-wrath" data-wowhead="spell=24275"></a> whenever it's available.
 2. Throw <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> if inside <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> otherwise use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>.
 3. Drop <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> if not already active.
-4. Cast <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> for holy power generation.
+4. Use <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> for holy power generation.
 5. Spend holy power on <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> or if <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> are not active then fish for <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> procs.
 
 ### Beacons
 
 ---
-You generally want at all time to have one of your beacons on your tank, but there is situations where you could move it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
+You generally want to have one of your beacons on your tank, but there is situations where you could move it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
 
 ### Dawn Will Come
 
@@ -67,6 +67,6 @@ If you are not able to hit 5 players for the max CDR, keep in mind that aiming L
 <a href="/M+/cooldowns"> < Cooldowns</a>
 </div>
 <div style="text-align:right;display: inline-block;width: 49%;">
-<a href="/M+/affix"> Affix ></a>
+<a href="/M+/affix"> Affixes ></a>
 </div>
 </div>
