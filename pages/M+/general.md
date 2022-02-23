@@ -8,7 +8,7 @@ layout: page
 
 ### Damage within cooldowns
 
-Paladins biggest strength is our ability to do big amounts of damage on command. Our cooldowns also give us insanely high priority damage.
+Paladins biggest strength is our ability to do big amounts of damage on command. Our cooldowns also give us very high priority damage.
 
 ### Healing within cooldowns
 
