@@ -20,9 +20,9 @@ for single target (if you're Kyrian)
 <a href="https://www.wowhead.com/item=171268/spiritual-mana-potion" data-wh-icon-size="medium" data-wowhead="item=171268"></a>
 (Keep in mind this shares cooldown with invisibility potion.)
 
-<a href="https://ptr.wowhead.com/item=187802/cosmic-healing-potion" data-wh-icon-size="medium" data-wowhead="item=187802"></a>is your health pot.
+<a href="https://ptr.wowhead.com/item=187802/cosmic-healing-potion" data-wh-icon-size="medium" data-wowhead="item=187802"></a> is your health pot.
 
-<a href="https://www.wowhead.com/item=171266/potion-of-the-hidden-spirit" data-wh-icon-size="medium" data-wowhead="item=171266"></a>is your invis pot.
+<a href="https://www.wowhead.com/item=171266/potion-of-the-hidden-spirit" data-wh-icon-size="medium" data-wowhead="item=171266"></a> is your invis pot.
 
 <a href="https://www.wowhead.com/item=176811/potion-of-sacrificial-anima" data-wh-icon-size="medium" data-wowhead="item=176811"></a> is a good option if you're playing Avenging Crusader.
 
