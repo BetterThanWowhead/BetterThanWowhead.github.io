@@ -1,5 +1,5 @@
 ---
-title: Important WeakAuras and Addons
+title: WeakAuras and Addons
 permalink: /M+/weakauras
 layout: page
 ---
