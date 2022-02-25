@@ -16,7 +16,7 @@ A very powerful defensive CD on 2 minutes cooldown. This will also provide you w
 ### Soulbind & Conduits
 
 ---
-Your soulbind setup as Necrolord should look like this: [Plague Deviser Marileth](https://www.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/paladin/Awa-5r4CBS1ECiUtdAoSFTDgCiUwEAoiFStjCiUsqgo) or [Emeni](https://www.wowhead.com/soulbind-calc/necrolord/emeni/paladin/AwaW6r4CBS1ECiUtdAoSBTDgCiUwEAoiFSyqCiUrYwo) for Explosive/Spitefull weeks. You can change 
+Your soulbind setup as Necrolord should look like this: [Plague Deviser Marileth](https://www.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/paladin/Awa-5r4CBS1ECiUtdAoSFTDgCiUwEAoiFStjCiUsqgo) or [Emeni](https://www.wowhead.com/soulbind-calc/necrolord/emeni/paladin/AwaW6r4CBS1ECiUtdAoSBTDgCiUwEAoiFSyqCiUrYwo) for Explosive/Spiteful weeks. You can change 
 <a href="https://www.wowhead.com/spell=339316/echoing-blessings" data-wowhead="spell=339316"></a> for 
 <a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> when you are playing Mists of Tirna Scithe because this will reduce the fear effect on first boss by one second if your conduit is maxed out. Playing <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> instead of Echoing Blessing for Necrotic Wake and Plaguefall will help you a ton since there is a lot of mobs you have/can use Turn Evil on and this conduit will reduce the cast timer by a large amount.
 
