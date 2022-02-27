@@ -8,7 +8,7 @@ layout: page
 
 ### Damage within cooldowns
 
-Paladins biggest strength is our ability to do big amounts of damage. Our cooldowns also give us very high priority damage.
+Paladins biggest strength is our ability to do huge amounts of priority target damage.
 
 ### Healing within cooldowns
 
@@ -26,7 +26,7 @@ Paladins utility is one of the strongest in mythic+ when used correctly.
 
 ### Throughput outside of major cooldowns
 
-Holy Paladins biggest weakness is that we are very reliant on our cooldowns to carry us through difficult parts of the dungeons. The largest learning curves in dungeon healing as a paladin is learning how to manage your cooldowns.
+Holy Paladins biggest weakness is that we are very reliant on our cooldowns to carry us through dangerous parts of the dungeons. The largest learning curves in healing as a Paladin is learning how to play around your cooldowns.
 
 ### Being a Melee Healer
 

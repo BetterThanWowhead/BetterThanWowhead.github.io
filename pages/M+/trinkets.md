@@ -4,6 +4,8 @@ permalink: /M+/trinkets
 layout: page
 ---
 
+Update incoming in the near future.
+
 ### On use
 
 [Soulletting Ruby](https://www.wowhead.com/item=178809/soulletting-ruby?bonus=6805:1472)
