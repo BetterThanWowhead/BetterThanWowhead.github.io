@@ -58,7 +58,7 @@ If you're a new Holy Paladin you might find yourself having a hard time on this 
 
 ### Executor Tarvold
 
-The most important thing to do on this boss is thinking ahead of time and tracking your dps players damage cooldowns, also knowing when the dangerous Castigate and add overlap happens (first one will happen on the second add spawn) make sure the targeted player uses a immunity or if they don't have one, use Blessing of Sacrifice on them. You generally want to use Avenging Wrath + Ashen Hallow at start of fight since you will have 10 stacks of the damage buff. This will cover the first add, no damage mitigation cooldowns should be used here. Second add would most likely be Divine Shield + Blessing of Sacrifice since its a overlap, Third add would be Holy Avenger + Aura Mastery.
+The most important thing to do on this boss is thinking ahead of time and tracking your dps players damage cooldowns, also knowing when the dangerous Castigate and add overlap happens (first one will happen on the second add spawn and the hopefully last one will be on the forth add) make sure the targeted player uses a immunity or if they don't have one, use Blessing of Sacrifice on them. You generally want to use Avenging Wrath + Ashen Hallow at start of fight since you will have 10 stacks of the damage buff. This will cover the first add, no damage mitigation cooldowns should be used here. Second add would most likely be Divine Shield + Blessing of Sacrifice since its a overlap, third add would be Holy Avenger + Aura Mastery depending if your group have damage available or not (if they do) then save Holy Avenger for the Forth.
 
 <a>
     <img src="/assets/img/dungeons/beryllia.png" class="dungeon_boss"/>

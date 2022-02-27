@@ -66,7 +66,7 @@ This is a great fight for Holy Paladin especially if you skip banners since Bles
 
 ### Kul'tharok
 
-This fight is all about dispel management, make sure to prioritize dispelling squishy dps players or people without defensives available. Generally if you have a Windwalker Monk in your group make sure to let him Diffuse Magic and if your tank gets the debuff never dispel him and instead dispel the other player. Make sure you use Aura Mastery on one of the Grasping Hands + debuff overlap, keep in mind Warriors can Spell Reflect every Grasping Hand so you might not necessarily want to use Aura Mastery if a Warrior Gets targeted.
+This fight is all about dispel management, make sure to prioritize dispelling squishy dps players or people without defensives available. Generally if you have a Windwalker Monk in your group make sure to let him Diffuse Magic and if your tank gets the debuff never dispel him and instead dispel the other player. Make sure you use Aura Mastery on one of the Grasping Hands + debuff overlap, keep in mind Warriors can Spell Reflect every Grasping Hand so you might not necessarily want to use Aura Mastery if a Warrior gets targeted.
 
 <a>
     <img src="/assets/img/dungeons/gorechop.png" class="dungeon_boss"/>
