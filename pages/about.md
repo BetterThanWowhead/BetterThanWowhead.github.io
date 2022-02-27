@@ -13,7 +13,7 @@ I'm a high mythic+ Holy Paladin, if you have any questions about me or else send
 ### Contact:
 
 - sknerost@gmail.com
-- discord tag: Skånerost#5248
+- discord: https://discord.gg/b5Pa2gvGjS
 
 
 ### Thanks:
