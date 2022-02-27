@@ -58,7 +58,7 @@ This boss should have a very minimal healing requirement (assuming Searing Death
 
 ### Xav the Unfallen
 
-This is a great fight for holy paladin especially if you skip banners since Blessing of Freedom will clear the slow effect. You want to make sure to have a personal for every Might of Maldraxxus since the damage will start to one shot you on a higher key. Keep in mind that you don't necessarily have to top your dps players after every Might of Maldraxxus since they will get full healed from the chain when they get thrown down to the duel.
+This is a great fight for Holy Paladin especially if you skip banners since Blessing of Freedom will clear the slow effect. You want to make sure to have a personal for every Might of Maldraxxus since the damage will start to one shot you on a higher key level. Keep in mind that you don't necessarily have to top your dps players after every Might of Maldraxxus since they will get full healed from the chain when they get thrown down to the duel.
 
 <a>
     <img src="/assets/img/dungeons/kul-tharok.png" class="dungeon_boss"/>
@@ -66,7 +66,7 @@ This is a great fight for holy paladin especially if you skip banners since Bles
 
 ### Kul'tharok
 
-This fight is all about dispel management, make sure to prioritize dispelling squishy dps players or people without defensives available. Generally if you have a windwalker monk in your group make sure to let him Diffuse Magic and if a tank gets the debuff never dispel him instead dispel the other player. Make sure you use Aura Mastery on one of the Grasping Hands + Debuff overlap.
+This fight is all about dispel management, make sure to prioritize dispelling squishy dps players or people without defensives available. Generally if you have a Windwalker monk in your group make sure to let him Diffuse Magic and if a tank gets the debuff never dispel him instead dispel the other player. Make sure you use Aura Mastery on one of the Grasping Hands + debuff overlap, keep in mind Warriors can Spell Reflect every Grasping Hand so you might not necessarily want to use Aura Mastery if a Warrior Gets targeted.
 
 <a>
     <img src="/assets/img/dungeons/gorechop.png" class="dungeon_boss"/>

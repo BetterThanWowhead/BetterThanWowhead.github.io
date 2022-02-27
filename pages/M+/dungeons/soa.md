@@ -58,7 +58,7 @@ There's absolutely zero healing requirement on this fight (assuming your group a
 
 ### Ventunax
 
-One of your range dps will get targeted by Dark Stride and this will apply a hard ticking debuff for 15 seconds, make sure to rotate Blessing of Sacrifice, Aura Mastery and Blessing of Protection whenever your dps doesn't have a defensive and when you're not inside Avenging Wrath.
+One of your range dps will get targeted by Dark Stride and this will apply a hard ticking debuff for 15 seconds, make sure to rotate Blessing of Sacrifice, Aura Mastery and Blessing of Protection whenever your dps doesn't have a defensive available and when you're not inside Avenging Wrath or Holy Avenger.
 
 <a>
     <img src="/assets/img/dungeons/oryphrion.png" class="dungeon_boss"/>
@@ -66,7 +66,7 @@ One of your range dps will get targeted by Dark Stride and this will apply a har
 
 ### Oryphrion
 
-This fight is basically the same as Ventunax make sure to rotate your cooldowns whenever your dps does not have a defensive for the Purifying Blast, keep in mind Blessing of Protection also works on this mechanic for whatever reason. Blessing of Freedom will immune the Charged Stomp damage but you still have to dispel your tank afterwards. Lastly you should hold Ashen Hallow + Avenging Wrath for the damage increase phase to maximize the damage you deal.
+This fight is pretty much the same as Ventunax make sure to rotate your cooldowns whenever your dps does not have a defensive for the Purifying Blast, keep in mind Blessing of Protection also works on this mechanic for whatever reason. Blessing of Freedom will immune the Charged Stomp damage but you still have to dispel your tank afterwards. Lastly you should hold Ashen Hallow + Avenging Wrath for the damage increase phase to maximize the damage you can deal.
 
 <a>
     <img src="/assets/img/dungeons/devos.png" class="dungeon_boss"/>
@@ -74,7 +74,7 @@ This fight is basically the same as Ventunax make sure to rotate your cooldowns 
 
 ### Devos
 
-The most important part of this fight is prioritizing defensives, for example let's say you have a monk, you want to make sure to let him use Diffuse Magic on the Lost Confident debuff and instead dispel your second target's debuff because the Diffuse Magic will reflect the debuff to the boss and deal a ton of damage. Make sure to use Blessing of Sacrifice if someone is not full health before an Abyssal Detonation or Aura Mastery to mitigate the damage taken.
+The most important part of this fight is prioritizing defensives, for example let's say you have a monk, you want to make sure to let him use Diffuse Magic on the Lost Confident debuff and instead dispel your second target's debuff because the Diffuse Magic will reflect the debuff to the boss and deal a ton of damage. Ashen Hallow + Avenging Wrath can be used either after the first intermission or the second. Make sure to use Blessing of Sacrifice if someone is not full health before an Abyssal Detonation or Aura Mastery to mitigate the damage taken.
 
 ### Important trash mechanics to use utility on
 
