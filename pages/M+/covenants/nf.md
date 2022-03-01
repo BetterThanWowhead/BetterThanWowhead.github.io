@@ -27,7 +27,7 @@ Here you can see the best targets to use [Blessing of Summer](https://docs.googl
 ---
 Your soulbind setup as Night Fae should look like this: [Korayn](https://www.wowhead.com/soulbind-calc/night-fae/korayn/paladin/AwaW6r4CBS1ECiUtdAoSBTDZCiUwEAoiFStjCiUsqgo). If you would ever decide to play this in keys you can change 
 <a href="https://www.wowhead.com/spell=339316/echoing-blessings" data-wowhead="spell=339316"></a> for 
-<a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> whenever you are playing Mists of Tirna Scithe because this will reduce the fear effect on first boss by one second if your conduit is maxed out. Playing <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> instead of Echoing Blessing for Necrotic Wake and Plaguefall will help you a ton since there is a lot of mobs you have/can use Turn Evil on and this conduit will reduce the cast timer by a large amount.
+<a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> whenever you're about to play Mists of Tirna Scithe because this will reduce the fear effect on first boss by a noticeable amount if your conduit is maxed out. Playing <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> instead of Echoing Blessing for Necrotic Wake and Plaguefall will help you a ton since there is a lot of mobs you have/can use Turn Evil on and this conduit will reduce the cast timer by a large amount.
 
 ---
 **Talents: 1231232** *(Crusader's Might, Judgement of Light, Blinding Light, Unbreakable Spirit, Holy Avenger, Awakening, Beacon of Faith).*
