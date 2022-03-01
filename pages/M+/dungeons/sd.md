@@ -83,7 +83,7 @@ This fight is pretty straight forward, you can avoid getting the bleed by using 
 
 **Research Scribe's Throw Research:** This mob will stand still and cast books on random players, and the damage will scale really high the higher the key level is. Make sure to use Blessing of Protection to immune damage and Hammer of Justice or Blinding Light to delay the casts.
 
-**Grand Overseer's Dread Bindings:** You can pre use Freedom on this mechanic and you won't have to run out to break the chain.
+**Grand Overseer's Dread Bindings:** You can pre cast Freedom on this mechanic and you won't have to run out to break the chain.
 
 **Depths Warden's Barbed Shackles:** This ability should be interrupted but if it would happen to go through use Freedom immediately.
 

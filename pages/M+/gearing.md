@@ -50,7 +50,7 @@ Cloak:
 [Fortified Avoidance](https://www.wowhead.com/spell=309530/fortified-avoidance) or [Fortified Leech](https://www.wowhead.com/spell=309531/fortified-leech) you should enchant Fortified Leech until you reach the point when Avoidance can prevent a one shot.
 
 Boots: 
-[Soul Treads](https://www.wowhead.com/spell=323609/soul-treads) this boot enchant are useful for Dealer Xy'exa in De other Side.
+[Soul Treads](https://www.wowhead.com/spell=323609/soul-treads) is useful for Dealer Xy'exa in De other Side.
 
 
 Weapon Oil: 

@@ -87,4 +87,4 @@ The most important part of this fight is prioritizing defensives, for example le
 
 **Forsworn Stealthclaw:** Using Blessing of Protection when your tank is grouping these mobs will make it significantly easier for him because it will prevent him from getting stunned when they leave stealth.
 
-**Klotos:** This is the hardest mob in the game, make sure to have every cooldown available for this.
+**Klotos:** This is the hardest mob in the game, make sure to have Ashen Hallow + Avenging Wrath available for this, when Ashen Hallow is about to end you can use Aura Mastery or Divine Shield + Blessing of Sacrifice if it's still healthy.

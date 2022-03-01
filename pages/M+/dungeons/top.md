@@ -91,7 +91,7 @@ You will see most groups using lust in p2 (at 50% health) to burn the boss since
 
 **Rancid Gasbag:** If your group for some reason would decide to pull this mob, make sure too rotate your cooldows for example start with Avenging Wrath and at the end of the duration use Aura Mastery or Divine Shield + Blessing of Sacrifice.
 
-**Shackled Soul:** These are very hard hitting especially if your group are not using any AoE stops or stuns, you can use Aura Mastery + Holy Avenger here to make it easier to deal with.
+**Shackled Soul:** These are very hard hitting especially if your group are not using any AoE stops or stuns, you can use Aura Mastery + Holy Avenger here to make it easier to deal with. Make sure to use Blessing of Freedom on your tank while hes grouping these up.
 
 **Portal Guardian's Soul Storm:** This mob will cast an ability called Soul Storm every 22 seconds ish, make sure to have Ashen Hallow + Avenging Wrath up for the first Portal Guardian mob, the second one you should have Avenging Wrath back up you can also use Divine Shield + Blessing of Sacrifice or Aura Mastery to mitigate damage taken.
 

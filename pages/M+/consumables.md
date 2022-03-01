@@ -4,21 +4,18 @@ permalink: /M+/consumables
 layout: page
 ---
 
-<a href="https://www.wowhead.com/item=171276/spectral-flask-of-power" data-wh-icon-size="medium" data-wowhead="item=171276"></a>
+<a href="https://www.wowhead.com/item=171276/spectral-flask-of-power" data-wh-icon-size="medium" data-wowhead="item=171276"></a>.
 
 <a href="https://www.wowhead.com/item=172043/feast-of-gluttonous-hedonism" data-wh-icon-size="medium" data-wowhead="item=172043"></a>
 or
 <a href="https://www.wowhead.com/spell=308405/tenebrous-crown-roast-aspic" data-wh-icon-size="medium" data-wowhead="item=308405"></a>
 if you don't want to spend gold on a feast.
 
-<a href="https://www.wowhead.com/item=171273/potion-of-spectral-intellect" data-wh-icon-size="medium" data-wowhead="item=171273"></a>
-your damage pot 
-or
-<a href="https://www.wowhead.com/item=171349/potion-of-phantom-fire" data-wh-icon-size="medium" data-wowhead="item=171349"></a>
-for single target (if you're Kyrian)
+<a href="https://www.wowhead.com/item=171273/potion-of-spectral-intellect" data-wh-icon-size="medium" data-wowhead="item=171273"></a> is your damage potion or if you're kyrian then use
+<a href="https://www.wowhead.com/item=171349/potion-of-phantom-fire" data-wh-icon-size="medium" data-wowhead="item=171349"></a> for single target.
 
 <a href="https://www.wowhead.com/item=171268/spiritual-mana-potion" data-wh-icon-size="medium" data-wowhead="item=171268"></a>
-(Keep in mind this shares cooldown with invisibility potion.)
+(Keep in mind this shares cooldown with invisibility potion).
 
 <a href="https://ptr.wowhead.com/item=187802/cosmic-healing-potion" data-wh-icon-size="medium" data-wowhead="item=187802"></a> will restore 20k of your health on a 5 minute cooldown, (does not share the same cooldown with any other potion).
 
