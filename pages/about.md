@@ -8,7 +8,7 @@ comments: false
 
 Hello!
 
-I'm a high mythic+ Holy Paladin, if you have any questions about me or else;
+I'm a retired high mythic+ Holy Paladin, if you have any questions about me or else;
 
 ### Contact:
 
