@@ -5,7 +5,7 @@ layout: page
 ---
 Before we get into cooldown management in dungeons, let's talk about all the different affixes and how to properly deal with them/what you can do to make your life easier.
 
-<a href="https://www.wowhead.com/affix=4/necrotic" data-wh-icon-size="large" data-wowhead="item=affix=4"></a>
+### Necrotic
 ---
 
 One of the worse affixes for Holy Paladins to deal with since we're lacking druid utility. That being said, we still have a few tools to counter this affix with, Blessing of Protection clears all Necrotic stacks but causes the tank to lose all threat which means the tank needs to have a cancelaura macro to remove the Blessing of Protection effect as quick as possible. There is also quite a few bosses you can Divine Shield taunt to allow your tank to reset stacks, for example first boss Theater of Pain there is two casters and Dessia which is the boss that makes the tank have a hard time to reset stacks, so what you want to do is taunting Dessia and completely ignore interrupting both casters (except for Searing Death cast) this should give your tank enough time to reset his stacks.
@@ -68,19 +68,17 @@ Volcanic can’t spawn in melee which makes it a completely irrelevant affix.
 ### Encrypted
 ---
 
+Urh:
 
+Make sure that you are not holding your Avenging Wrath/Ashen Hallow for zero reason since killing this relic first, will provide you with 200% increased cooldown rate (30 seconds of your cooldowns) but also 10% health and mana every one second for ten seconds. This is the strongest buff out of them all for Holy Paladins.
 
-#### Urh
+Vy:
 
+This will be your second best buff, but still very underwhelming for Holy Paladin since the orb that spawn doesn't provide you with a damage buff for healers which it does for dps players, it will instead proc healing for you.
 
+Wo:
 
-#### Vy
-
-
-
-#### Wo
-
-
+This should generally only be killed by your group if you're about to skip a huge amount of trash area or are about to travel for a while in De Other Side since it'll provide you with 150% movement speed increase and out of combat invisibility for one minute.
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">
