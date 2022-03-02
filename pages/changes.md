@@ -7,6 +7,6 @@ layout: post
 
 02.03.2022:
 
-[Updated Encrypted Affix](/m+/affixes)
+[Updated Encrypted Affix](/M+/affixes)
 
 [Updated M+ talents section](/M+/talents)
