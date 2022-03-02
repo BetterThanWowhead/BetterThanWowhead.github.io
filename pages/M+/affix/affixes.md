@@ -72,7 +72,6 @@ A terrible affix design and very bad for melees in general, you can use Hammer o
     <img src="assets\img\Affixes\Sanguine.jpg" class="dungeon_boss"/>
 </a>
 
-
 ### Sanguine
 ---
 
@@ -81,7 +80,6 @@ Sanguine can be a bit tricky for your tank, so whenever you are not inside coold
 <a>
     <img src="assets\img\Affixes\Explosive.jpg" class="dungeon_boss"/>
 </a>
-
 
 ### Explosive
 ---
@@ -92,7 +90,6 @@ On Explosive weeks I recommend you to use a mouseover melee hit macro also play 
     <img src="assets\img\Affixes\Storming.jpg" class="dungeon_boss"/>
 </a>
 
-
 ### Storming
 ---
 
@@ -102,7 +99,6 @@ Another awful affix for the melee players, it's important on Lord Chamberlain (l
     <img src="assets\img\Affixes\Quaking.jpg" class="dungeon_boss"/>
 </a>
 
-
 ### Quaking
 ---
 
@@ -111,7 +107,6 @@ A very easy affix to deal with, just make sure to not clip the tank or any other
 <a>
     <img src="assets\img\Affixes\Volcanic.jpg" class="dungeon_boss"/>
 </a>
-
 
 ### Volcanic
 ---
