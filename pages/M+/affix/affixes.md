@@ -75,7 +75,7 @@ Volcanic can’t spawn in melee which makes it a completely irrelevant affix.
 
 Urh:
 
-Make sure that you are not holding your Avenging Wrath/Ashen Hallow for zero reason since killing this relic first, will provide you with 200% increased cooldown rate (30 seconds of your cooldowns) but also 10% health and mana every one second for ten seconds. This is the strongest buff out of them all for Holy Paladins.
+Make sure that you are not holding your Avenging Wrath/Ashen Hallow for zero reason since killing this relic first, will provide you with 200% increased cooldown reduction (30 seconds of all your abilities) but also 10% health and mana every one second for ten seconds. This is the strongest buff out of them all for Holy Paladins.
 
 Vy:
 
