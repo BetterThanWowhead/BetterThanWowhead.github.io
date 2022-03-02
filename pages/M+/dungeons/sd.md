@@ -76,6 +76,8 @@ Collecting orbs good and rotating immunities is the thing that will make the big
 
 This fight is pretty straight forward, you can avoid getting the bleed by using Door of Shadows or Divine Steed. If you see a player is about to get 2 stacks of the debuff you can use Blessing of Protection to clear and immune the charge hit. Keep in mind that the shield clears all bleeds so you ideally do not want to use any sort of immunity before Gloom Squall.
 
+Note: while you're fighting Kaal in the gauntlet make sure that you are not standing on top of someone whenever he's about to jump.
+
 ### Important trash mechanics to use utility on
 
 ---

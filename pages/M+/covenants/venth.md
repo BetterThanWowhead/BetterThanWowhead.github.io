@@ -30,7 +30,7 @@ These legendaries should be crafted with Haste and Versatility if you are focusi
 
 <a href="https://www.wowhead.com/spell=337594/the-mad-paragon" data-wowhead="spell=337594"></a> will be your go to legendary in mythic+ since it will increase the damage you deal inside Ashen Hallow significantly.
 
-<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> is a good option if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we don't have Divine Toll or play Crusader's Might as Venthyr. 
+<a href="https://www.wowhead.com/spell=337825/shock-barrier" data-wowhead="spell=337825"></a> is a good option if you feel like you are in need of more healing throughput. That being said, the healing Shock Barrier provides wont make a big difference since we don't have Divine Toll or are playing Crusader's Might as Venthyr. 
 
 <a href="#">
 <img class="center" src="/assets/img/covenants/venth_stats.png" />
