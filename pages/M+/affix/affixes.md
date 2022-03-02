@@ -5,7 +5,7 @@ layout: page
 ---
 Before we get into cooldown management in dungeons, let's talk about all the different affixes and how to properly deal with them/what you can do to make your life easier.
 
-### Necrotic
+<a href="https://www.wowhead.com/affix=4/necrotic" data-wh-icon-size="large" data-wowhead="item=affix=4"></a>
 ---
 
 One of the worse affixes for Holy Paladins to deal with since we're lacking druid utility. That being said, we still have a few tools to counter this affix with, Blessing of Protection clears all Necrotic stacks but causes the tank to lose all threat which means the tank needs to have a cancelaura macro to remove the Blessing of Protection effect as quick as possible. There is also quite a few bosses you can Divine Shield taunt to allow your tank to reset stacks, for example first boss Theater of Pain there is two casters and Dessia which is the boss that makes the tank have a hard time to reset stacks, so what you want to do is taunting Dessia and completely ignore interrupting both casters (except for Searing Death cast) this should give your tank enough time to reset his stacks.
