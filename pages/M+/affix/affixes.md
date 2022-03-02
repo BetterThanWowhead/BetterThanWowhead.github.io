@@ -6,7 +6,7 @@ layout: page
 Before we get into cooldown management in dungeons, let's talk about all the different affixes and how to properly deal with them/what you can do to make your life easier.
 
 <a>
-    <img src="C:\Users\Niileen\Documents\GitHub\monalisapaladins.github.io\assets\img\necrotic.jpg" class="dungeon_boss"/>
+    <img src="C:\Users\Niileen\Pictures\necrotic.jpg" class="dungeon_boss"/>
 </a>
 
 
