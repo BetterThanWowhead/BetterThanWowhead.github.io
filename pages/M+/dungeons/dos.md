@@ -52,7 +52,7 @@ layout: dungeons
 You generally want to have Aura mastery on the first barrier to get one more usage later in the fight, also can use short defensives like Divine Protection and have it back up for third, sixth and so on. Divine Shield + Blessing of Sacrifice can be used if your group falls behind on killing the adds and a Blood Barrier is about to happen. You can also use Hammer of Justice on them and Blessing of Protection the fixate to mitigate damage.
 
 <a>
-    <img src="/assets/img/dungeons/dealer.png" class="dungeon_boss"/>
+    <img src="/assets/img/dungeons/dealer.png" class="dungeon_boss"/> 
 </a>
 
 ### Dealer Xy'exa
