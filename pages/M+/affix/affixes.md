@@ -122,7 +122,7 @@ Make sure that you are not holding your Avenging Wrath/Ashen Hallow for zero rea
 
 Vy:
 
-This will be your second best buff, but still very underwhelming for Holy Paladin since the orb that spawn doesn't provide you with a damage buff for healers which it does for dps players, it will instead proc healing for you.
+This will be your second best buff, but still very underwhelming for Holy Paladin since it doesn't provide you with a damage buff for healers which it does for dps players, it will instead proc healing for you.
 
 Wo:
 
