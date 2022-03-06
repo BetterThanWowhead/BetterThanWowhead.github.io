@@ -14,8 +14,7 @@ if you don't want to spend gold on a feast.
 <a href="https://www.wowhead.com/item=171273/potion-of-spectral-intellect" data-wh-icon-size="medium" data-wowhead="item=171273"></a> is your damage potion or if you're kyrian then use
 <a href="https://www.wowhead.com/item=171349/potion-of-phantom-fire" data-wh-icon-size="medium" data-wowhead="item=171349"></a> for single target.
 
-<a href="https://www.wowhead.com/item=171268/spiritual-mana-potion" data-wh-icon-size="medium" data-wowhead="item=171268"></a>
-(Keep in mind this shares cooldown with invisibility potion).
+<a href="https://www.wowhead.com/item=171268/spiritual-mana-potion" data-wh-icon-size="medium" data-wowhead="item=171268"></a>. Keep in mind this shares cooldown with invisibility potion.
 
 <a href="https://ptr.wowhead.com/item=187802/cosmic-healing-potion" data-wh-icon-size="medium" data-wowhead="item=187802"></a> will restore 20k of your health on a 5 minute cooldown, (does not share the same cooldown with any other potion).
 
