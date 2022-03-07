@@ -122,7 +122,7 @@ Make sure that you are not holding your Avenging Wrath/Ashen Hallow for zero rea
 
 Vy:
 
-This will be your second best buff, but still very underwhelming for Holy Paladin compared to the buff Urh provides you with.
+Killing Vy firts will provide you with 15% haste and a underwhelming damage buff, this will be your second best pick.
 
 Wo:
 
