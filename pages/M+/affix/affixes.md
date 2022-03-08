@@ -84,7 +84,7 @@ Sanguine can be a bit tricky for your tank, so whenever you are not inside coold
 ### Explosive
 ---
 
-On Explosive weeks I recommend you to use a mouseover melee hit macro also play Holy Prism talent to maximize the amount of Explosives you can do alone.
+On Explosive weeks I recommend you to use a mouseover melee hit macro also play §Holy Prism talent to maximize the amount of Explosives you can do alone.
 
 <a>
     <img src="/assets/img/Affixes/Storming.jpg" class="affix_icons"/>
@@ -119,6 +119,10 @@ Volcanic can’t spawn in melee which makes it a completely irrelevant affix.
 Urh:
 
 Make sure that you are not holding your Avenging Wrath/Ashen Hallow for zero reason since killing this relic first, will provide you with 200% increased cooldown rate but also 10% health and mana every one second for ten seconds. This is the strongest buff out of them all for Holy Paladins.
+
+### Mechanics:
+
+Deconstruct is the most dangerous mechanic on this mob, it will do a massive additional hit on the tank and afterwards apply a 5 seconds debuff that causes tank to take 25% increased damage.
 
 Vy:
 
