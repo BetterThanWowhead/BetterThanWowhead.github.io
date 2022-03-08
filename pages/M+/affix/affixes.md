@@ -84,7 +84,7 @@ Sanguine can be a bit tricky for your tank, so whenever you are not inside coold
 ### Explosive
 ---
 
-On Explosive weeks I recommend you to use a mouseover melee hit macro also play Crusader's Might and Holy Prism talent to maximize the amount of Explosives you can do alone.
+On Explosive weeks I recommend you to use a mouseover melee hit macro also play Holy Prism talent to maximize the amount of Explosives you can do alone.
 
 <a>
     <img src="/assets/img/Affixes/Storming.jpg" class="affix_icons"/>
