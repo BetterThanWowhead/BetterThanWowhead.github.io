@@ -118,6 +118,8 @@ Volcanic can’t spawn in melee which makes it a completely irrelevant affix.
 
 Urh:
 
+---
+
 Make sure that you are not holding your Avenging Wrath/Ashen Hallow for zero reason since killing this relic first, will provide you with 200% increased cooldown rate but also 10% health and mana every one second for ten seconds. This is the strongest buff out of them all for Holy Paladins.
 
 ### Mechanics:
@@ -126,9 +128,13 @@ Deconstruct is the most dangerous mechanic on this mob, it will do a massive add
 
 Vy:
 
+---
+
 Killing Vy firts will provide you with 15% haste and a underwhelming damage buff, this will be your second best pick.
 
 Wo:
+
+---
 
 This should generally only be killed by your group if you're about to skip a huge amount of trash area or are about to travel for a while in De Other Side since it'll provide you with 150% movement speed increase and out of combat invisibility for one minute.
 
