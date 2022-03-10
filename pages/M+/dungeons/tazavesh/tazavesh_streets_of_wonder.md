@@ -10,7 +10,7 @@ layout: tazavesh/tazavesh-selected-part1
 
 ### Zo'phex
 
-wwwww
+There's very minimal healing requirement on this boss fight and mostly only tank healing. Make sure to use Blessing of Sacrifice whenever your tank doesn't have defensives and when you don't have Avenging Wrath or Holy Avenger active. Every now and then the boss will yoink your weapon and after you pick it up you will gain a damage increase buff, i suggest you to pool holy power to possibly get a Awakening proc for this to maximize the amount of damage you deal.
 
 <a>
     <img src="/assets/img/dungeons/menagerie.png" class="dungeon_boss"/>
@@ -43,7 +43,7 @@ Venza will every now and then do Whirling Annihilation, make sure to have Divine
 
 ### P.O.S.T Master
 
-It's important that you have a cooldown available for every Fan Mail on this boss fight. If you use Ashen Hallow + Avenging Wrath when the first Fan Mail happens (at 15-18 seconds ish) It will also cover the Second Fan Mail and the first Money Order, the third Fan Mail you should use Holy Avenger (early) and also Aura Mastery (late) for it to cover the second Money Order when people are low health. The Forth Fan Mail will be a difficoult one, pool holy power and use Health Potion since you cant afford to use Divine Shield here since this is not a Fan Mail + Money Order combo. The fifth you can use Divine Shield + Blessing of Sacrifice, this will also cover the Money Order. Make sure to use Door of Shadows and Divine Steed frequently to deal with the bombs.
+It's important that you have a cooldown available for every Fan Mail on this boss fight. If you use Ashen Hallow + Avenging Wrath when the first Fan Mail happens (at 15-18 seconds ish) It will also cover the Second Fan Mail and the first Money Order, the third Fan Mail you should use Holy Avenger (early) and also Aura Mastery (late) for it to cover the second Money Order when people are low health. The Forth Fan Mail will be a difficoult one, pool holy power and use Health Potion since you cant afford to use Divine Shield here since this is not a Fan Mail + Money Order combo. The fifth you can use Divine Shield + Blessing of Sacrifice, this will also cover the Money Order. if you're getting one more Fan Mail, you should have Avenging Wrath back up for this. Make sure to use Door of Shadows and Divine Steed frequently to deal with the bombs.
 
 <a>
     <img src="/assets/img/dungeons/zogron.png" class="dungeon_boss"/>
@@ -51,7 +51,7 @@ It's important that you have a cooldown available for every Fan Mail on this bos
 
 ### Zo'Gron
 
-wwww
+
 
 <a>
     <img src="/assets/img/dungeons/soamzi.png" class="dungeon_boss"/>
