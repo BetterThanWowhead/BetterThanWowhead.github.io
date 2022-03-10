@@ -49,7 +49,7 @@ layout: dungeons
 
 ### Hakkar the Soulflayer
 
-<a class="external" href="https://www.wowhead.com/spell=329840/blood-barrier" target="_blank" rel="noopener noreferrer" data-wowhead="spell=329840" data-wh-icon-size="small"></a> - Group-wide damage & absorb shield.
+<a class="external" href="https://www.wowhead.com/spell=322759/blood-barrier" target="_blank" rel="noopener noreferrer" data-wowhead="spell=322759" data-wh-icon-size="small"></a> - Group-wide damage & absorb shield.
 
 You generally want to have Aura mastery on the first barrier to get one more usage later in the fight, also can use short defensives like Divine Protection and have it back up for third, sixth and so on. Divine Shield + Blessing of Sacrifice can be used if your group falls behind on killing the adds and a Blood Barrier is about to happen. You can also use Hammer of Justice on them and Blessing of Protection the fixate to mitigate damage.
 
