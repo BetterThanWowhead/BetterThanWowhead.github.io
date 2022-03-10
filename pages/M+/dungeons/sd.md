@@ -88,7 +88,7 @@ Collecting orbs good and rotating immunities is the thing that will make the big
 
 ### General Kaal
 
-<a class="external" href="https://www.wowhead.com/spell=326039/endless-torment" target="_blank" rel="noopener noreferrer" data-wowhead="spell=326039" data-wh-icon-size="small"></a> - Hard additional hit on two players & apply a ticking debuff (unless dodged).
+<a class="external" href="https://www.wowhead.com/spell=323845/wicked-rush" target="_blank" rel="noopener noreferrer" data-wowhead="spell=323845" data-wh-icon-size="small"></a> - Hard additional hit on two players & apply a ticking debuff (unless dodged).
 
 This fight is pretty straight forward, you can avoid getting the bleed by using Door of Shadows or Divine Steed. If you see a player is about to get 2 stacks of the debuff you can use Blessing of Protection to clear and immune the charge hit. Keep in mind that the shield clears all bleeds so you ideally do not want to use any sort of immunity before Gloom Squall.
 

@@ -74,7 +74,7 @@ Only thing you have to do on this fight is using dispel on the Slime Injection. 
 
 <a class="external" href="https://www.wowhead.com/spell=325245/shadow-ambush" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325245" data-wh-icon-size="small"></a> - Large additional hit & stuns players in the circle.
 
-<a class="external" href="https://www.wowhead.com/spell=325245/shadow-ambush" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325245" data-wh-icon-size="small"></a> - Adds.
+<a class="external" href="https://www.wowhead.com/spell=332313/brood-assassins" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325245" data-wh-icon-size="small"></a> - Adds.
 
 <a class="external" href="https://www.wowhead.com/spell=325552/cytotoxic-slash" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325552" data-wh-icon-size="small"></a> - Dispel.
 

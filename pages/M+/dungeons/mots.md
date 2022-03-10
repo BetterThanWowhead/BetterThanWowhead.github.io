@@ -60,8 +60,6 @@ Only thing to be aware of on this fight is the Dark Shroud debuff, it starts tic
 
 ### Mistcaller
 
-<a class="external" href="https://www.wowhead.com/npc=165251/illusionary-vulpin" target="_blank" rel="noopener noreferrer" data-wowhead="npc=165251" data-wh-icon-size="small"></a>
-
 Since there's no healing requirement during the main boss phase you want to focus as much as possible damaging the boss and during the add phase you can rotate Holy Avenger, Aura Mastery and lastly Divine Shield + Blessing of Sacrifice.
 
 <a>
