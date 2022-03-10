@@ -62,7 +62,7 @@ After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight,
 
 <a class="external" href="https://www.wowhead.com/spell=319733/stone-call" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319733" data-wh-icon-size="small"></a> - 6 adds that will cast Villainous Bolt.
 
-<a class="external" href="https://www.wowhead.com/spell=319703/blood-torrent" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319703" data-wh-icon-size="small"></a> - Try to bait this outside of middle.
+<a class="external" href="https://www.wowhead.com/spell=319703/blood-torrent" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319703" data-wh-icon-size="small"></a> - Try to bait this outside of the middle.
 
 On this fight its important to rotate your cooldowns for every wave of adds, use Blinding Light to mass interrupt the Villainous Bolt to mitigate tank damage. Make sure to have either Divine Steed or Door of Shadows available if you would get targeted by the Stone Shattering Leap. If you see a player get targeted by Shattering Leap and has not received a decurse, Blessing of Protection him immediately to prevent him from getting stunned and make him able to dodge the leap.
 
