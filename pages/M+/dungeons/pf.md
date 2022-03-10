@@ -60,7 +60,7 @@ Hammer of Justice, Blinding Light and Turn Evil works on the slimes.
 
 ### Doctor ickus
 
-Only thing you have to do on this fight is using dispel on the slime injection. I would suggest using Ashen Hallow on the last platform to skip the bomb completely and instead killing the boss if your group is somewhat coordinated, if not you can use whenever your group does not have a lot of damage. Using Turn Evil on the purple ozee will save you a ton of time since you can ignore killing it completely and keep it CC'd for the rest of the fight.
+Only thing you have to do on this fight is using dispel on the Slime Injection. I would suggest using Ashen Hallow on the last platform to skip the bomb completely and instead killing the boss if your group is somewhat coordinated, if not you can use whenever your group does not have a lot of damage. Using Turn Evil on the purple ozee will save you a ton of time since you can ignore killing it completely and keep it CC'd for the rest of the fight.
 
 <a>
     <img src="/assets/img/dungeons/domina.png" class="dungeon_boss"/>

@@ -10,11 +10,32 @@ layout: tazavesh/tazavesh-selected-part1
 
 ### Zo'phex
 
+wwwww
+
 <a>
     <img src="/assets/img/dungeons/menagerie.png" class="dungeon_boss"/>
 </a>
 
 ### The Menagerie
+---
+
+**Alcruux:**
+
+---
+
+The only thing to do on this boss is simple dodging.
+
+**Achillite:**
+
+---
+
+Only things to be aware of on this boss is dispelling your squishiest target on the Purification and if you get targeted by Gluttonous Feast walk into the blue orbs as it will provide you with 5% damage increase (stacking up to 20 times). Make sure to pool holy power on this for Awakening procs to maximize the damage you deal within the damage buff.
+
+**Venza Goldfuse:**
+
+---
+
+Venza will every now and then do Whirling Annihilation, make sure to have Divine Steed or Door of Shadows available for this since it will drag you towards the boss and kill you. Keep in mind you can pre Blessing of Freedom the Chains of Damnation.
 
 <a>
     <img src="/assets/img/dungeons/postmaster.png" class="dungeon_boss"/>
@@ -22,6 +43,7 @@ layout: tazavesh/tazavesh-selected-part1
 
 ### P.O.S.T Master
 
+It's important that you have a cooldown available for every Fan Mail on this boss fight. If you use Ashen Hallow + Avenging Wrath when the first Fan Mail happens (at 15-18 seconds ish) It will also cover the Second Fan Mail and the first Money Order, the third Fan Mail you should use Holy Avenger (early) and also Aura Mastery (late) for it to cover the second Money Order when people are low health. The Forth Fan Mail will be a difficoult one, pool holy power and use Health Potion since you cant afford to use Divine Shield here since this is not a Fan Mail + Money Order combo. The fifth you can use Divine Shield + Blessing of Sacrifice, this will also cover the Money Order. Make sure to use Door of Shadows and Divine Steed frequently to deal with the bombs.
 
 <a>
     <img src="/assets/img/dungeons/zogron.png" class="dungeon_boss"/>
@@ -29,12 +51,36 @@ layout: tazavesh/tazavesh-selected-part1
 
 ### Zo'Gron
 
+wwww
 
 <a>
     <img src="/assets/img/dungeons/soamzi.png" class="dungeon_boss"/>
 </a>
 
 ### So'amzi
+
+There's zero healing requirement on this fight aslong people are good at walking through correct symbol and dodging the dash. If someone is getting hit by the dash you can use Blessing of Protection to fully immune the debuff.
+
+### Important trash mechanics to use utility on
+
+---
+**Customs Security's Teleport:** Prevent the teleport with Hammer of Justice or Blinding Light.
+
+**Gatewarden Zo'mazz and Armored Overseer's Proxy Strike:** Since this is not a cast you can't prevent it from happening, be aware these two mobs will deal a lot of damage to your tank.
+
+**Interrogation Specialist's Glyph of Restraint:** Blessing of Freedom will fully immune the additional hit and clear the debuff, whenever Blessing of Freedom is on cooldown use your dispel.
+
+**Portalmancer Zo'honn's Radiant Pulse:** This mob will apply a large AoE ticking DoT on your group, you can pop Avenging Wrath at pull and cover the first Pulse after that use Aura Mastery if you get a third Divine Shield + Blessing of Sacrifice. (keep in mind this scales with fortified since it is not actually a part of the boss fight).
+
+**Cartel Skulker's Quick Blade:** If someone in your stands in the dash they will be taking a large amount of ticking damage over 10 seconds, use Blessing of Protection immedietly to clear this debuff.
+
+**Market Peacekeeper's Phalanx Field:** Every now and then this mob will cast a defensive stance and reduce the damage it takes by 75%, this can be prevented with Hammer of Justice or Blinding Light.
+
+**Commander Zo'far and Commerce Enforcer's Power Kick:** This is a hard tank hit, make sure to use Blessing of Sacrifice if your tank does not have a defensive available.
+
+**Veteran Sparkcaster's Scintillate:** Will cause whoever the debuff goes on take 10% increased Arcane damage taken for 12 seconds (and stacks), make sure to dispel this.
+
+
 
 
 <div>
