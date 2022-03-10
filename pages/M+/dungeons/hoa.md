@@ -78,7 +78,7 @@ This boss has zero healing requirement (assuming your group interrupts the Volle
 
 ### Lord Chamberlain
 
-<a class="external" href="https://www.wowhead.com/spell=328791/ritual-of-woe" target="_blank" rel="noopener noreferrer" data-wowhead="spell=328791" data-wh-icon-size="small"></a> - Line soaks from statues you can position yourself middle of the boss and soak two.
+<a class="external" href="https://www.wowhead.com/spell=328791/ritual-of-woe" target="_blank" rel="noopener noreferrer" data-wowhead="spell=328791" data-wh-icon-size="small"></a> - Soak from statues you can position yourself middle of the boss and soak two.
 
 <a class="external" href="https://www.wowhead.com/spell=323437/stigma-of-pride" target="_blank" rel="noopener noreferrer" data-wowhead="spell=323437" data-wh-icon-size="small"></a> - Huge ticking tank debuff every 3 sec over 18 seconds that increases by 30% every tick.
 

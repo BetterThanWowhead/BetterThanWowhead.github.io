@@ -59,7 +59,7 @@ You generally want to have Aura mastery on the first barrier to get one more usa
 
 ### Dealer Xy'exa
 
-<a class="external" href="https://www.wowhead.com/spell=323687/arcane-lightning" target="_blank" rel="noopener noreferrer" data-wowhead="spell=323687" data-wh-icon-size="small"></a> - Hard hitting additional hit & applys a stacking debuff.
+<a class="external" href="https://www.wowhead.com/spell=323687/arcane-lightning" target="_blank" rel="noopener noreferrer" data-wowhead="spell=323687" data-wh-icon-size="small"></a> - Hard hitting, additional hit & applys a stacking debuff.
 
 <a class="external" href="https://www.wowhead.com/spell=321948/localized-explosive-contrivance" target="_blank" rel="noopener noreferrer" data-wowhead="spell=321948" data-wh-icon-size="small"></a> - Bomb that explodes after 5 seconds  (walk into the trap).
 
