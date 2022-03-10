@@ -54,6 +54,8 @@ layout: dungeons
 
 <a class="external" href="https://www.wowhead.com/spell=319713/juggernaut-rush" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319713" data-wh-icon-size="small"></a> - Charge that need to be soaked or immuned.
 
+<a class="external" href="https://www.wowhead.com/spell=319650/vicious-headbutt" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319650" data-wh-icon-size="small"></a> - Large tank hit.
+
 If you're a new Holy Paladin you might find yourself having a hard time on this boss fight. You want to make sure to split your cooldowns and have something for every wave of orbs for example, Ashen Hallow + Avenging Wrath for first wave, Aura Mastery + Holy Avenger for second wave and lastly Divine Shield + Blessing of Sacrifice for third wave. If your group happens to have a more optimized composition like a Rogue and a Mage, you could Divine Shield + Blessing of Sacrifice if you have a player without a immunity, Cloak of Shadows and Ice Block one wave which will make the boss fight significantly easier. If your group happens to not be healthy before a Juggernaut Rush, you can always use Blessing of Protection to allow him to solo soak.
 
 <a>
@@ -75,6 +77,8 @@ The most important thing to do on this boss is thinking ahead of time and tracki
 <a class="external" href="https://www.wowhead.com/spell=325360/rite-of-supremacy" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325360" data-wh-icon-size="small"></a> - Collect orbs.
 
 <a class="external" href="https://www.wowhead.com/spell=326039/endless-torment" target="_blank" rel="noopener noreferrer" data-wowhead="spell=326039" data-wh-icon-size="small"></a> - Group-wide AoE damage. 
+
+<a class="external" href="https://www.wowhead.com/spell=325254/iron-spikes" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325254" data-wh-icon-size="small"></a> - Large tank hit.
 
 Collecting orbs good and rotating immunities is the thing that will make the biggest difference on this boss. You ideally want to use Aura Mastery on the first Rite of Supremacy late to have the damage reduction rolling for the Endless Torment aswell, the second Endless Torment you would use Holy Avenger, third is Divine Shield + Blessing of Sacrifice on your most squishy dps and lastly Ashen Hallow + Avenging Wrath. This being said you can still use Avenging Wrath on pull and have it back up for the forth Endless Torment also depending on your group composition and route you might have to play differently.
 

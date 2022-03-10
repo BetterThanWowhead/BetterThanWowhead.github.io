@@ -52,6 +52,8 @@ layout: dungeons
 
 <a class="external" href="https://www.wowhead.com/spell=327481/dark-lance" target="_blank" rel="noopener noreferrer" data-wowhead="spell=327481" data-wh-icon-size="small"></a> - Hard hitting debuff that can be dispelled.
 
+<a class="external" href="https://www.wowhead.com/spell=320966/overhead-slash" target="_blank" rel="noopener noreferrer" data-wowhead="spell=320966" data-wh-icon-size="small"></a> - Large tank hit.
+
 There's absolutely zero healing requirement on this fight (assuming your group are not standing in the line). Focus your cooldowns on doing damage and if your tank is not full health before a Overhead Slash, Blessing of Sacrifice him immediately.
 
 <a>

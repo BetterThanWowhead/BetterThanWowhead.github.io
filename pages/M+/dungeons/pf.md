@@ -52,9 +52,9 @@ layout: dungeons
 
 <a class="external" href="https://www.wowhead.com/spell=324527/plaguestomp" target="_blank" rel="noopener noreferrer" data-wowhead="spell=324527" data-wh-icon-size="small"></a> - Group-wide hard additional hit & leaves a debuff for 20 seconds.
 
-Healing this boss is very simple, you wanna prioritize using your dispel on the most squishy player in your group and when your dispel comes back off from the cooldown, you can dispel whoever is in most danger. If someone is not topped before a Plaguestomp you can use either use Aura Mastery or Blessing of Sacrifice to keep them alive. Keep in mind that Blessing of Protection will fully immune and prevent the knock back from the Plaguestomp.
+<a class="external" href="https://www.wowhead.com/spell=324459/beckon-slime" target="_blank" rel="noopener noreferrer" data-wowhead="spell=324459" data-wh-icon-size="small"></a> - Hammer of Justice, Blinding Light and Turn Evil works on this.
 
-Hammer of Justice, Blinding Light and Turn Evil works on the slimes.
+Healing this boss is very simple, you wanna prioritize using your dispel on the most squishy player in your group and when your dispel comes back off from the cooldown, you can dispel whoever is in most danger. If someone is not topped before a Plaguestomp you can use either use Aura Mastery or Blessing of Sacrifice to keep them alive. Keep in mind that Blessing of Protection will fully immune and prevent the knock back from the Plaguestomp.
 
 <a>
     <img src="/assets/img/dungeons/doctor.png" class="dungeon_boss"/>
@@ -75,6 +75,8 @@ Only thing you have to do on this fight is using dispel on the Slime Injection. 
 <a class="external" href="https://www.wowhead.com/spell=325245/shadow-ambush" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325245" data-wh-icon-size="small"></a> - Large additional hit & stuns players in the circle.
 
 <a class="external" href="https://www.wowhead.com/spell=325245/shadow-ambush" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325245" data-wh-icon-size="small"></a> - Adds.
+
+<a class="external" href="https://www.wowhead.com/spell=325552/cytotoxic-slash" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325552" data-wh-icon-size="small"></a> - Dispel.
 
 The most dangerous thing on this boss to be aware of is getting multiple Shadow Ambushes in a row, if you are very unlucky you can get 4-5 in a row and its important that you are not using your Divine Protection or Divine Shield randomly. If this happens you want to Divine Protection the first one, you can either Divine Shield or Aura Mastery on the second Shadow Ambush, I personally prefer to use Divine Shield for damage, the third one would be Divine Protection again and lastly Aura Mastery. When the boss summons Brood Assasins and you do not have any throughput cooldowns, you can use Blessing of Sacrifice on the tank (assuming he doesn't have any active mitigation cooldowns).
 
@@ -100,3 +102,5 @@ Healing this fight can be very difficult, so its important that you play well wi
 **Defender of Many Eyes Bulwark of Maldraxxus:** Using Hammer of Justice or Blinding Light on this is very important because it will reduce all mobs in the zones damage taken by 90%.
 
 **Brood Ambusher Stealthlings:** If you see the casts is about to go through use Blinding Light or if you don't have it available, Blessing of Protection your squishiest player immediately.
+
+**Congealed Slime's Withering Filth:** Use Hammer of Justice, Turn Evil or Blinding Light to prevent this cast.

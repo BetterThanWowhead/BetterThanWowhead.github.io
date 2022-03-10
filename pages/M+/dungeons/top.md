@@ -54,6 +54,8 @@ layout: dungeons
 
 <a class="external" href="https://www.wowhead.com/spell=320069/mortal-strike" target="_blank" rel="noopener noreferrer" data-wowhead="spell=320069" data-wh-icon-size="small"></a> - Reduces tanks healing received by 30% for 10 seconds.
 
+<a class="external" href="https://www.wowhead.com/spell=333540/opportunity-strikes" target="_blank" rel="noopener noreferrer" data-wowhead="spell=333540" data-wh-icon-size="small"></a> - Use Hammer of Justice or Blinding Light to stop this.
+
 This boss should have a very minimal healing requirement (assuming Searing Death is interrupted) so you should focus your cooldowns on damage here, keep in mind to cast your Hammer of Wraths into Dessia. If your tank is getting overwhelmed you can Divine Shield or Blessing of Protection + Taunt one mortal strike to make him able to stabilize easier.
 
 <a>
@@ -64,6 +66,8 @@ This boss should have a very minimal healing requirement (assuming Searing Death
 
 <a class="external" href="https://www.wowhead.com/spell=320050/might-of-maldraxxus" target="_blank" rel="noopener noreferrer" data-wowhead="spell=320050" data-wh-icon-size="small"></a> - Large group-wide damage hit.
 
+<a class="external" href="https://www.wowhead.com/spell=320644/brutal-combo" target="_blank" rel="noopener noreferrer" data-wowhead="spell=320644" data-wh-icon-size="small"></a> - Large tank hit.
+
 This is a great fight for Holy Paladin especially if you skip banners since Blessing of Freedom will clear the slow effect. You want to make sure to have a personal for every Might of Maldraxxus since the damage will start to one shot you on a higher key level. Keep in mind that you don't necessarily have to top your dps players after every Might of Maldraxxus since they will get full healed from the chain when they get thrown down to the duel.
 
 <a>
@@ -72,9 +76,9 @@ This is a great fight for Holy Paladin especially if you skip banners since Bles
 
 ### Kul'tharok
 
-<a class="external" href="https://www.wowhead.com/spell=319626/phantasmal-parasite" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319626" data-wh-icon-size="small"></a> - Hard ticking debuff that can be dispelled.
+<a class="external" href="https://www.wowhead.com/spell=319626/phantasmal-parasite" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319626" data-wh-icon-size="small"></a> - Hard ticking debuff that will go on two players at a time.
 
-<a class="external" href="https://www.wowhead.com/spell=319521/draw-soul" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319521" data-wh-icon-size="small"></a> - Two large ticks on two players.
+<a class="external" href="https://www.wowhead.com/spell=319521/draw-soul" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319521" data-wh-icon-size="small"></a> - Two huge ticks of damage on two players.
 
 This fight is all about dispel management, make sure to prioritize dispelling squishy dps players or people without defensives available. Generally if you have a Windwalker Monk in your group make sure to let him Diffuse Magic and if your tank gets the debuff never dispel him and instead dispel the other player. Make sure you use Aura Mastery on one of the Grasping Hands + debuff overlap, keep in mind Warriors can Spell Reflect every Grasping Hand so you might not necessarily want to use Aura Mastery if a Warrior gets targeted.
 

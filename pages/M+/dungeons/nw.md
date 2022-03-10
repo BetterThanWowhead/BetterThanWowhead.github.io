@@ -52,6 +52,8 @@ layout: dungeons
 
 <a class="external" href="https://www.wowhead.com/spell=320596/heaving-retch" target="_blank" rel="noopener noreferrer" data-wowhead="spell=320596" data-wh-icon-size="small"></a> - Hard hitting frontal.
 
+<a class="external" href="https://www.wowhead.com/spell=320655/crunch" target="_blank" rel="noopener noreferrer" data-wowhead="spell=320655" data-wh-icon-size="small"></a> - Big tank hit.
+
 Make sure you're not letting any of the Carrion Worms bite you since when they reach 3 stacks they will explode. You can use Blinding Light or Hammer of Justice to prevent this if for some reason one of your players are face tanking it. If a player in your group does not have a defensive available and gets targeted by the Heaving Retch, Blessing of Sacrifice him and dispel him after.
 
 <a>

@@ -51,6 +51,10 @@ layout: dungeons
 
 <a class="external" href="https://www.wowhead.com/spell=322759/blood-barrier" target="_blank" rel="noopener noreferrer" data-wowhead="spell=322759" data-wh-icon-size="small"></a> - Group-wide damage & absorb shield.
 
+<a class="external" href="https://www.wowhead.com/spell=322736/piercing-barb" target="_blank" rel="noopener noreferrer" data-wowhead="spell=322736" data-wh-icon-size="small"></a> - Large tank hit.
+
+<a class="external" href="https://www.wowhead.com/spell=322746/corrupted-blood" target="_blank" rel="noopener noreferrer" data-wowhead="spell=322746" data-wh-icon-size="small"></a> - Semi hard hitting debuff that last 12 seconds.
+
 You generally want to have Aura mastery on the first barrier to get one more usage later in the fight, also can use short defensives like Divine Protection and have it back up for third, sixth and so on. Divine Shield + Blessing of Sacrifice can be used if your group falls behind on killing the adds and a Blood Barrier is about to happen. You can also use Hammer of Justice on them and Blessing of Protection the fixate to mitigate damage.
 
 <a>
@@ -59,9 +63,13 @@ You generally want to have Aura mastery on the first barrier to get one more usa
 
 ### Dealer Xy'exa
 
-<a class="external" href="https://www.wowhead.com/spell=323687/arcane-lightning" target="_blank" rel="noopener noreferrer" data-wowhead="spell=323687" data-wh-icon-size="small"></a> - Hard hitting, additional hit & applys a stacking debuff.
+<a class="external" href="https://www.wowhead.com/spell=323687/arcane-lightning" target="_blank" rel="noopener noreferrer" data-wowhead="spell=323687" data-wh-icon-size="small"></a> - Hard hitting, additional hit & applys a stacking debuff that increases your Arcane damage taken by 5% each stack.
 
 <a class="external" href="https://www.wowhead.com/spell=321948/localized-explosive-contrivance" target="_blank" rel="noopener noreferrer" data-wowhead="spell=321948" data-wh-icon-size="small"></a> - Bomb that explodes after 5 seconds  (walk into the trap).
+
+<a class="external" href="https://www.wowhead.com/spell=320168/throw-buzz-saw" target="_blank" rel="noopener noreferrer" data-wowhead="spell=320168" data-wh-icon-size="small"></a> - Applys a stacking bleeding debuff that destroys tanks.
+
+<a class="external" href="https://www.wowhead.com/spell=321061/aerial-rocket-chicken-barrage" target="_blank" rel="noopener noreferrer" data-wowhead="spell=321061" data-wh-icon-size="small"></a> - Large group-wide damage income.
 
 The key to kill this boss is managing the lightning, pass it between your tank, tankiest dps and yourself, pooling holy power for the lighting will make this boss fight significantly easier to deal with. If one of your players doesn't have a defensive for the overlap (bomb with lightning debuff) use Blessing of Sacrifice on them immediately. Make sure to rotate your own personals if you would happen to get the overlap multiple times. Slow Fall from a mage will prevent a noticeable amount of damage you would usually take from falling after going up in the air with the bomb.
 
@@ -84,6 +92,8 @@ Since pressing the bombs is a healer job on this fight, keybinding mouseover int
 ### Mueh'Zal
 
 <a class="external" href="https://www.wowhead.com/spell=325691/cosmic-collapse" target="_blank" rel="noopener noreferrer" data-wowhead="spell=325691" data-wh-icon-size="small"></a> - Debuff on 5 players & leaves a circle on ground that will explode after 9 seconds.
+
+<a class="external" href="https://www.wowhead.com/spell=327646/soulcrusher" target="_blank" rel="noopener noreferrer" data-wowhead="spell=327646" data-wh-icon-size="small"></a> - Large tank hit.
 
 There are two ways to play this boss, you either one phase or you two phase it. If your group decides to one phase, you typically want to hold your Avenging Wrath for the add. But this is not necessary if you two phase since you will have one extra dps on your side to help you kill the add. Other than that you want to dispel one player on Cosmic Collapse (preferably a range), you can also use Aura Mastery early into the fight and have it up later to mitigate damage.
 
