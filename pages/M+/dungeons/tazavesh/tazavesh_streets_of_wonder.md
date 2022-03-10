@@ -43,8 +43,6 @@ Venza will every now and then do Whirling Annihilation, make sure to have Divine
 
 ### P.O.S.T Master
 
-Key Abilities:
-
 <a class="external" href="https://www.wowhead.com/spell=346742/fan-mail" target="_blank" rel="noopener noreferrer" data-wowhead="spell=346742" data-wh-icon-size="small"></a> - Group-wide damage.
 
 <a class="external" href="https://www.wowhead.com/spell=346962/money-order" target="_blank" rel="noopener noreferrer" data-wowhead="spell=346962" data-wh-icon-size="small"></a> - AoE soak.
