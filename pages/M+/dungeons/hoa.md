@@ -50,6 +50,8 @@ layout: dungeons
 
 ### Halkias
 
+<a class="external" href="https://www.wowhead.com/spell=322913/refracted-sinlight" target="_blank" rel="noopener noreferrer" data-wowhead="spell=322913" data-wh-icon-size="small"></a> - Spinning beams.
+
 After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight, which means the tank will most likely move away to give people enough space before the Refracted Sinlight happens, make sure to wait a bit before casting your Ashen Hallow if you get it back from cooldown during the fight, so he does not accidentally move out of it.
 
 <a>
@@ -57,6 +59,8 @@ After 4 Glass Shards have spawned on the ground he will cast Refracted Sinlight,
 </a>
 
 ### Echelon
+
+<a class="external" href="https://www.wowhead.com/spell=319733/stone-call" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319733" data-wh-icon-size="small"></a> - 6 adds that will cast bolts.
 
 On this fight its important to rotate your cooldowns for every wave of adds, use Blinding Light to mass interrupt the Villainous Bolt to mitigate tank damage. Make sure to have either Divine Steed or Door of Shadows available if you would get targeted by the Stone Shattering Leap. If you see a player get targeted by Shattering Leap and has not received a decurse, Blessing of Protection him immediately to prevent him from getting stunned and make him able to dodge the leap.
 
@@ -74,7 +78,11 @@ This boss has zero healing requirement (assuming your group interrupts the Volle
 
 ### Lord Chamberlain
 
-On this boss with a coordinated group and assuming you have a windwalker monk or any sort of immunity specs, you preferably do NOT want to soak the Ritual of Woe with your Divine Shield because taunting the Stigma of Pride debuff that will apply to the tank will mitigate a lot of damage and will make it a ton easier for your tank. Whenever you do not have Avenging Wrath (and assuming tank doesn't have any major cooldowns available), you can Blessing of Sacrifice the tank to mitigate damage taken.
+<a class="external" href="https://www.wowhead.com/spell=328791/ritual-of-woe" target="_blank" rel="noopener noreferrer" data-wowhead="spell=328791" data-wh-icon-size="small"></a> - Line soaks from statues you can position yourself middle of the boss and soak two.
+
+<a class="external" href="https://www.wowhead.com/spell=323437/stigma-of-pride" target="_blank" rel="noopener noreferrer" data-wowhead="spell=323437" data-wh-icon-size="small"></a> - Huge ticking tank debuff every 3 sec over 18 seconds that increases by 30% every tick.
+
+On this boss with a coordinated group and with any sort of immunity specs, you preferably do not want to soak the Ritual of Woe with your Divine Shield because taunting the Stigma of Pride debuff that will apply to the tank will mitigate a lot more damage and will make it a ton easier for your tank. Whenever you do not have Avenging Wrath (and assuming tank doesn't have any major cooldowns available), you can Blessing of Sacrifice the tank to mitigate damage.
 
 ### Important trash mechanics to use utility on
 

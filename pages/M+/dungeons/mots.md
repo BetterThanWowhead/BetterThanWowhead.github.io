@@ -50,6 +50,8 @@ layout: dungeons
 
 ### Ingra Maloch
 
+<a class="external" href="https://www.wowhead.com/spell=328791/ritual-of-woe" target="_blank" rel="noopener noreferrer" data-wowhead="spell=328791" data-wh-icon-size="small"></a> - Group-wide permanent hard hitting debuff.
+
 Only thing to be aware of on this fight is the Dark Shroud debuff, it starts ticking very hard on a high tyrannical and can be difficult to deal with. How you can make this easier is to hold Holy Avenger + Aura Mastery for the second phase one and let Ashen Hallow cover in first phase, make sure to not use it to early since you want it for the 15 seconds boss burn aswell.
 
 <a>
@@ -65,6 +67,8 @@ Since there's no healing requirement during the main boss phase you want to focu
 </a>
 
 ### Tred'ova
+
+<a class="external" href="https://www.wowhead.com/spell=322614/mind-link" target="_blank" rel="noopener noreferrer" data-wowhead="spell=322614" data-wh-icon-size="small"></a> - Break the link.
 
 Only thing that really does any damage on this boss is not breaking the Mind Link, if you get targeted by this make sure to Door of Shadow or Divine Steed away from your group. The melee's from the small adds start to hurt quite a bit the higher you go using Blessing of Protection will immune all the damage.
 

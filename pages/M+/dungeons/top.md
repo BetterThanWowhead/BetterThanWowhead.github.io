@@ -50,6 +50,10 @@ layout: dungeons
 
 ### Affront of Challengers
 
+<a class="external" href="https://www.wowhead.com/spell=333292/searing-death" target="_blank" rel="noopener noreferrer" data-wowhead="spell=333292" data-wh-icon-size="small"></a> - Hard ticking 12 seconds debuff that should be interrupted.
+
+<a class="external" href="https://www.wowhead.com/spell=320069/mortal-strike" target="_blank" rel="noopener noreferrer" data-wowhead="spell=320069" data-wh-icon-size="small"></a> - Reduces tanks healing received by 30% for 10 seconds.
+
 This boss should have a very minimal healing requirement (assuming Searing Death is interrupted) so you should focus your cooldowns on damage here, keep in mind to cast your Hammer of Wraths into Dessia. If your tank is getting overwhelmed you can Divine Shield or Blessing of Protection + Taunt one mortal strike to make him able to stabilize easier.
 
 <a>
@@ -57,6 +61,8 @@ This boss should have a very minimal healing requirement (assuming Searing Death
 </a>
 
 ### Xav the Unfallen
+
+<a class="external" href="https://www.wowhead.com/spell=320050/might-of-maldraxxus" target="_blank" rel="noopener noreferrer" data-wowhead="spell=320050" data-wh-icon-size="small"></a> - Large group-wide damage hit.
 
 This is a great fight for Holy Paladin especially if you skip banners since Blessing of Freedom will clear the slow effect. You want to make sure to have a personal for every Might of Maldraxxus since the damage will start to one shot you on a higher key level. Keep in mind that you don't necessarily have to top your dps players after every Might of Maldraxxus since they will get full healed from the chain when they get thrown down to the duel.
 
@@ -66,6 +72,10 @@ This is a great fight for Holy Paladin especially if you skip banners since Bles
 
 ### Kul'tharok
 
+<a class="external" href="https://www.wowhead.com/spell=319626/phantasmal-parasite" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319626" data-wh-icon-size="small"></a> - Hard ticking debuff that can be dispelled.
+
+<a class="external" href="https://www.wowhead.com/spell=319521/draw-soul" target="_blank" rel="noopener noreferrer" data-wowhead="spell=319521" data-wh-icon-size="small"></a> - Two large ticks on two players.
+
 This fight is all about dispel management, make sure to prioritize dispelling squishy dps players or people without defensives available. Generally if you have a Windwalker Monk in your group make sure to let him Diffuse Magic and if your tank gets the debuff never dispel him and instead dispel the other player. Make sure you use Aura Mastery on one of the Grasping Hands + debuff overlap, keep in mind Warriors can Spell Reflect every Grasping Hand so you might not necessarily want to use Aura Mastery if a Warrior gets targeted.
 
 <a>
@@ -74,6 +84,8 @@ This fight is all about dispel management, make sure to prioritize dispelling sq
 
 ### Gorechop
 
+<a class="external" href="https://www.wowhead.com/spell=323515/hateful-strike" target="_blank" rel="noopener noreferrer" data-wowhead="spell=323515" data-wh-icon-size="small"></a> - Large tank hit.
+
 Everything on this fight is physical damage which means Blessing of Protection will work on both the Hateful Strike and if someone would get hit by the chains. Make sure if your tank is not full health before a Hateful Strike, use Blessing of Sacrifice or Aura Mastery to mitigate the damage, you can also Divine Shield or Blessing of Protection taunt right before to soak the hit and if you're brave you can Shield of the Righteous + Divine Protection and taunt aswell but make sure your tank is aware that you're about to it.
 
 <a>
@@ -81,6 +93,8 @@ Everything on this fight is physical damage which means Blessing of Protection w
 </a>
 
 ### Mord'retha, the Endless Empress 
+
+<a class="external" href="https://www.wowhead.com/spell=339573/echoes-of-carnage" target="_blank" rel="noopener noreferrer" data-wowhead="spell=339573" data-wh-icon-size="small"></a> - Group-wide large additional hit. 
 
 You will see most groups using lust in p2 (at 50% health) to burn the boss since there's more dangerous mechanics happening from there on. I would suggest you to use Aura Mastery on Echoes of Carnage which the boss will cast when you hit 50% health. Make sure to use Blessing of Sacrifice if your tank is not full health before a Reaping Scythe.
 
