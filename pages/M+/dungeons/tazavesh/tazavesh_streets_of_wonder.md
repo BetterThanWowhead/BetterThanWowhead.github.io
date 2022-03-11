@@ -10,6 +10,12 @@ layout: tazavesh/tazavesh-selected-part1
 
 ### Zo'phex
 
+<a class="external" href="https://www.wowhead.com/spell=348128/fully-armed" target="_blank" rel="noopener noreferrer" data-wowhead="spell=348128" data-wh-icon-size="small"></a> - Will increase the damage boss deal by 25%.
+
+<a class="external" href="https://www.wowhead.com/spell=348350/interrogation" target="_blank" rel="noopener noreferrer" data-wowhead="spell=348350" data-wh-icon-size="small"></a> - Will fixate the target in the trap (kill the trap before boss reaches). 
+
+<a class="external" href="https://www.wowhead.com/spell=345770/impound-contraband" target="_blank" rel="noopener noreferrer" data-wowhead="spell=345770" data-wh-icon-size="small"></a> - Pick up your weapon.
+
 There's very minimal healing requirement on this boss fight and mostly only tank healing. Make sure to use Blessing of Sacrifice whenever your tank doesn't have defensives and when you don't have Avenging Wrath or Holy Avenger active. Every now and then there's a chance that the boss will yoink your weapon and after you pick it up you will gain 25% haste buff, i suggest you to pool holy power to possibly get a Awakening proc for this to maximize the amount of damage you deal.
 
 <a>
@@ -22,20 +28,23 @@ There's very minimal healing requirement on this boss fight and mostly only tank
 **Alcruux:**
 
 ---
-
-The only thing to do on this boss is simple dodging.
+The only thing to do on this boss is dodging.
 
 **Achillite:**
 
 ---
+<a class="external" href="https://www.wowhead.com/spell=349954/purification-protocol" target="_blank" rel="noopener noreferrer" data-wowhead="spell=349954" data-wh-icon-size="small"></a> - Dispel.
+
+<a class="external" href="https://www.wowhead.com/spell=345770/impound-contraband" target="_blank" rel="noopener noreferrer" data-wowhead="spell=345770" data-wh-icon-size="small"></a> - Walk into blue orbs on the ground. (Transfer it to someone that has cooldowns coming back up).
 
 Only things to be aware of on this boss is dispelling your squishiest target on the Purification and if you get targeted by Gluttonous Feast walk into the blue orbs as it will provide you with 5% damage increase (stacking up to 20 times). Make sure to pool holy power on this for Awakening procs to maximize the damage you deal within the damage buff.
 
 **Venza Goldfuse:**
 
 ---
+<a class="external" href="https://www.wowhead.com/spell=350101/chains-of-damnation" target="_blank" rel="noopener noreferrer" data-wowhead="spell=350101" data-wh-icon-size="small"></a> - Will chain one player.
 
-Venza will every now and then do Whirling Annihilation, make sure to have Divine Steed or Door of Shadows available for this since it will drag you towards the boss and kill you. Keep in mind you can pre Blessing of Freedom the Chains of Damnation.
+Venza will every now and then do Whirling Annihilation, make sure to have Divine Steed or Door of Shadows available for this since it will drag you towards the boss and kill you. Keep in mind you can pre Blessing of Freedom the Chains.
 
 <a>
     <img src="/assets/img/dungeons/postmaster.png" class="dungeon_boss"/>
@@ -62,6 +71,8 @@ It's important that you have a cooldown available for every Fan Mail on this bos
 </a>
 
 ### So'amzi
+
+<a class="external" href="https://www.wowhead.com/spell=347392/deploy-relocators" target="_blank" rel="noopener noreferrer" data-wowhead="spell=347392" data-wh-icon-size="small"></a> - Walk into the correct teleporter to avoid the Shuri debuff.
 
 There's zero healing requirement on this fight aslong people are good at walking through correct symbol and dodging the dash. If someone is getting hit by the dash you can use Blessing of Protection to fully immune the debuff.
 
