@@ -10,7 +10,7 @@ layout: tazavesh/tazavesh-selected-part1
 
 ### Zo'phex
 
-There's very minimal healing requirement on this boss fight and mostly only tank healing. Make sure to use Blessing of Sacrifice whenever your tank doesn't have defensives and when you don't have Avenging Wrath or Holy Avenger active. Every now and then there's a chance that the boss will yoink your weapon and after you pick it up you will gain a damage increase buff, i suggest you to pool holy power to possibly get a Awakening proc for this to maximize the amount of damage you deal.
+There's very minimal healing requirement on this boss fight and mostly only tank healing. Make sure to use Blessing of Sacrifice whenever your tank doesn't have defensives and when you don't have Avenging Wrath or Holy Avenger active. Every now and then there's a chance that the boss will yoink your weapon and after you pick it up you will gain 25% haste buff, i suggest you to pool holy power to possibly get a Awakening proc for this to maximize the amount of damage you deal.
 
 <a>
     <img src="/assets/img/dungeons/menagerie.png" class="dungeon_boss"/>
