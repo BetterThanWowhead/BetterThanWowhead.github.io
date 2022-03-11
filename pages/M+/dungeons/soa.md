@@ -62,7 +62,7 @@ There's absolutely zero healing requirement on this fight (assuming your group a
 
 ### Ventunax
 
-<a class="external" href="https://www.wowhead.com/spell=324148/dark-stride" target="_blank" rel="noopener noreferrer" data-wowhead="spell=324148" data-wh-icon-size="small"></a> - Hard ticking debuff for 15 seconds that can only be applyd to ranges unless full melee group.
+<a class="external" href="https://www.wowhead.com/spell=324148/dark-stride" target="_blank" rel="noopener noreferrer" data-wowhead="spell=324148" data-wh-icon-size="small"></a> - Hard ticking debuff for 15 seconds that can only be applied to ranges unless full melee group.
 
 One of your players will get targeted by Dark Stride and this will apply a hard ticking debuff, make sure to rotate Blessing of Sacrifice, Aura Mastery and Blessing of Protection whenever your dps doesn't have a defensive available and when you're not inside Avenging Wrath or Holy Avenger.
 
@@ -84,7 +84,7 @@ This fight is pretty much the same as Ventunax make sure to rotate your cooldown
 
 <a class="external" href="https://www.wowhead.com/spell=334625/abyssal-detonation" target="_blank" rel="noopener noreferrer" data-wowhead="spell=323195" data-wh-icon-size="small"></a> - Group-wide large additional damage (stand in shield).
 
-<a class="external" href="https://www.wowhead.com/spell=322818/lost-confidence" target="_blank" rel="noopener noreferrer" data-wowhead="spell=322818" data-wh-icon-size="small"></a> - Hard ticking debuff that will leave a pool when dispelled or when the duration is over.
+<a class="external" href="https://www.wowhead.com/spell=322818/lost-confidence" target="_blank" rel="noopener noreferrer" data-wowhead="spell=322818" data-wh-icon-size="small"></a> - Hard ticking debuff that will leave a pool when dispelled or when the duration is expired
 
 The most important part of this fight is prioritizing defensives, for example let's say you have a monk, you want to make sure to let him use Diffuse Magic on the Lost Confident debuff and instead dispel your second target's debuff because the Diffuse Magic will reflect the debuff to the boss and deal a ton of damage. Ashen Hallow + Avenging Wrath can be used either after the first intermission or the second. Make sure to use Blessing of Sacrifice if someone is not full health before an Abyssal Detonation or Aura Mastery to mitigate the damage taken.
 
