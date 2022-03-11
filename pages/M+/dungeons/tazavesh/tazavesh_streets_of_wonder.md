@@ -74,7 +74,7 @@ There's zero healing requirement on this fight aslong people are good at walking
 
 **Interrogation Specialist's Glyph of Restraint:** Blessing of Freedom will fully immune the additional hit and clear the debuff, whenever Blessing of Freedom is on cooldown use your dispel.
 
-**Portalmancer Zo'honn's Radiant Pulse:** This mob will apply a large AoE ticking DoT on your group, you can pop Avenging Wrath at pull and cover the first Pulse after that use Aura Mastery if you get a third Divine Shield + Blessing of Sacrifice. (keep in mind this scales with fortified since it is not actually a part of the boss fight).
+**Portalmancer Zo'honn's Radiant Pulse:** This mob will apply a large AoE ticking DoT on your group, you can pop Aura Mastery pre-pull and cover the first Pulse after that use Holy Avenger 5-10 seconds before next to force proc Avenging Wrath, if you get a third Divine Shield + Blessing of Sacrifice. (keep in mind this scales with fortified since it is not actually a part of the boss fight).
 
 **Cartel Skulker's Quick Blade:** If someone in your stands in the dash they will be taking a large amount of ticking damage over 10 seconds, use Blessing of Protection immedietly to clear this debuff.
 
