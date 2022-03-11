@@ -19,7 +19,7 @@ This will not only activate the goliaths in Necrotic Wake or allow you to pick u
 Your go to setup as Kyrian should look like this: [Forgelite Prime Mikanikos](https://www.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/paladin/AwaW6pYBBS1EChIFMPoKJTAQCiMVK2MKJSyqCjV2AAo). Because we do not have two finesse slots as Kyrian, you generally don't want to change to <a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> or <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> since we don't have Door of Shadows or Soulshape, which makes <a href="https://www.wowhead.com/spell=339268/lights-barding" data-wowhead="spell=339268"></a> more important than ever.
 
 ---
-**M+ Talents 3231332** *(Light's Hammer, Judgement of Light, Blinding Light, Unbreakable Spirit, Seraphim, Awakening and Beacon of Faith or Glimmer of Light).*
+**M+ Talents 3231332** *(Light's Hammer or Crusader's Might (if Glimmer of Light), Judgement of Light, Blinding Light, Unbreakable Spirit, Seraphim, Awakening and Beacon of Faith or Glimmer of Light).*
  
 ### Legendaries
 
