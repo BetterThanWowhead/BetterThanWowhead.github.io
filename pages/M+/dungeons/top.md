@@ -100,6 +100,8 @@ Everything on this fight is physical damage which means Blessing of Protection w
 
 <a class="external" href="https://www.wowhead.com/spell=339573/echoes-of-carnage" target="_blank" rel="noopener noreferrer" data-wowhead="spell=339573" data-wh-icon-size="small"></a> - Group-wide large additional hit. 
 
+<a class="external" href="https://www.wowhead.com/spell=324079/reaping-scythe" target="_blank" rel="noopener noreferrer" data-wowhead="spell=324079" data-wh-icon-size="small"></a> - Large tank hit.
+
 You will see most groups using lust in p2 (at 50% health) to burn the boss since there's more dangerous mechanics happening from there on. I would suggest you to use Aura Mastery on Echoes of Carnage which the boss will cast when you hit 50% health. Make sure to use Blessing of Sacrifice if your tank is not full health before a Reaping Scythe.
 
 ### Important trash mechanics to use utility on
