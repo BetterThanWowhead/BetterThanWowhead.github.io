@@ -107,7 +107,7 @@ There's zero healing requirement on this fight aslong people are good at walking
         </a>
     </div>
     <div style="text-align:right;display: inline-block;width: 49%;">
-        <a href="/M+/dungeons/tazavesh/gambit/hylbrande">
+        <a href="/M+/dungeons/tazavesh/gambit">
             Part 2 >
         </a>
     </div>
