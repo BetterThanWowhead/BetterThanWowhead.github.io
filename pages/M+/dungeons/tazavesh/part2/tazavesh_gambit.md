@@ -70,8 +70,8 @@ The most important part of this fight is rotating cooldowns on every Collapsing 
         </a>
     </div>
     <div style="text-align:right;display: inline-block;width: 49%;">
-        <a href="/M+/dungeons/tazavesh/gambit/soleah">
-            So'leah >
+        <a href="/M+/weakauras">
+            Addons & WeakAuras >
         </a>
     </div>
 </div>
