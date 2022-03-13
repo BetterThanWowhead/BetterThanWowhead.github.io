@@ -7,8 +7,6 @@ layout: page
 
 ### On use
 
-[Scars of Fraternal Strife](https://ptr.wowhead.com/item=188253/scars-of-fraternal-strife?bonus=6805) will provide you with powerful secondary buffs on a 30 second cooldown. This is the only on-use that you can easily line up with Avenging Wrath now that we get cooldown reduction from Uhr and Light of Dawn (with 4 piece).
-
 [Inscrutable Quantum Device](https://www.wowhead.com/item=179350/inscrutable-quantum-device?bonus=6805:1472) Is still a solid choice for burst damage within Ashen hallow, you just imagine its a 4 minute cooldown instead of three.
 
 ### Passive
