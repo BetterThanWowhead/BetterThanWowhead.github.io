@@ -7,6 +7,8 @@ layout: post
 
 03.13.2022:
 
+[Updated Trinkets](/M+/trinkets)
+
 [Updated Tazavesh Guides](/M+/dungeons/tazavesh/gambit)
 
 [Updated Tazavesh Guides](/M+/dungeons/tazavesh/streets) 

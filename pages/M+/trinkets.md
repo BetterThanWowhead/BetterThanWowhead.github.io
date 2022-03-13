@@ -4,20 +4,19 @@ permalink: /M+/trinkets
 layout: page
 ---
 
-Update incoming in the near future.
 
 ### On use
 
-[Soulletting Ruby](https://www.wowhead.com/item=178809/soulletting-ruby?bonus=6805:1472)
-this is a very strong on use trinket since it lines up with Avenging Wrath. That being said, do not macro this into it unless you have mouseover Ruby inside of your Avenging Wrath macro.
+[Scars of Fraternal Strife](https://ptr.wowhead.com/item=188253/scars-of-fraternal-strife?bonus=6805) will provide you with powerful secondary buffs on a 30 second cooldown. This is the only on-use that you can easily line up with Avenging Wrath now that we get cooldown reduction from Uhr and Light of Dawn (with 4 piece).
 
-[Inscrutable Quantum Device](https://www.wowhead.com/item=179350/inscrutable-quantum-device?bonus=6805:1472)
-I personally prefer Quantum Device over Ruby because iqd provides you a large amount of extra burst damage inside your Ashen Hallow.
+[Inscrutable Quantum Device](https://www.wowhead.com/item=179350/inscrutable-quantum-device?bonus=6805:1472) Is still a solid choice for burst damage within Ashen hallow, you just imagine its a 4 minute cooldown instead of three.
 
 ### Passive
 
-[Titanic Ocular Gland](https://www.wowhead.com/item=186423/titanic-ocular-gland?bonus=6805)
-your strongest passive trinket since it provides you the most amount of stats (if your above 50% health which you should be most of the time) playing this trinket requires you to optimise your gear since it provides you an increase to your highest secondary stat.
+[So'leah's Secret Technique](https://www.wowhead.com/item=185818/soleahs-secret-technique?bonus=6805)
+your strongest passive trinket since it will provide you with a solid amount of secondary stats. You generally want to have it sett to Haste or Versatility.
+
+[Elegy of the Eternals](https://ptr.wowhead.com/item=188270/elegy-of-the-eternals?bonus=6805) will be the play instead of So'leah's if you have multiple people playing it while being the same covenant as you.
 
 [Unbound Changeling](https://www.wowhead.com/item=178708/unbound-changeling?bonus=6805:1472)
 will be your second best passive trinket if you don't have Ocular Gland since it will provide you with a large proc of either Haste, Crit or Mastery (depending on your food buff) you should ideally have it set to Haste at all times.
