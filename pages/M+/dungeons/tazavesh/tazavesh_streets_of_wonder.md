@@ -87,6 +87,8 @@ There's zero healing requirement on this fight aslong people are good at walking
 
 **Portalmancer Zo'honn's Radiant Pulse:** This mob will apply a large AoE ticking DoT on your group, you can pop Aura Mastery pre-pull and cover the first Pulse after that use Holy Avenger 5-10 seconds before next to force proc Avenging Wrath, if you get a third Divine Shield + Blessing of Sacrifice. (keep in mind this scales with fortified since it is not actually a part of the boss fight).
 
+**Tracker Zo'korss Lockdown:** This mob will root your tank, make sure to use Blessing of Freedom or Dispel to allow him to move away from the lasers.
+
 **Cartel Skulker's Quick Blade:** If someone in your stands in the dash they will be taking a large amount of ticking damage over 10 seconds, use Blessing of Protection immedietly to clear this debuff.
 
 **Market Peacekeeper's Phalanx Field:** Every now and then this mob will cast a defensive stance and reduce the damage it takes by 75%, this can be prevented with Hammer of Justice or Blinding Light.
@@ -95,7 +97,7 @@ There's zero healing requirement on this fight aslong people are good at walking
 
 **Veteran Sparkcaster's Scintillate:** Will cause whoever the debuff goes on take 10% increased Arcane damage taken for 12 seconds (and stacks), make sure to dispel this.
 
-
+**Overloaded Mailemental:** When this mob dies it will leave a purple  that wilbubblel give you 50% haste when you stand inside of it.
 
 
 <div>

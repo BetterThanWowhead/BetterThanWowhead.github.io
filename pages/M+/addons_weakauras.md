@@ -26,6 +26,8 @@ All these Addons and WeakAuras will improve your performance.
 
 ### WeakAuras
 
+[Tazavesh Hylbrande Console](https://wago.io/TazaveshConsole/5)
+
 [Targeted Spells](https://wago.io/BFADungeonTargetedSpells/68)
 
 [Maze Auto Solver](https://wago.io/tE0vD5mpd/3/)
