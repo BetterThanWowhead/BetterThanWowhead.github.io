@@ -17,7 +17,7 @@ your strongest passive trinket since it will provide you with a solid amount of 
 [Elegy of the Eternals](https://ptr.wowhead.com/item=188270/elegy-of-the-eternals?bonus=6805) will be the play instead of So'leah's if you have multiple people playing it while being the same covenant as you.
 
 [Unbound Changeling](https://www.wowhead.com/item=178708/unbound-changeling?bonus=6805:1472)
-will be your second best passive trinket if you don't have Ocular Gland since it will provide you with a large proc of either Haste, Crit or Mastery (depending on your food buff) you should ideally have it set to Haste at all times.
+will be your second best passive trinket as it will provide you with a large proc of either Haste, Crit or Mastery (depending on your food buff) you should ideally have it set to Haste at all times.
 
 [Flask of the Solemn Night](https://www.wowhead.com/item=137484/flask-of-the-solemn-night?bonus=1826:1472) the uptime variance is very high on this trinket and Unbound Changeling is generally always better in a mythic+ situation, but this is definitely a good trinket to farm for when legion Timewalking are available, since this will provide you with quite a few extra Ashen Hallow ticks if you get lucky.
 
