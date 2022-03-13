@@ -38,7 +38,7 @@ If this boss is executed well there will be minimal healing requirement. Keep in
 
 ### So'leah
 
-<a class="external" href="https://www.wowhead.com/spell=353635/collapsing-star target="_blank" rel="noopener noreferrer" data-wowhead="spell=353635" data-wh-icon-size="small"></a> - Need to be soaked 4 times & group-wide damage.
+<a class="external" href="https://www.wowhead.com/spell=353635/collapsing-star" target="_blank" rel="noopener noreferrer" data-wowhead="spell=353635" data-wh-icon-size="small"></a> - Need to be soaked 4 times & group-wide damage.
 
 <a class="external" href="https://www.wowhead.com/spell=351096/energy-fragmentation" target="_blank" rel="noopener noreferrer" data-wowhead="spell=351096" data-wh-icon-size="small"></a> - Dodge.
 
