@@ -62,7 +62,28 @@ It's important that you have a cooldown available for every Fan Mail on this bos
     <img src="/assets/img/dungeons/zogron.png" class="dungeon_boss"/>
 </a>
 
-### Zo'Gron
+### Myza's Oasis
+---
+
+**Disruptive Patron:** 
+
+---
+
+<a class="external" href="https://www.wowhead.com/spell=353783/teleport" target="_blank" rel="noopener noreferrer" data-wowhead="spell=353783" data-wh-icon-size="small"></a> - Use Hammer of Justice or Blinding Light on this to prevent him from teleporting.
+
+**Oasis Security:**
+
+---
+
+<a class="external" href="https://www.wowhead.com/spell=350916/security-slam" target="_blank" rel="noopener noreferrer" data-wowhead="spell=350916" data-wh-icon-size="small"></a> - Large tank hit.
+
+**Zo'gron**
+
+---
+
+<a class="external" href="https://www.wowhead.com/spell=355438/suppression-spark" target="_blank" rel="noopener noreferrer" data-wowhead="spell=355438" data-wh-icon-size="small"></a> - Group-wide damage.
+
+On this boss fight you want to use Avenging Wrath after the first Pentatonic Performance with the damage increase and you will have it backup for when you're going to use Ashen Hallow on the main boss. Keep in mind Zo'gron will do the same tank hit as the Oasis Security does, if he does not have any defensives available for whatever reason use Blessing of Sacrifice to mitigate damage. The Suppression Spark doesn't really require any healing cooldowns but you can use Aura Mastery whenever you see that your group doesn't have any defensives ready.
 
 
 
