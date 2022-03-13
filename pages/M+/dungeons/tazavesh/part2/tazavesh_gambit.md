@@ -24,9 +24,9 @@ There is close to zero healing requirement on this boss fight, only thing you ha
 
 ### Timecap'n Hooktail
 
-<a class="external" href="https://www.wowhead.com/spell=347015/empowered-defense" target="_blank" rel="noopener noreferrer" data-wowhead="spell=347015" data-wh-icon-size="small"></a> - Don't stand behind boss!
+<a class="external" href="https://www.wowhead.com/spell=347151/hook-swipe" target="_blank" rel="noopener noreferrer" data-wowhead="spell=347151" data-wh-icon-size="small"></a> - Don't stand behind boss!
 
-<a class="external" href="https://www.wowhead.com/spell=347015/empowered-defense" target="_blank" rel="noopener noreferrer" data-wowhead="spell=347015" data-wh-icon-size="small"></a> - Breath that will one-shot the adds.
+<a class="external" href="https://www.wowhead.com/spell=347149/infinite-breath" target="_blank" rel="noopener noreferrer" data-wowhead="spell=347149" data-wh-icon-size="small"></a> - Breath that will one-shot the adds.
 
 <a class="external" href="https://www.wowhead.com/spell=350517/double-time" target="_blank" rel="noopener noreferrer" data-wowhead="spell=350517" data-wh-icon-size="small"></a> - This will increase the movement speed and attack speed of all the adds.
 
