@@ -56,7 +56,6 @@ You generally want to have one of your beacons on your tank, but there is situat
 
 ---
 
-Update in near future.
 
 
 <div>
