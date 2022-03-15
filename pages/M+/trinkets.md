@@ -12,7 +12,7 @@ layout: page
 ### Passive
 
 [So'leah's Secret Technique](https://www.wowhead.com/item=185818/soleahs-secret-technique?bonus=6805)
-your strongest passive trinket since it will provide you with a solid amount of secondary stats. You generally want to have it sett to Haste or Versatility.
+your strongest passive trinket since it will provide you with a solid amount of secondary stats. You generally want to have it set to Haste or Versatility.
 
 [Elegy of the Eternals](https://ptr.wowhead.com/item=188270/elegy-of-the-eternals?bonus=6805) will be the play instead of So'leah's if you have multiple people playing it while being the same covenant as you.
 

@@ -52,11 +52,6 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 ---
 You generally want to have one of your beacons on your tank, but there is situations where you could move it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
 
-### Dawn Will Come
-
----
-
-
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">
