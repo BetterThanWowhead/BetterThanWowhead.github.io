@@ -56,6 +56,8 @@ The most important part of this fight is rotating cooldowns on every Collapsing 
 
 **Burly Deckhand's Super Saison:** This will increase the damage he deal by 100%, make sure to stop this with Blinding Light or Hammer of Justice.
 
+**Hourglass Tidesage's Tidal Burst:** Make sure to use Blinding Light or Hammer of Justice and instead use interrupts on Brackish Bolt.
+
 **Adorned Starseer's Wandering Pulsar:** The pulsar will deal a large amount of AoE damage to your group, make sure to have Ashen Hallow + Avenging Wrath available for this.
 
 **Devoted Accomplice's Energy Slash:** This is a stacking debuff that increases the damage taken from the next Energy Slashes by 25%. This needs to be dispelled as much as possible.
