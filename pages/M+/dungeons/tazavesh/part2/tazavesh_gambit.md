@@ -62,6 +62,8 @@ The most important part of this fight is rotating cooldowns on every Collapsing 
 
 **Devoted Accomplice's Energy Slash:** This is a stacking debuff that increases the damage taken from the next Energy Slashes by 25%. This needs to be dispelled as much as possible.
 
+**Focused Ritualist Unstable Rift:** Use Blinding Light or Hammer of Justice on this, it will cause the mobs to not recast it.
+
 
 
 
