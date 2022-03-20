@@ -83,7 +83,7 @@ It's important that you have a cooldown available for every Fan Mail on this bos
 
 <a class="external" href="https://www.wowhead.com/spell=355438/suppression-spark" target="_blank" rel="noopener noreferrer" data-wowhead="spell=355438" data-wh-icon-size="small"></a> - Group-wide damage.
 
-On this boss fight you want to use Avenging Wrath after the first Pentatonic Performance with the damage increase and you will have it backup for when you're going to use Ashen Hallow on the main boss. Keep in mind Zo'gron will do the same tank hit as the Oasis Security does, if he does not have any defensives available for whatever reason use Blessing of Sacrifice to mitigate damage. The Suppression Spark doesn't really require any healing cooldowns but you can use Aura Mastery whenever you see that your group doesn't have any defensives ready.
+On this boss fight you want to use Avenging Wrath after the first Pentatonic Performance with the damage increase and you will have it backup for when you're going to use Ashen Hallow on the main boss. Keep in mind Zo'gron will do the same tank hit as the Oasis Security does, if he does not have any defensives available for whatever reason use Blessing of Sacrifice to mitigate damage. The Suppression Spark doesn't really require any healing cooldowns but you can use Aura Mastery whenever you see that your group doesn't have any defensives ready. You can use Blessing of Protection on one of your melee players to allow them to stay in on the Suppression Spark and dps.
 
 
 
