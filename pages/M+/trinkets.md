@@ -11,10 +11,10 @@ layout: page
 
 ### Passive
 
-[So'leah's Secret Technique](https://www.wowhead.com/item=185818/soleahs-secret-technique?bonus=6805)
-your strongest passive trinket since it will provide you with a solid amount of secondary stats. You generally want to have it set to Haste or Versatility.
+[Elegy of the Eternals](https://ptr.wowhead.com/item=188270/elegy-of-the-eternals?bonus=6805) will be your strongest passive trinket at item level 278. The value of this will increase even more if multiple players with same covenant in your group.
 
-[Elegy of the Eternals](https://ptr.wowhead.com/item=188270/elegy-of-the-eternals?bonus=6805) will be the play instead of So'leah's if you have multiple people playing it while being the same covenant as you.
+[So'leah's Secret Technique](https://www.wowhead.com/item=185818/soleahs-secret-technique?bonus=6805)
+your second strongest passive trinket if you don't have Elegy, since it will provide you with a solid amount of secondary stats. You generally want to have it set to Haste or Versatility.
 
 [Unbound Changeling](https://www.wowhead.com/item=178708/unbound-changeling?bonus=6805:1472)
 will be your second best passive trinket as it will provide you with a large proc of either Haste, Crit or Mastery (depending on your food buff) you should ideally have it set to Haste at all times.
