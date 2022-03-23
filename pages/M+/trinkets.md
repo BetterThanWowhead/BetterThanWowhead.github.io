@@ -11,7 +11,7 @@ layout: page
 
 ### Passive
 
-[Elegy of the Eternals](https://ptr.wowhead.com/item=188270/elegy-of-the-eternals?bonus=6805) will be your strongest passive trinket at item level 278 (assuming you don't have a 272-278 So'leah's). The value of this will increase even more if multiple players with same covenant in your group.
+[Elegy of the Eternals](https://ptr.wowhead.com/item=188270/elegy-of-the-eternals?bonus=6805) will be your strongest passive trinket at item level 278 (assuming you don't have a 272-278 So'leah's). The value of this will increase even more if multiple players with the same covenant in your group.
 
 [Unbound Changeling](https://www.wowhead.com/item=178708/unbound-changeling?bonus=6805:1472)
 will be your second best passive trinket as it will provide you with a large proc of either Haste, Crit or Mastery (depending on your food buff) you should ideally have it set to Haste at all times.
