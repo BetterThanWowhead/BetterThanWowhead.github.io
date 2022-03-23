@@ -21,7 +21,7 @@ Your soulbind setup as Necrolord should look like this: [Plague Deviser Marileth
 <a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> whenever you're about to play Mists of Tirna Scithe because this will reduce the fear effect on first boss by a noticeable amount if your conduit is maxed out. Playing <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> instead of Echoing Blessing for Necrotic Wake and Plaguefall will help you a ton since there is a lot of mobs you have/can use Turn Evil on and this conduit will reduce the cast timer by a large amount.
 
 ---
-**M+ Talents: 3231232** *(Light's Hammer, Judgement of Light, Blinding Light, Unbreakable Spirit, Holy Avenger or Divine Purpose, Awakening, Beacon of Faith).*
+**M+ Talents: 3231232** *(Light's Hammer, Judgement of Light, Blinding Light, Unbreakable Spirit, Divine Purpose or Seraphim, Awakening, Beacon of Faith).*
 
 ### Legendaries
 
