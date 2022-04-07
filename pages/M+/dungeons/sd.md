@@ -61,7 +61,7 @@ If you're a new Holy Paladin you might find yourself having a hard time on this 
 The weapon <a class="external" href="https://www.wowhead.com/item=189754/genesis-lathe?bonus=6805&msclkid=f0a746cda9e411ecbf54a35361f816a8" target="_blank" rel="noopener noreferrer" data-wowhead="item=189754" data-wh-icon-size="small"></a> is actually not completely useless since you can weapon swap during your key. The idea is to equip Genesis Lathe before Kryxis and it will allow you to solo soak one or more Juggernaut Rush depending on key level. If you combine the Genesis Lathe 11-13k absorb, (cast Flash of Light on 90%+ health) then pool holy power for Shield of the Righteous and press your Divine Protection. This will mitigate more than enough damage to solo soak without an immunity. Keep in mind you can weapon swap back to your secondary stat weapon during the encounter aswell.
 
 <a>
-    <img class="center" src="assets/img/5head_maths/juggernaut.png" class="dungeon_boss"/>
+    <img src="assets/img/5head_maths/juggernaut.png" class="dungeon_boss"/>
 </a>
 
 <a>
