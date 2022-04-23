@@ -9,7 +9,7 @@ layout: page
 
 [Resonant Reservoir](https://www.wowhead.com/item=188272/resonant-reservoir) This trinket will provide you with a large amount of AoE damage and will by far be your best in slot. paladins can actually not loot this by themselves and have to be traded it.
 
-[Inscrutable Quantum Device](https://www.wowhead.com/item=179350/inscrutable-quantum-device?bonus=6805:1472) Will be your second best on-use trinket if you do not have Resonant Reservoir. Just imagine its a 4 minute cooldown instead of three.
+[Inscrutable Quantum Device](https://www.wowhead.com/item=179350/inscrutable-quantum-device?bonus=6805:1472) Will be your second best on-use trinket if you do not have Resonant Reservoir. Just make sure to combine it with Avenging Wrath every time.
 
 ### Passive
 
