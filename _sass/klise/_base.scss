@@ -403,6 +403,19 @@ mark,
   img:hover {
     transform: scale(1.2, 1.2);
   }
+  .dungeon-avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    user-select: none;
+    background-color: $dark-black;
+    vertical-align: middle;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -webkit-animation: 1s ease-in forwards fadein;
+    animation: 1s ease-in forwards fadein;
+    opacity: 1;
+  }
 }
 
 .unselected-dungeon {
