@@ -9,7 +9,7 @@
 
 .notransition {
   -webkit-transition: none;
-  -moz-transition: none; 
+  -moz-transition: none;
   -ms-transition: none;
   -o-transition: none;
   transition: none;
@@ -50,10 +50,10 @@ body {
   font: $normal-weight #{$base-font-size}/#{$base-line-height} $sans-family;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
-  -webkit-font-feature-settings: "kern" 1;
-  -moz-font-feature-settings: "kern" 1;
-  -o-font-feature-settings: "kern" 1;
-  font-feature-settings: "kern" 1;
+  -webkit-font-feature-settings: "kern"1;
+  -moz-font-feature-settings: "kern"1;
+  -o-font-feature-settings: "kern"1;
+  font-feature-settings: "kern"1;
   font-kerning: normal;
   box-sizing: border-box;
 }
@@ -123,7 +123,7 @@ figure {
 }
 
 // Image inside Figure tag
-figure > img {
+figure>img {
   display: block;
   position: relative;
 }
@@ -137,10 +137,12 @@ figcaption {
 // List
 ul {
   list-style: none;
+
   li {
     display: list-item;
     text-align: -webkit-match-parent;
   }
+
   li::before {
     content: "\FE63";
     display: inline-block;
@@ -155,9 +157,11 @@ ul {
 ol {
   list-style: none;
   counter-reset: li;
+
   li {
     position: relative;
     counter-increment: li;
+
     &::before {
       content: counter(li);
       display: inline-block;
@@ -186,8 +190,8 @@ li {
     color: $black;
   }
 
-  > ul,
-  > ol {
+  >ul,
+  >ol {
     margin-bottom: 2px;
     margin-top: 0;
   }
@@ -202,8 +206,9 @@ h5,
 h6 {
   color: $black;
   font-weight: $bold-weight;
-  & + ul,
-  & + ol {
+
+  &+ul,
+  &+ol {
     margin-top: 10px;
   }
 
@@ -213,12 +218,12 @@ h6 {
 }
 
 // Headings with link
-h1 > a,
-h2 > a,
-h3 > a,
-h4 > a,
-h5 > a,
-h6 > a {
+h1>a,
+h2>a,
+h3>a,
+h4>a,
+h5>a,
+h6>a {
   text-decoration: none;
   border: none;
 
@@ -377,12 +382,27 @@ mark,
 .unselected {
   color: #c7bebe;
   opacity: 0.4;
-  filter: alpha(opacity=40); /* msie */
+  filter: alpha(opacity=40);
+  /* msie */
   -webkit-filter: grayscale(100%);
-       -moz-filter: grayscale(100%);
-         -o-filter: grayscale(100%);
-        -ms-filter: grayscale(100%);
-            filter: grayscale(100%); 
+  -moz-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.dungeons {
+  margin-top: 3.3rem;
+  margin-bottom: 7.2rem;
+  text-align: center;
+
+  @include media-query($on-mobile) {
+    margin-bottom: 3em;
+  }
+
+  img:hover {
+    transform: scale(1.2, 1.2);
+  }
 }
 
 .unselected-dungeon {
@@ -398,24 +418,16 @@ mark,
   animation: 0.1s ease-in forwards fadein;
   opacity: 1;
   -webkit-filter: grayscale(100%);
-       -moz-filter: grayscale(100%);
-         -o-filter: grayscale(100%);
-        -ms-filter: grayscale(100%);
-            filter: grayscale(100%); 
+  -moz-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  filter: grayscale(100%);
 }
 
 .selected-dungeon {
   width: 70px;
   height: 70px;
   border-radius: 100%;
-  user-select: none;
-  background-color: $dark-black;
-  vertical-align: middle;
-  -ms-user-select: none;
-  -webkit-user-select: none;
-  -webkit-animation: 0.1s ease-in forwards fadein;
-  animation: 0.1s ease-in forwards fadein;
-  opacity: 1;
 }
 
 .talents {
@@ -434,11 +446,11 @@ mark,
 
 
 a.external:after {
-	display: none !important;
+  display: none !important;
 }
 
 a.external {
-	background: none !important;
+  background: none !important;
 }
 
 .affix_icons {
@@ -446,4 +458,4 @@ a.external {
   height: 50px;
   text-align: left;
   margin-bottom: -50em;
-} 
+}

@@ -4,7 +4,7 @@ permalink: /M+/dungeons
 layout: dungeons
 ---
 
-<div class="author">
+<div class="dungeons">
 
 <a href="/M+/dungeons/dos">
     <img class="author-avatar" src="/assets/img/dungeons/dos.jpg" />
