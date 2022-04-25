@@ -3,7 +3,7 @@ title: De Other Side
 permalink: /M+/dungeons/dos
 layout: dungeons
 ---
-<div class="author">
+<div class="dungeons">
 
 <a href="/M+/dungeons/dos">
     <img class="selected-dungeon" src="/assets/img/dungeons/dos.jpg" />

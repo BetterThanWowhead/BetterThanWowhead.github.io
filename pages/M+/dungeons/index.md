@@ -4,42 +4,42 @@ permalink: /M+/dungeons
 layout: dungeons
 ---
 
-<div class="author">
+<div class="dungeons">
 
 <a href="/M+/dungeons/dos">
-    <img class="author-avatar" src="/assets/img/dungeons/dos.jpg" />
+    <img class="dungeon-avatar" src="/assets/img/dungeons/dos.jpg" />
 </a>
 
 <a href="/M+/dungeons/sd">
-    <img class="author-avatar" src="/assets/img/dungeons/sd.jpg" />
+    <img class="dungeon-avatar" src="/assets/img/dungeons/sd.jpg" />
 </a>
 
 <a href="/M+/dungeons/mots">
-    <img class="author-avatar" src="/assets/img/dungeons/mots.jpg" />
+    <img class="dungeon-avatar" src="/assets/img/dungeons/mots.jpg" />
 </a>
 
 <a href="/M+/dungeons/nw">
-    <img class="author-avatar" src="/assets/img/dungeons/nw.jpg" />
+    <img class="dungeon-avatar" src="/assets/img/dungeons/nw.jpg" />
 </a>
 
 <a href="/M+/dungeons/hoa">
-    <img class="author-avatar" src="/assets/img/dungeons/hoa.jpg" />
+    <img class="dungeon-avatar" src="/assets/img/dungeons/hoa.jpg" />
 </a>
 
 <a href="/M+/dungeons/top">
-    <img class="author-avatar" src="/assets/img/dungeons/top.jpg" />
+    <img class="dungeon-avatar" src="/assets/img/dungeons/top.jpg" />
 </a>
 
 <a href="/M+/dungeons/pf">
-    <img class="author-avatar" src="/assets/img/dungeons/pf.jpg" />
+    <img class="dungeon-avatar" src="/assets/img/dungeons/pf.jpg" />
 </a>
 
 <a href="/M+/dungeons/soa">
-    <img class="author-avatar" src="/assets/img/dungeons/soa.jpg" />
+    <img class="dungeon-avatar" src="/assets/img/dungeons/soa.jpg" />
 </a>
 
 <a href="/M+/dungeons/tazavesh">
-    <img class="author-avatar" src="/assets/img/dungeons/taz.jpg" />
+    <img class="dungeon-avatar" src="/assets/img/dungeons/taz.jpg" />
 </a>
 
 </div>
