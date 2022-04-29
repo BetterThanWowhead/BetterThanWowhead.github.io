@@ -16,9 +16,9 @@ A very powerful defensive CD on 2 minutes cooldown. This will also provide you w
 ### Soulbind & Conduits
 
 ---
-Your soulbind setup as Necrolord should look like this: [Plague Deviser Marileth](https://www.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/paladin/Awa-5r4CBS1ECiUtdAoSFTDgCiUwEAoiFStjCiUsqgo) or [Emeni](https://www.wowhead.com/soulbind-calc/necrolord/emeni/paladin/AwaWar4CBS1ECiUtdAoSBTDgCiUwEAoiFStjCiUsqgo) for Explosive/Spiteful weeks. You can change 
+Your soulbind setup as Necrolord should look like this: [Plague Deviser Marileth](https://www.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/paladin/Awa-5r4CBS1ECiUtdAoSFTDgCiUwEAoiFStjCiUsqgo) or [Emeni](https://www.wowhead.com/soulbind-calc/necrolord/emeni/paladin/AwaWar4CBS1ECiUtdAoSBTDgCiUwEAoiFStjCiUsqgo) for Explosive/Spiteful weeks. You should change
 <a href="https://www.wowhead.com/spell=339316/echoing-blessings" data-wowhead="spell=339316"></a> for 
-<a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> whenever you're about to play Mists of Tirna Scithe because this will reduce the fear effect on first boss by a noticeable amount if your conduit is maxed out. Playing <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> instead of Echoing Blessing for Necrotic Wake and Plaguefall will help you a ton since there is a lot of mobs you have/can use Turn Evil on and this conduit will reduce the cast timer by a large amount.
+<a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> whenever you're about to play Mists of Tirna Scithe since this will reduce the fear effect on the first boss by a noticeable amount. Playing <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> instead of Echoing Blessing for Necrotic Wake, Theater of Pain and Plaguefall will help you a ton since there is a lot of mobs you have/can use Turn Evil on and this conduit will reduce the cast timer by a large amount.
 
 ---
 **M+ Talents: 3231232** *(Light's Hammer, Judgement of Light, Blinding Light, Unbreakable Spirit, Divine Purpose or Seraphim, Awakening, Beacon of Faith).*

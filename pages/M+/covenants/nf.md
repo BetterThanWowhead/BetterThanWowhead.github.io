@@ -6,7 +6,7 @@ layout: covenants
 ### <a href="https://www.wowhead.com/spell=328278/blessing-of-the-seasons" data-wowhead="spell=328278"></a>
 
 ---
-While you're playing this you'll feel that these buffs are mostly very undertuned and you will notice the lack of healing throughput outside of Avenging Wrath. That being said there is currently a bug that makes Blessing of Summer have a 80% chance to do 60% extra damage instead of 40% chance which makes it an incredibly strong damage cooldown on 3 minutes. 
+While you're playing this you'll feel that these buffs are mostly very undertuned and you will notice the lack of healing throughput. That being said there is currently a bug that makes Blessing of Summer have a 80% chance to do 60% extra damage instead of 40% chance which makes it an incredibly strong damage cooldown on 3 minutes. 
 
 You will not see any play of Night Fae in higher than the average keys for the reasons mentioned above but it could potentially be good with a very specific comp in a MDI situation or for damage log runs for fun.
 
@@ -25,9 +25,9 @@ Here you can see the best targets to use [Blessing of Summer](https://docs.googl
 ### Soulbind & Conduits
 
 ---
-Your soulbind setup as Night Fae should look like this: [Korayn](https://www.wowhead.com/soulbind-calc/night-fae/korayn/paladin/AwaW6r4CBS1ECiUtdAoSBTDZCiUwEAoiFStjCiUsqgo). If you would ever decide to play this in keys you can change 
+Your soulbind setup as Night Fae should look like this: [Korayn](https://www.wowhead.com/soulbind-calc/night-fae/korayn/paladin/AwaW6r4CBS1ECiUtdAoSBTDZCiUwEAoiFStjCiUsqgo). If you would ever decide to play this in keys you should change
 <a href="https://www.wowhead.com/spell=339316/echoing-blessings" data-wowhead="spell=339316"></a> for 
-<a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> whenever you're about to play Mists of Tirna Scithe because this will reduce the fear effect on first boss by a noticeable amount if your conduit is maxed out. Playing <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> instead of Echoing Blessing for Necrotic Wake and Plaguefall will help you a ton since there is a lot of mobs you have/can use Turn Evil on and this conduit will reduce the cast timer by a large amount.
+<a href="https://www.wowhead.com/spell=339124/pure-concentration" data-wowhead="spell=339124"></a> whenever you're about to play Mists of Tirna Scithe since this will reduce the fear effect on the first boss by a noticeable amount. Playing <a href="https://www.wowhead.com/spell=339292/wrench-evil" data-wowhead="spell=339292"></a> instead of Echoing Blessing for Necrotic Wake, Theater of Pain and Plaguefall will help you a ton since there is a lot of mobs you have/can use Turn Evil on and this conduit will reduce the cast timer by a large amount.
 
 ---
 **M+ Talents: 1231232** *(Crusader's Might, Judgement of Light, Blinding Light, Unbreakable Spirit, Holy Avenger, Awakening, Beacon of Faith).*
