@@ -6,7 +6,7 @@ layout: covenants
 ### <a href="https://www.wowhead.com/spell=328204/vanquishers-hammer" data-wowhead="spell=328204"></a>
 
 ---
-This is a very flexible and strong priority target damage ability, this should generally be used to force proc Avenging Wrath to make AoE healing situations easier to deal with or if there is no healing required for the next 30 seconds then use it on cooldown.
+A very flexible and powerful ability on a short cooldown, you should generally play very aggresively with this and use it as much as possible. If there's any kind of damage going out within the next 30 seconds you can delay one charge to make AoE healing situations easier to deal with.
 
 ### <a href="https://www.wowhead.com/spell=324631/fleshcraft" data-wowhead="spell=324631"></a>
 
