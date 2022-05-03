@@ -12,11 +12,11 @@ Paladins biggest strength is our ability to do huge amounts of priority target d
 
 ### Healing within cooldowns
 
-The healing we can do within CDs, which will allow your group to pull more aggressively than they could with other healers.
+The healing we can do within our cooldowns, which will allow your group to pull more aggressively than they could with other healers.
 
 ### Damage Reduction
 
-Devotion Aura is a 3% passive DR and 15% on use, which is one of the strongest healer cooldowns in the game.
+Devotion Aura is a 3% passive DR and 15% on a 3 minute cooldown, which is one of the strongest healer cooldowns in the game.
 
 ### Utility
 

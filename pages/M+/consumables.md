@@ -4,23 +4,29 @@ permalink: /M+/consumables
 layout: page
 ---
 
-<a href="https://www.wowhead.com/item=171276/spectral-flask-of-power" data-wh-icon-size="medium" data-wowhead="item=171276"></a>.
+[Spectral Flask of Power](https://www.wowhead.com/item=171276/spectral-flask-of-power).
 
-<a href="https://www.wowhead.com/item=172043/feast-of-gluttonous-hedonism" data-wh-icon-size="medium" data-wowhead="item=172043"></a>
+[Feast of Gluttonous Hedonism](https://www.wowhead.com/item=172043/feast-of-gluttonous-hedonism)
 or
-<a href="https://www.wowhead.com/spell=308405/tenebrous-crown-roast-aspic" data-wh-icon-size="medium" data-wowhead="item=308405"></a>
+[Tenebrous Crown Roast Aspic](https://www.wowhead.com/spell=308405/tenebrous-crown-roast-aspic)
 if you don't want to spend gold on a feast.
 
-<a href="https://www.wowhead.com/item=171273/potion-of-spectral-intellect" data-wh-icon-size="medium" data-wowhead="item=171273"></a> is your damage potion or if you're kyrian then use
-<a href="https://www.wowhead.com/item=171349/potion-of-phantom-fire" data-wh-icon-size="medium" data-wowhead="item=171349"></a> for single target.
+[Potion of Spectral Intellect](https://www.wowhead.com/item=171273/potion-of-spectral-intellect)
+will be your pre-pot or if you're kyrian then use
+[Potion of Phantom Fire](https://www.wowhead.com/item=171349/potion-of-phantom-fire)
+for single target.
 
-<a href="https://www.wowhead.com/item=171268/spiritual-mana-potion" data-wh-icon-size="medium" data-wowhead="item=171268"></a>. Keep in mind this shares cooldown with invisibility potion.
+[Spiritual Mana Potion](https://www.wowhead.com/item=171268/spiritual-mana-potion)
+Keep in mind this shares cooldown with invisibility potion.
 
-<a href="https://ptr.wowhead.com/item=187802/cosmic-healing-potion" data-wh-icon-size="medium" data-wowhead="item=187802"></a> will restore 20k of your health on a 5 minute cooldown, (does not share the same cooldown with any other potion).
+[Cosmic Healing Potion](https://ptr.wowhead.com/item=187802/cosmic-healing-potion)
+restores 20k of your health on a 5 minute cooldown and should be used as frequently as possible. (Does not share the same cooldown with any other potion).
 
-<a href="https://www.wowhead.com/item=171266/potion-of-the-hidden-spirit" data-wh-icon-size="medium" data-wowhead="item=171266"></a> is your invisibility potion.
+[Potion of the Hidden Spirit](https://www.wowhead.com/item=171266/potion-of-the-hidden-spirit)
+will allow you to invis and skip mobs.
 
-<a href="https://www.wowhead.com/item=176811/potion-of-sacrificial-anima" data-wh-icon-size="medium" data-wowhead="item=176811"></a> is a good option if you are for some reason playing Avenging Crusader.
+[Potion of Sacrificial Anima](https://www.wowhead.com/item=176811/potion-of-sacrificial-anima)
+is a good option if you are for some reason playing Avenging Crusader.
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">

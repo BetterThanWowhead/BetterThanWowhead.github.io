@@ -36,7 +36,7 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 3. Use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a> on cooldown.
 4. Use <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> for holy power generation.
 5. Throw <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> on cooldown.
-6. Spend holy power on <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> assuming <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> are active otherwise fish for <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a>.
+6. Spend holy power on <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> assuming <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> is active otherwise cast <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to reset cooldown of <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a>.
 
 ### Single Target Damage Priorities
 
@@ -45,12 +45,12 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 2. Throw <a href="https://www.wowhead.com/spell=20271/judgment" data-wowhead="spell=20271"></a> if inside <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> otherwise use <a href="https://www.wowhead.com/spell=20473/holy-shock" data-wowhead="spell=20473"></a>.
 3. Drop <a href="https://www.wowhead.com/spell=26573/consecration" data-wowhead="spell=26573"></a> if not already active.
 4. Use <a href="https://www.wowhead.com/spell=293895/crusader-strike" data-wowhead="spell=293895"></a> for holy power generation.
-5. Spend holy power on <a href="https://www.wowhead.com/spell=53600/shield-of-the-righteous" data-wowhead="spell=53600"></a> or if <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a> are not active then fish for <a href="https://www.wowhead.com/spell=248033/awakening" data-wowhead="spell=248033"></a> procs.
+5. Spend holy power on <a href="https://www.wowhead.com/spell=85222/light-of-dawn" data-wowhead="spell=85222"></a> to reset cooldown of <a href="https://www.wowhead.com/spell=66011/avenging-wrath" data-wowhead="spell=66011"></a>.
 
 ### Beacons
 
 ---
-You generally want to have one of your beacons on your tank, but there is situations where you could move it to another player to make AoE healing easier to deal with (assuming there is not a lot of tank damage taken during that encounter).
+You always want to keep one of your beacons on a range dps since they will automaticly get less healing than yourself or any other melee in your group with the tir set. There's situations where you can move your second beacon away from your tank to make AoE healing situations easier to deal with. For example P.O.S.T Master in Tazavesh Streets or Globgrog in Plaguefall.
 
 
 <div>

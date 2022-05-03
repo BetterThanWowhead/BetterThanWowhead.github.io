@@ -124,7 +124,7 @@ Make sure that you are not holding your Avenging Wrath/Ashen Hallow for zero rea
 
 ### Mechanics:
 
-Deconstruct is the most dangerous mechanic on this mob, it will do a massive additional hit on the tank and afterwards apply a 5 seconds debuff that causes tank to take 25% increased damage.
+Deconstruct is the most dangerous mechanic on this mob, it will apply a 5 seconds debuff that causes tank to take 25% increased damage. Keep in mind that you can taunt + Shield of the Righteous before he does the Deconstruct to mitigate a ton of tank damage.
 
 Vy:
 

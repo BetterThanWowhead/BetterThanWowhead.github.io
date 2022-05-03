@@ -55,7 +55,7 @@ layout: dungeons
 
 <a class="external" href="https://www.wowhead.com/spell=322746/corrupted-blood" target="_blank" rel="noopener noreferrer" data-wowhead="spell=322746" data-wh-icon-size="small"></a> - Semi hard hitting debuff that last 12 seconds.
 
-You generally want to have Aura mastery on the first barrier to get one more usage later in the fight, also can use short defensives like Divine Protection and have it back up for third, sixth and so on. Divine Shield + Blessing of Sacrifice can be used if your group falls behind on killing the adds and a Blood Barrier is about to happen. You can also use Hammer of Justice on them and Blessing of Protection the fixate to mitigate damage.
+You generally want to have Aura mastery on the first barrier to get one more usage later in the fight, also can use short defensives like Divine Protection and have it back up for third, sixth and so on. Divine Shield + Blessing of Sacrifice can be used if your group falls behind on killing the adds and a Blood Barrier is about to happen. You should be using Hammer of Justice on them frequently and keep in mind you can use Blessing of Protection on the fixates aswell.
 
 <a>
     <img src="/assets/img/dungeons/dealer.png" class="dungeon_boss"/> 

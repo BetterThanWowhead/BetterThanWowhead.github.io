@@ -6,12 +6,12 @@ layout: covenants
 ### <a href="https://www.wowhead.com/spell=316958/ashen-hallow" data-wowhead="spell=316958"></a>
 
 ---
-A very powerful healing and damage cooldown that will allow your group to do pulls they would not been able to do with other healers. Keep in mind this might be hard to get value out of in pug groups because you will be forced to pull very aggressively around this whenever it's available.
+A very powerful healing and damage cooldown that will allow your group to do pulls they would not be able to do with other healers. Keep in mind this might be hard to get value out of in pug groups since you will be forced to pull very aggressively around this whenever it's available.
 
 ### Soulbind & Conduits
 
 ---
-Your go to soulbind should be Theotar since it will provide with the highest damage output for your entire grp because Wasteland Propriety also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
+Your go to soulbind should be Theotar since it will provide with the highest damage output for your entire grp because of Wasteland Propriety also it gives you 3% tea that will either give you Intellect, Haste, Vers or crit.
 
 Your setup should look like this: [Theotar Soulbind](https://www.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/paladin/Awa-774CBS1ECBUtdAgSBTD0CCUwEAgiFStjCDUsqgg). You should change 
 <a href="https://www.wowhead.com/spell=339316/echoing-blessings" data-wowhead="spell=339316"></a> for 
