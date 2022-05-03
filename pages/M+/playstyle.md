@@ -50,7 +50,7 @@ Check out how to play around with these cooldowns in [Dungeons](/M+/dungeons).
 ### Beacons
 
 ---
-You always want to keep one of your beacons on a range dps since they will automaticly get less healing than yourself or any other melee in your group with the tir set. There's situations where you can move your second beacon away from your tank to make AoE healing situations easier to deal with. For example P.O.S.T Master in Tazavesh Streets or Globgrog in Plaguefall.
+You always want to keep one of your beacons on a range dps since they will automaticly get less healing than yourself or any other melee in your group with the tier set. There's situations where you can move your second beacon away from your tank to make AoE healing situations easier to deal with. For example P.O.S.T Master in Tazavesh Streets or Globgrog in Plaguefall.
 
 
 <div>
