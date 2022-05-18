@@ -35,7 +35,7 @@ The only thing to do on this boss is dodging.
 ---
 <a class="external" href="https://www.wowhead.com/spell=349954/purification-protocol" target="_blank" rel="noopener noreferrer" data-wowhead="spell=349954" data-wh-icon-size="small"></a> - Dispel.
 
-<a class="external" href="https://www.wowhead.com/spell=345770/impound-contraband" target="_blank" rel="noopener noreferrer" data-wowhead="spell=345770" data-wh-icon-size="small"></a> - Walk into blue orbs on the ground. (Transfer it to someone that has cooldowns coming back up).
+<a class="external" href="https://www.wowhead.com/spell=349627/gluttony" target="_blank" rel="noopener noreferrer" data-wowhead="spell=349627" data-wh-icon-size="small"></a> - Walk into blue orbs on the ground. (Transfer it to someone that has cooldowns coming back up).
 
 Only things to be aware of on this boss is dispelling your squishiest target on the Purification and if you get targeted by Gluttonous Feast walk into the blue orbs as it will provide you with 5% damage increase (stacking up to 20 times). Make sure to pool holy power on this for Awakening procs to maximize the damage you deal within the damage buff.
 
