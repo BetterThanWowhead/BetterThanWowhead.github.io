@@ -5,5 +5,4 @@ _site/
 _drafts
 klise-*.gem
 Gemfile.lock
-.devcontainer
 .vscode
