@@ -1,6 +1,6 @@
 ---
 title: WeakAuras and Addons
-permalink: /M+/weakauras
+permalink: 
 layout: page
 ---
 
@@ -11,8 +11,6 @@ All these Addons and WeakAuras will improve your performance.
 [WeakAuras](https://www.curseforge.com/wow/addons/weakauras-2)
 
 [Mythic Dungeon Tools](https://www.curseforge.com/wow/addons/mythic-dungeon-tools)
-
-[Maze Helper](https://www.curseforge.com/wow/addons/maze-helper-mists-of-tirna-scithe)
 
 [OmniCD](https://www.curseforge.com/wow/addons/search?category=&search=OmniCD)
 
@@ -26,13 +24,7 @@ All these Addons and WeakAuras will improve your performance.
 
 ### WeakAuras
 
-[Tazavesh Hylbrande Console](https://wago.io/TazaveshConsole/5)
-
 [Targeted Spells](https://wago.io/BFADungeonTargetedSpells/68)
-
-[Maze Auto Solver](https://wago.io/tE0vD5mpd/3/)
-
-[Phial of Serenity Reminder ](https://wago.io/KQsMfbEoA)
 
 ### Macros
 

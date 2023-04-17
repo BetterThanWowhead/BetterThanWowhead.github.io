@@ -1,8 +1,8 @@
 ---
 title: Raid
-permalink: /Raid/
+permalink: 
 layout: page
 comments: false
 ---
 
-<h1>Coming soon! &#128679;</h1>
+<h1> Comming Soon! &#128679;</h1>

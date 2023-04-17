@@ -1,16 +1,14 @@
 ---
 title: Gearing
-permalink: /M+/gearing
+permalink: 
 layout: page
 ---
 
 ### **Stat priority**
 
-You should always prioritizing Intellect during first few tiers of an expansion.That being said, this might change later onto the expansion.
+You should always prioritizing Intellect during first few tiers of an expansion.This might change later onto the expansion.
 
 Intellect > Haste > Versatility > Crit > Mastery. 
-
-If you are playing Kyrian Crit value will be increased.
 
 ### Haste
 
@@ -26,7 +24,7 @@ Since we rarely use Infusion of Light procs, Critical Strike loses a lot of valu
 
 ### Mastery
 
-Mastery is still a decent choice for raw healing. But it has no effect on our damage, the healing it contributes is also dependent on composition and positioning.
+Mastery is a good choice for raw healing. But it has no effect on our damage, the healing it contributes is also dependent on composition and positioning.
 
 ### Secondary Stat Diminishing Returns
 
@@ -34,36 +32,32 @@ In Shadowlands, now all secondary stats have multiple rating thresholds that red
 
 ### Enchant and Gems
 
-Ring:
-[Tenet of Haste](https://www.wowhead.com/spell=309617/tenet-of-haste) or [Tenet of Versatility](https://www.wowhead.com/spell=309619/tenet-of-versatility) depending on your gear.
+Cloak: 
+[Graceful Avoidance]() or [Regenerative Leech]() you should enchant Regenerative Leech until you reach the point when Avoidance can prevent a one shot.
 
 Chest:
-[Eternal Stats](https://www.wowhead.com/spell=324773/eternal-stats).
-
-Weapon: 
-[Celestial Guidance](https://www.wowhead.com/spell=309627/celestial-guidance).
+[Waking Stats](https://www.wowhead.com/spell=389410/waking-stats).
 
 Bracers: 
-[Eternal intellect](https://www.wowhead.com/spell=309609/eternal-intellect).
+[Devotion of Avoidance](https://www.wowhead.com/spell=389301/devotion-of-avoidance) or [Devotion of Leech](https://www.wowhead.com/spell=389303/devotion-of-leech) you should enchant Devotion of Leech until you reach the point when Avoidance can prevent a one shot.
 
-Cloak: 
-[Fortified Avoidance](https://www.wowhead.com/spell=309530/fortified-avoidance) or [Fortified Leech](https://www.wowhead.com/spell=309531/fortified-leech) you should enchant Fortified Leech until you reach the point when Avoidance can prevent a one shot.
+Weapon: 
+[Placeholder]()
+
+Ring:
+[Devotion of Haste](https://www.wowhead.com/beta/spell=389293/devotion-of-haste) or [Devotion of Versatility](https://www.wowhead.com/spell=389295/devotion-of-versatility) depending on your gear.
 
 Boots: 
-[Soul Treads](https://www.wowhead.com/spell=323609/soul-treads) is useful for Dealer Xy'exa in De other Side.
+[Watcher's Loam](https://www.wowhead.com/spell=389484/watchers-loam).
 
+Legs:
+[Frozen Spellthread](https://www.wowhead.com/beta/item=194013/frozen-spellthread).
 
-Weapon Oil: 
-[Shadowcore Oil](https://www.wowhead.com/item=171285/shadowcore-oil).
-
-Armor Kit: 
-[Heavy Desolate Armor Kit](https://www.wowhead.com/item=172347/heavy-desolate-armor-kit).
+Weapon Runes: 
+[Howling Rune](https://www.wowhead.com/item=194817/howling-rune) haste should be the default. It might or will change depending on your gear.
 
 Gems: 
-[Quick Jewel Cluster](https://www.wowhead.com/item=173128/quick-jewel-cluster) or [Versatile Jewel Cluster](https://www.wowhead.com/item=173129/versatile-jewel-cluster) depending on your gear.
-
-Speed Gem: 
-[Straddling Sage Agate](https://www.wowhead.com/item=169220/straddling-sage-agate) there is absolutely zero reason to not wear one of these gems, this will potentially provide you with more damage than a 16 stat secondary gem, but also give you more time to move out of mechanics while focusing on other things on your screen, if you're not using one of these you are hard trolling.
+[Quick Ysemerald](https://www.wowhead.com/item=192955/quick-ysemerald) or [Stormy Malygite](https://www.wowhead.com/item=192942/stormy-malygite) depending on your gear.
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">

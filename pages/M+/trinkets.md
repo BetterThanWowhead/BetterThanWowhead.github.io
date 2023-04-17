@@ -1,24 +1,23 @@
 ---
 title: Trinkets
-permalink: /M+/trinkets
+permalink: 
 layout: page
 ---
 
 
 ### On use
 
-[Resonant Reservoir](https://www.wowhead.com/item=188272/resonant-reservoir) This trinket will provide you with a large amount of AoE damage and will by far be your best in slot. Paladins can actually not loot this by themselves and have to be traded it.
+[Placeholder](Placeholder)
 
-[Inscrutable Quantum Device](https://www.wowhead.com/item=179350/inscrutable-quantum-device?bonus=6805:1472) Will be your second best on-use trinket if you do not have Resonant Reservoir. Just make sure to combine it with Avenging Wrath every time.
+[Placeholder](Placeholder)
 
 ### Passive
 
-[Elegy of the Eternals](https://ptr.wowhead.com/item=188270/elegy-of-the-eternals?bonus=6805) will be your strongest passive trinket at item level 278. The value of this will increase even more if multiple players with the same covenant in your group.
+[Placeholder](Placeholder)
 
-[Unbound Changeling](https://www.wowhead.com/item=178708/unbound-changeling?bonus=6805:1472)
-will be your second best passive trinket as it will provide you with a large proc of either Haste, Crit or Mastery (depending on your food buff) you should ideally have it set to Haste at all times.
+[Placeholder](Placeholder)
 
-[So'leah's Secret Technique](https://www.wowhead.com/item=185818/soleahs-secret-technique?bonus=6805) play this if you don't have Elegy at 278 item level. It will provide you with a solid amount of secondary stats. You generally want to have it set to Haste or Versatility.
+[Placeholder](Placeholder)
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">

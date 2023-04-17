@@ -1,6 +1,6 @@
 ---
 title: Mythic+ Affixes
-permalink: /M+/affixes
+permalink: 
 layout: page
 ---
 Before we get into cooldown management in dungeons, let's talk about all the different affixes and how to properly deal with them/what you can do to make your life easier.
@@ -8,11 +8,6 @@ Before we get into cooldown management in dungeons, let's talk about all the dif
 <a>
     <img src="/assets/img/Affixes/Necrotic.jpg" class="affix_icons"/>
 </a>
-
-### Necrotic
----
-
-One of the worse affixes for Holy Paladins to deal with since we're lacking druid utility. That being said, we still have a few tools to counter this affix with, Blessing of Protection clears all Necrotic stacks but causes the tank to lose all threat which means the tank needs to have a cancelaura macro to remove the Blessing of Protection effect as quick as possible. There is also quite a few bosses you can Divine Shield taunt to allow your tank to reset stacks, for example first boss Theater of Pain there is two casters and Dessia which is the boss that makes the tank have a hard time to reset stacks, so what you want to do is taunting Dessia and completely ignore interrupting both casters (except for Searing Death cast) this should give your tank enough time to reset his stacks.
 
 <a>
     <img src="/assets/img/Affixes/Bolstering.jpg" class="affix_icons"/>
@@ -30,16 +25,11 @@ If you are Venthyr your priority damage will make a noticeable difference so it'
 ### Grievous
 --- 
 
-This is a very unfun and bad affix for any healer in general to deal with since it will greatly decrease the damage you do. However to make this as easy as possible you want to focus healing one player at a time (generally the one with most stacks and get him above 90% health) first rather than to try heal multiple peoples at same time. Keep in mind if you are Kyrian Phial of Serenity clears this and so does Blessing of Protection. One more thing you have to be aware of is that, not every healing source clears a Grievous stack, *Holy Shock, Holy Light, Flash of Light, Light of the Martyr, Word of Glory, Lay on Hands, Bestow Faith and lastly Holy Prism if you use it on a (friendly player)* is the only abilities we have that clears it.
+This is a very unfun and bad affix for any healer in general to deal with since it will greatly decrease the damage you do. However to make this as easy as possible you want to focus healing one player at a time (generally the one with most stacks and get him above 90% health) first rather than to try heal multiple peoples at same time. Blessing of Protection clears Grievous. One more thing you have to be aware of is that, not every healing source clears a Grievous stack, *Holy Shock, Holy Light, Flash of Light, Light of the Martyr, Word of Glory, Lay on Hands, Bestow Faith and lastly Holy Prism if you use it on a (friendly player)* is the only abilities we have that clears it.
 
 <a>
     <img src="/assets/img/Affixes/Inspiring.jpg" class="affix_icons"/>
 </a>
-
-### Inspiring
----
-
-Only advice i have for this affix is playing Blood Elf since dungeons like Mists of Tirna Scithe has an incredibly tight timer on a higher key level and you don't have time to CC any inspiring in the maze, Arcane Torrent will remove the Mistveil Tender's Nourish the Forest debuff and prevent them from healing themselves to full health.
 
 <a>
     <img src="/assets/img/Affixes/Bursting.jpg" class="affix_icons"/>
@@ -57,7 +47,7 @@ This affix can be very rough for Holy Paladins to deal especially in pug groups,
 ### Raging
 ---
 
-There is a few mobs that becomes incredibly dangerous on raging especially since you are not able to soothe every single one of them instantly, i suggest you to hold Hammer of Justice and Blinding Light for Raging at (30% health) to mitigate as much damage taken as possible.
+There is a few mobs that becomes incredibly dangerous on raging especially since you are not able to soothe every single one of them instantly, I suggest you to hold Hammer of Justice and Blinding Light for Raging at (30% health) to mitigate as much damage taken as possible.
 
 <a>
     <img src="/assets/img/Affixes/Spiteful.jpg" class="affix_icons"/>
@@ -75,7 +65,7 @@ A terrible affix design and very bad for melees in general, you can use Hammer o
 ### Sanguine
 ---
 
-Sanguine can be a bit tricky for your tank, so whenever you are not inside cooldowns you can taunt mobs with low health out from rest of the pull to make it easier for your tank to deal with. This will also potentially increasing your groups damage since he don't have to move all the other mobs out from ground effects such as Blizzard, Earthquake etc.
+Sanguine can be a bit tricky for your tank, what you can do to help is that you can taunt mobs with low health out from rest of the pull to make it easier for your tank to deal with. This will also potentially increasing your groups damage since he don't have to move all the other mobs out from ground effects such as Blizzard, Earthquake or Rain of Fire etc.
 
 <a>
     <img src="/assets/img/Affixes/Explosive.jpg" class="affix_icons"/>
@@ -84,7 +74,7 @@ Sanguine can be a bit tricky for your tank, so whenever you are not inside coold
 ### Explosive
 ---
 
-On Explosive weeks I recommend you to use a mouseover melee hit macro also play Holy Prism talent to maximize the amount of Explosives you can do alone.
+On Explosive weeks I recommend you to use a mouseover melee hit macro to be able to do multiple Explosives in one global.
 
 <a>
     <img src="/assets/img/Affixes/Storming.jpg" class="affix_icons"/>
@@ -93,7 +83,7 @@ On Explosive weeks I recommend you to use a mouseover melee hit macro also play 
 ### Storming
 ---
 
-Another awful affix for the melee players, it's important on Lord Chamberlain (last boss Halls of Atonement) that whenever you don't soak the Ritual of Woe, you run into all the Storming to clear them. So the soaking players don't get hit by them and cause a deplete.
+Another awful affix for the melee players, I highly recommend you to actually soak a few Stormings now and then to help your tank out as much as possible, there's situations where it can be lethal for your tank to get hit by a Storming.
 
 <a>
     <img src="/assets/img/Affixes/Quaking.jpg" class="affix_icons"/>
@@ -111,32 +101,11 @@ A very easy affix to deal with, just make sure to not clip the tank or any other
 ### Volcanic
 ---
 
-Volcanic can’t spawn in melee which makes it a completely irrelevant affix.
+Volcanic can’t spawn in melee which makes it a completely irrelevant affix (assuming you have any range dps in your group).
 
-### Encrypted
----
+### Thundering
 
-Urh:
 
----
-
-Make sure that you are not holding your Avenging Wrath/Ashen Hallow for zero reason since killing this relic first, will provide you with 200% increased cooldown rate but also 10% health and mana every one second for ten seconds. This is the strongest buff out of them all for Holy Paladins.
-
-### Mechanics:
-
-Deconstruct is the most dangerous mechanic on this mob, it will apply a 5 seconds debuff that causes tank to take 25% increased damage. Keep in mind that you can taunt + Shield of the Righteous before he does the Deconstruct to mitigate a ton of tank damage.
-
-Vy:
-
----
-
-Killing Vy first will provide you with 15% haste and a underwhelming damage buff, this will be your second best pick.
-
-Wo:
-
----
-
-This should generally only be killed by your group if you're about to skip a huge amount of trash area or are about to travel for a while in De Other Side since it'll provide you with 150% movement speed increase and out of combat invisibility for one minute.
 
 <div>
 <div style="text-align:left;display: inline-block;width: 49%;">

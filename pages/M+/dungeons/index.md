@@ -1,6 +1,6 @@
 ---
 title: Click a dungeon icon
-permalink: /M+/dungeons
+permalink: 
 layout: dungeons
 ---
 

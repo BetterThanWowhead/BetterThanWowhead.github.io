@@ -1,6 +1,6 @@
 ---
 title: Cooldowns
-permalink: /M+/cooldowns
+permalink: 
 layout: page
 ---
 
